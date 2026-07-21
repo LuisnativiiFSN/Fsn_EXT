@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="FSN_Replenishment.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1714335124 - Field 421634154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active From Date</source>
+          <target>Activo desde fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Active From Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 1231116701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active To Date</source>
+          <target>Activo hasta fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Active To Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 214655182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Definition Exception</source>
+          <target>Definición Excepción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Definition Exception - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Nº producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <target>Cód. almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 356618588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Laboratory</source>
+          <target>Laboratorio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field LSC Attrib 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 2802051449 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manual Reorder Point</source>
+          <target>Punto Reorden Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Manual Reorder Point - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 2723266554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max Manual Stock</source>
+          <target>Stock Maximo Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Max Manual Stock - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 51463044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Multiple</source>
+          <target>Multiple</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Multiple - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 1660815199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purch. Unit of Measure</source>
+          <target>Unidad medida compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Purch. Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 1025283327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Range Lim. Max Stock</source>
+          <target>Rango Lim. Stock Máximo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Range Lim. Max Stock - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 1482944864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Range Lim. Point Reorder</source>
+          <target>Rango Lim. Punto Reorden</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Range Lim. Point Reorder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 1858293022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reorder time Max. Man (Days)</source>
+          <target>Tiempo reord. Max. Manual (Días)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Reorder time Max. Man (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 2198352256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reorder time Min. Man (Days)</source>
+          <target>Tiempo reord. Min. Manual (Días)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Reorder time Min. Man (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 2226708384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Reorder Lim. (Days)</source>
+          <target>Tiempo Reorden Lim. (Días)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Time Reorder Lim. (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 1463506625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type Control</source>
+          <target>Tipo Control</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Type Control - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 1463506625 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sin Establecer,Limitado dentro del Rago Minimo,Asignacion en cantidad directamente,Tiempo Reaprov. manual Minimo y Maximo (Dias),Aproximado a multiplo mas cercano,Aproximado a multiplo mayor,Apx. a multiplo con tiempo reorden limitado (Dias),Tiempo reorden limitado (Dias),No reducir niveles de stock solo aumentar,No reducir stock niveles Punto reorden limitado,No incluir en analisis Reaprov.,Mix Laboratorio Tiempo reorden+excepcion prod/lab.,Obsequio(Venta.Venta+Obsequio.MaxVeces[multiplo],,DisminucionRiesgo,ABC</source>
+          <target>Sin Establecer,Limitado dentro del Rago Minimo,Asignacion en cantidad directamente,Tiempo Reaprov. manual Minimo y Maximo (Dias),Aproximado a multiplo mas cercano,Aproximado a multiplo mayor,Apx. a multiplo con tiempo reorden limitado (Dias),Tiempo reorden limitado (Dias),No reducir niveles de stock solo aumentar,No reducir stock niveles Punto reorden limitado,No incluir en analisis Reaprov.,Mix Laboratorio Tiempo reorden+excepcion prod/lab.,Obsequio(Venta.Venta+Obsequio.MaxVeces[multiplo],,DisminucionRiesgo,ABC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Type Control - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 1112832913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type Exception</source>
+          <target>Tipo Excepcion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Type Exception - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 1112832913 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>By Item,By Laboratory</source>
+          <target>Por Producto,Por Laboratorio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Type Exception - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1714335124 - Field 731978591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Priority Laboratory</source>
+          <target>Usar Prioridad Laboratorio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Purchase Excepcion - Field Use Priority Attrib 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 180817772 - NamedType 1310296204" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 cant be empty</source>
+          <target>%1 No puedo estar vacía</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Jrnl. Add - NamedType Txt000</note>
+        </trans-unit>
+        <trans-unit id="Table 180817772 - Field 995090288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <target>Filtro fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Jrnl. Add - Field Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 180817772 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Jrnl. Add - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 180817772 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Nº producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Jrnl. Add - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 180817772 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <target>Cód. almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Jrnl. Add - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 180817772 - Field 904352693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message Error</source>
+          <target>Message Error</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Jrnl. Add - Field Message Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 180817772 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Cantidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Jrnl. Add - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 180817772 - Field 3863012477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replen. Template Code</source>
+          <target>Replen. Template Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Jrnl. Add - Field Replen. Template Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 2989135064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attrib 1 Code</source>
+          <target>Cód. Attributo 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Attrib 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 993765549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode No.</source>
+          <target>Barra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Barcode No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 3730438861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch No.</source>
+          <target>Batch No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Batch No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 4187992892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Unit Cost</source>
+          <target>Costo unit. directo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Direct Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Nº producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Nº línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 3176681711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purc. Unit of Measure</source>
+          <target>Unidad medida compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Purc. Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 806193894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. per Unit of Measure</source>
+          <target>Cant. por unidad medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Qty. per Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 23301343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replenishment Template Code</source>
+          <target>Cód. Plantilla reaprov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Replenishment Template Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 3119688693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <target>Nombre proveedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Vendor Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1804496218 - Field 1527594213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <target>Nº proveedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Replen. Template Matrix - Field Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3223890144 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updating Member Information from %1 %2</source>
+          <target>Updating Member Information from %1 %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Member Posting Utils - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3223890144 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 of %2 document(s) processed.</source>
+          <target>%1 of %2 document(s) processed.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Member Posting Utils - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3223890144 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 already processed but was not marked as processed.</source>
+          <target>%1 already processed but was not marked as processed.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Member Posting Utils - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3223890144 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card not linked to an Account. %1 not processed.</source>
+          <target>Card not linked to an Account. %1 not processed.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Member Posting Utils - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3223890144 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 not found.</source>
+          <target>%1 not found.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Member Posting Utils - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3223890144 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum of points in %1 = %2 does not match %3.</source>
+          <target>Sum of points in %1 = %2 does not match %3.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Member Posting Utils - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3223890144 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 data missing.</source>
+          <target>%1 data missing.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Member Posting Utils - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3223890144 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Balance for the Account went negative with this transaction</source>
+          <target>The Balance for the Account went negative with this transaction</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Member Posting Utils - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3223890144 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No %1 in %2.</source>
+          <target>No %1 in %2.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Member Posting Utils - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3223890144 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 not found.</source>
+          <target>%1 %2 not found.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Member Posting Utils - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3223890144 - Method 1665861916 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero de cuenta %1 no existe en tabla LSC Member Account</source>
+          <target>Numero de cuenta %1 no existe en tabla LSC Member Account</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Member Posting Utils - Method OnRun - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 3800588336 - NamedType 1374191947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal has been put on the Batch Posting Queue.</source>
+          <target>El diario se ha colocado en la cola de contabilización por lotes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method BatchAut - NamedType JournalOnBatchPostingErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 3800588336 - NamedType 2351070829" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer number %1 was created.</source>
+          <target>Transferencia numero %1 fue creada</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method BatchAut - NamedType TransferNoCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 3800588336 - NamedType 4133636864" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer numbers %1 through %2 were created.</source>
+          <target>Transferencias numero %1 hasta %2 fueron creadas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method BatchAut - NamedType TransferNoRangeCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 3800588336 - NamedType 2700891220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales number %1 was created.</source>
+          <target>Ventas numero %1 fueron creados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method BatchAut - NamedType SalesNoCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 3800588336 - NamedType 1227741761" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales numbers %1 through %2 were created.</source>
+          <target>Ventas numero %1 hasta %2 fueron creadas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method BatchAut - NamedType SalesNoRangeCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 3800588336 - NamedType 3557570305" size-unit="char" translate="yes" xml:space="preserve">
+          <source>. Consolidate No. %1</source>
+          <target>. Consolidado No. %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method BatchAut - NamedType ConsolidateTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 674469465 - NamedType 868351444" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opcion "Calcular inventario" no valida para Añadir Productos al Diario Reaprov.</source>
+          <target>Opcion "Calcular inventario" no valida para Añadir Productos al Diario Reaprov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method LSC Add Items to Replen. Jrnl_OnAfterPreReport - NamedType Error000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 3447823689 - NamedType 1290794571" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe usar el metodo FASANI Añadir productos al Diario</source>
+          <target>Debe usar el metodo FASANI Añadir productos al Diario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method LSC Purchase Replen. Journal_OnBeforeActionEvent_[processing / F&amp;unctions] - Add Items to Journal - NamedType Txt01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 2084927635 - NamedType 868351444" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El producto %1 no se encuentra relacionado con el proveedor %2 en Item Vendor</source>
+          <target>El producto %1 no se encuentra relacionado con el proveedor %2 en Item Vendor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method LSC Stock Request_OnBeforeActionEvent_[processing / F&amp;unctions] - &amp;Assign Request - NamedType Error000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 944201565 - NamedType 2290157555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The schedule to run this template is DAILY. You can use the FSN Create Consolidated Orders action or change the schedule.</source>
+          <target>La programación para ejecutar esta plantilla es DIARIA puede usar la acción FSN Crear Consolidado de Ordenes o cambiar la programación.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method Purchase Replenishment Journal_OnBeforeActionEvent_[processing / P&amp;osting] - Create Purchase Orders - NamedType Txt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 1203377420 - NamedType 1374191947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal has been put on the Batch Posting Queue.</source>
+          <target>El diario se ha colocado en la cola de contabilización por lotes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method PurchaseSP - NamedType JournalOnBatchPostingErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 1203377420 - NamedType 1421095197" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase number %1 was created.</source>
+          <target>Purchase number %1 was created.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method PurchaseSP - NamedType PurchaseNoCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 1203377420 - NamedType 138617936" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase numbers %1 through %2 were created.</source>
+          <target>Purchase numbers %1 through %2 were created.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method PurchaseSP - NamedType PurchaseNoRangeCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 1203377420 - NamedType 3557570305" size-unit="char" translate="yes" xml:space="preserve">
+          <source>. Consolidate No. %1</source>
+          <target>Consolidado No. %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method PurchaseSP - NamedType ConsolidateTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 4005568359 - NamedType 2290157555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Must be use FSN Create Consolidate Transfer</source>
+          <target>Debe usar la funcion "FSN crear Transferencia consolidada"</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method Transfer Replenishment Journal_OnBeforeActionEvent_[processing / P&amp;osting] - Create &amp;Transfer Orders - NamedType Txt1</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Stock Request</source>
+          <target>FSN Solicitud Stock</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Decline stock req.</source>
+          <target>Declinar Stock req.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assign stock req.</source>
+          <target>Asignar Stock req.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot be validate Because a product has been entered multiple times.</source>
+          <target>No puede Validarse porque un producto se encuentra en multiples lineas.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Method 3974817720 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status must be "Send".</source>
+          <target>Estado debe ser "enviado".</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Method ValidateInventory - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Method 3974817720 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity cant be f zero. Item %1 Line %2</source>
+          <target>Cantidad no puede ser 0. producto %1 Linea %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Method ValidateInventory - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Method 3974817720 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items barcode %1 - %2 is empty</source>
+          <target>barra de producto %1 - %2 esta vacio </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Method ValidateInventory - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Method 3974817720 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory is not enough for: \-&gt; Item %1 Line %2 \-&gt; Qty. Request %3 - Inventory Logistic Warehouse %4. Diff = %5</source>
+          <target>El inventario no es suficiente para: \-&gt; producto %1 linea %2 \-&gt; Cantidad solicitada %3 - Almacen logistico de inentario %4. Diferencia = %5</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Method ValidateInventory - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Method 3974817720 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode %1 - %2 is not Match , Inventory cant be evaluated</source>
+          <target>Codigo de barra %1 - %2 no coincide, el inventario no se puede evaluar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Method ValidateInventory - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Method 3974817720 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning! \-&gt; Item %1 \-&gt; Request quantity %2 + all Requests %3 is higher to Inventory Logistic Warehouse %4. Diff = %5 </source>
+          <target>Advertencia! \-&gt; producto %1 \-&gt; cantidad solicitada %2 + todas las solicitudes %3 es mayor al almacen logistico de inventario %4. Diferencia = %5 </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Method ValidateInventory - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Method 3974817720 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory validated sucessfull!!</source>
+          <target>¡¡Inventario validado con exito!!</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Method ValidateInventory - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Control 4169691606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assign To</source>
+          <target>Asignar A</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Control Assign To - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Control 4237283545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Tipo de documento</target>
+          <target>Tipo documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Control DocumentType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Control 1153168517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Type</source>
+          <target>Tipo de Proceso</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Control ProcessType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Control 1640572759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order</source>
+          <target>Pedido compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Control PurchaseOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Control 2615493424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order Delivery Location</source>
+          <target>Lugar de entrega de la orden de compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Control PurchaseOrderDeliveryLocation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Control 2355023495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order</source>
+          <target>Ped. transfer.</target>
+          <target>Pedido de transferencia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Control TransferOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Control 748947768 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InStore Reference No.</source>
+          <target>Referencia de No en tienda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Control InStoreFunc.GetStockReqDocNo(Rec) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Action 2485138338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Stock Req.</source>
+          <target>&amp;Stock Req.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Action &amp;Stock Req. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Action 661081734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Reference Document</source>
+          <target>&amp;Documento de Referencia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Action &amp;Reference Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Action 3116705166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Validate Inventory</source>
+          <target>&amp;Validacion de Inventario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Action &amp;Validate Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Action 3106002577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target>Acci&amp;ones</target>
+          <target>F&amp;unciones</target>
+          <target>Funci&amp;ones</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Action F&amp;unctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Action 2882976090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Assign Request</source>
+          <target>&amp;Asignar Solicitud</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Action &amp;Assign Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Action 2882976090 - Method 1377591017 - NamedType 868351444" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El producto %1 no se encuentra relacionado con el proveedor %2 en Item Vendor</source>
+          <target>El producto %1 no se encuentra relacionado con el proveedor %2 en Item Vendor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Action &amp;Assign Request - Method OnAction - NamedType Error000</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Action 608828501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Decline Request</source>
+          <target>&amp;Declinar solcitud</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Action &amp;Decline Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 568800965 - Action 1763623501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Send Request</source>
+          <target>&amp;Enviar Solicitud</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FASANI Stock Request - Action &amp;Send Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 742677970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Backorder Template</source>
+          <target>Backorder Plantilla</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Backorder Template - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - NamedType 1928350364" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This action is not available for Laboratory exception type</source>
+          <target>Esta acción no es viable para tipo de excepcion Laboratorio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - NamedType Tex001</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 1463506625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type Control</source>
+          <target>Tipo Control</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Type Control - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 1112832913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type Exception</source>
+          <target>Tipo excepcion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Type Exception - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 421634154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active From Date</source>
+          <target>Activo desde Fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Active From Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 1231116701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active To Date</source>
+          <target>Activo hasta fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Active To Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 214655182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Definition Exception</source>
+          <target>Definition Exception</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Definition Exception - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Item No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 1660815199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purch. Unit of Measure</source>
+          <target>Unidad medida compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Purch. Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 356618588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Laboratory</source>
+          <target>Laboratorio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control LSC Attrib 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 731978591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Priority Laboratory</source>
+          <target>Usar Prioridad Laboratorio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Use Priority Attrib 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target>[NAB: REVIEW]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 2802051449 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manual Reorder Point</source>
+          <target>Punto Reorden Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Manual Reorder Point - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 2723266554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maximum Manual Stock</source>
+          <target>Stock Maximo Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Max Manual Stock - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 51463044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Multiply</source>
+          <target>Multiplo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Multiple - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 1025283327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Range Lim. Max Stock</source>
+          <target>Rango Lim. Stock Max</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Range Lim. Max Stock - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 1482944864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Range Lim. Point Reorder</source>
+          <target>Rango Lim. Punto Reorden</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Range Lim. Point Reorder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 1858293022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reorder time Max. Man (Days)</source>
+          <target>Tiempo reorden Max. Man (Días)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Reorder time Max. Man (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 2198352256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reorder time Min. Man (Days)</source>
+          <target>Tiempo reorden Min. Man (Días)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Reorder time Min. Man (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1574974624 - Control 2226708384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Reorder Lim. (Days)</source>
+          <target>Tiempo Reorden Lim. (Días)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion Card - Control Time Reorder Lim. (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Excepcion</source>
+          <target>Excepción Compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Purchase Excepcions</source>
+          <target>FSN Excepciones Compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 421634154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active From Date</source>
+          <target>Activo desde fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Active From Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 1231116701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active To Date</source>
+          <target>Activo hasta fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Active To Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 214655182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Definition Exception</source>
+          <target>Definición Excepción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Definition Exception - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target>[NAB: REVIEW]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Item No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target>[NAB: REVIEW]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 356618588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Laboratory</source>
+          <target>Laboratorio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control LSC Attrib 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 2802051449 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manual Reorder Point</source>
+          <target>Punto Reorden Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Manual Reorder Point - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 2723266554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maximum Manual Stock</source>
+          <target>Stock Maximo Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Max Manual Stock - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 1660815199 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Purch. Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 1025283327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Range Lim. Max Stock</source>
+          <target>Rango Lim. Stock Max</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Range Lim. Max Stock - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 1482944864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Range Lim. Point Reorder</source>
+          <target>Rango Lim. Punto Reorden</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Range Lim. Point Reorder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 2198352256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reorder time Min. Man (Days)</source>
+          <target>Tiempo reorden Min. Manual (Días)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Reorder time Min. Man (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 2765654376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reorder time. Max. Man (Days)</source>
+          <target>Tiempo reorden Max. Manual (Días)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Reorder time. Max. Man (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 2226708384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Reorder Lim. (Days)</source>
+          <target>Tiempo Reorden Lim. (Días)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Time Reorder Lim. (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 1463506625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type Control</source>
+          <target>Tipo Control</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Type Control - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2660888998 - Control 731978591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Priority Laboratory</source>
+          <target>Usar Prioridad Laboratorio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Purchase Excepcion List - Control Use Priority Attrib 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items by Location</source>
+          <target>Productos por almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Method 4179069853 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The previous column set could not be found.</source>
+          <target>No se pudo encontrar el conjunto de columnas anterior.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Method CustomGenerateMatrixData - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Opciones</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Control 2256364535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Column Set</source>
+          <target>Conjunto de columnas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Control MATRIX_CaptionRange - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Control 2216507070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Column Name</source>
+          <target>Muestra nombre columna</target>
+          <target>Mostrar nombre de la columna</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Control ShowColumnName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Control 2988086434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Repl. Location</source>
+          <target>Reprov. Almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Control ReplLocation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Control 2720354016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Repl. Name</source>
+          <target>Reprov. Nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Control ReplName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Control 336901727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Repl. Type</source>
+          <target>Tipo Reaprov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Control WarehouseStoreReplenishm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Action 1734268175 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next Set</source>
+          <target>Conjunto siguiente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Action Next Set - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Action 1734268175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next Set</source>
+          <target>Conjunto siguiente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Action Next Set - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Action 3697385181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Previous Set</source>
+          <target>Conjunto anterior</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Action Previous Set - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 500331293 - Action 3697385181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Previous Set</source>
+          <target>Conjunto anterior</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location - Action Previous Set - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items by Location Matrix</source>
+          <target>Matriz artículos por ubic.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Method 1424045878 - NamedType 3995958642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The changed %1 is not in full Multiple.</source>
+          <target>El %1 modificado no es múltiple completo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Method OnOpenDetailForm - NamedType NotFullMultiple</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Method 4177352842 - NamedType 1089555199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Have %1 item rewards for item %2</source>
+          <target>Tiene bonificado de %1 artículo por el artículo %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Method OnQueryClosePage - NamedType lTxt1</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Method 3555176106 - NamedType 1089555199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be create new quantity, Replen. Line not exists</source>
+          <target>No se puede crear una nueva cantidad, Replen. La línea no existe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Method OnValidateTmp - NamedType lTxt1</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Control 2989135064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute 1</source>
+          <target>Atributo 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Control Attrib 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Control 993765549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode</source>
+          <target>Barra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Control Barcode No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Control 4187992892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct. Cost</source>
+          <target>Costo directo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Control Direct Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Action 4247615141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Item</source>
+          <target>&amp;Producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Action &amp;Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Action 1327594867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Item Availability by</source>
+          <target>&amp;Disponibilidad prod. por</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Action &amp;Item Availability by - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Action 3891454143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location</source>
+          <target>Almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Action Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Action 912261439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period</source>
+          <target>Período</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Action Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Action 112710097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant</source>
+          <target>Variante</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Action Variant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3567102496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Replen. Jrn. Add</source>
+          <target>FSN Replen. Jrn. Add</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Jrn. Add - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Lista Libro Reaprov.</source>
+          <target>FSN Lista Libro Reaprov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - NamedType 3848782100" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete All Journal Lines and Details? </source>
+          <target>¿Eliminar todas las líneas del diario y los detalles?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - NamedType DeleteAllJournalLinesDetailsQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - NamedType 2583506822" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete All Journal Lines and Details with Zero Quantity Only? </source>
+          <target>¿Eliminar todas las líneas del diario y los detalles solo con cantidad cero?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - NamedType DeleteAllZeroJournalLinesDetailsQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - NamedType 3110262989" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 of Journal Lines Deleted. \%2 of Journal Details Deleted.</source>
+          <target>%1 de líneas de diario eliminadas. \%2 de los detalles del diario eliminados.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - NamedType NoofJournalLineDetailDeleted</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of the replenishment template.</source>
+          <target>Especifica el código de la plantilla de reabastecimiento.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código</source>
+          <target>Código</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the replenishment template.</source>
+          <target>Especifica una descripción de la plantilla de reabastecimiento.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Descripción</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 3090491423 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the item category that will be used to filter the items.</source>
+          <target>Especifica la categoría de elemento que se utilizará para filtrar los elementos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Item Category Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 3090491423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtro Categoría Prod.</source>
+          <target>Filtro Categoría Prod.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Item Category Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 2397643462 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the item number that will be used to filter the items.</source>
+          <target>Especifica el número de artículo que se utilizará para filtrar los artículos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Item No. Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 2397643462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtro No. Producto</source>
+          <target>Filtro No. Producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Item No. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the location that the items are transferred to, when used with Purchase Replenishment Journal, or the location that the items are transferred from, when used with Transfer Replenishment Journal.</source>
+          <target>Especifica la ubicación a la que se transfieren los artículos, cuando se usa con el Diario de reabastecimiento de compras, o la ubicación desde la que se transfieren los artículos, cuando se usa con el Diario de reabastecimiento de transferencias.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código Almacén</source>
+          <target>Código Almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 256840671 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if Purchase Orders will be created for warehouse or receiving locations, and if cross docking is used. This field is only used with Purchase Replenishment Journal.</source>
+          <target>Especifica si se crearán órdenes de compra para almacenes o ubicaciones de recepción, y si se utilizará cross-docking. Este campo sólo se utiliza con el Diario de reabastecimiento de compras.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Purchase Order Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 256840671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo Pedido Compra</source>
+          <target>Tipo Pedido Compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Purchase Order Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 1767007732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type of replenishment journal the template is used for.</source>
+          <target>Especifica el tipo de diario de reabastecimiento para el que se utiliza la plantilla.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Replenishment Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 1767007732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo Reaprovisionamiento</source>
+          <target>Tipo Reaprovisionamiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Replenishment Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 4028152152 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the item product group that will be used to filter the items.</source>
+          <target>Specifies the item product group that will be used to filter the items.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Retail Product Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 4028152152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtro Grupo Producto</source>
+          <target>Filtro Grupo Producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Retail Product Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 1471588964 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the store group that will be used to filter the locations.</source>
+          <target>Especifica el grupo de tiendas que se utilizará para filtrar las ubicaciones.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Store Group Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 1471588964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtro Grupo Tienda</source>
+          <target>Filtro Grupo Tienda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Store Group Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 346344467 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total quantity (in Base UoM) of all journals in the Replen. Template.</source>
+          <target>Especifica la cantidad total (en UM base) de todos los diarios en Replen. Plantilla.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Total Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 346344467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cantidad total</source>
+          <target>Cantidad total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Total Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 2648264013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the vendor number that will be used to filter the items.</source>
+          <target>Especifica el número de proveedor que se utilizará para filtrar los artículos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Vendor No. Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Control 2648264013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtro No. Proveedor</source>
+          <target>Filtro No. Proveedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Control Vendor No. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Action 3658248850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Libro</source>
+          <target>Libro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Action &amp;Template - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Action 3696756509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Matriz Recordar</source>
+          <target>Matriz Recordar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Action &amp;Edit Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Action 876494008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Secciones Reaprov.</source>
+          <target>[Secciones Reaprov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Action Replenishment &amp;Batches - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Action 3106002577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acciones</source>
+          <target>Acciones</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Action F&amp;unctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Action 4188126007 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eliminar todas las Lineas</source>
+          <target>Eliminar todas las Lineas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Action Delete All Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931174945 - Action 4273612930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eliminar Lineas Cero</source>
+          <target>Eliminar Lineas Cero</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Action Delete Zero Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 102856628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Full Replen. By Location</source>
+          <target>FASANI Añadir productos al Diario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN Full Replen. By Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 822937467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Replen. Aut. Run Purchase</source>
+          <target>FSN Replen. Aut. Run Purchase</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN Replen. Aut. Run Purchase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 822937467 - Control 828292189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Option</source>
+          <target>Opción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN Replen. Aut. Run Purchase - Control Option - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 822937467 - Control 3310638532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replenishment Type Filter</source>
+          <target>Tipo filtro Reprovisionamiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN Replen. Aut. Run Purchase - Control ReplenishmentTypeFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 935710187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Replen. Aut. Run Transfer</source>
+          <target>FSN Replen. Aut. Run Transfer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN Replen. Aut. Run Transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 935710187 - Control 828292189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Option</source>
+          <target>Opción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN Replen. Aut. Run Transfer - Control Option - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 935710187 - Control 3310638532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replenishment Type Filter</source>
+          <target>Tipo filtro Reprovisionamiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN Replen. Aut. Run Transfer - Control ReplenishmentTypeFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2055141025">
+          <source>Do you want to Create Purchase Orders from this Journal?</source>
+          <target>¿Quiere crear órdenes de compra a partir de este diario?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2055141025">
+          <source>No Purchase Orders were created. Consolidate No. %2</source>
+          <target>No se crearon órdenes de compra. Consolidado No. %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2055141025">
+          <source>Purchase Order %1 was created. Consolidate No. %2</source>
+          <target>Se creó la orden de compra %1. Consolidar No. %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2055141025">
+          <source>Purchase Orders %1 to %2 were created. Consolidate No. %3</source>
+          <target>Se crearon las órdenes de compra %1 a %2. Consolidar No.%3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - NamedType 1302975608" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2055141025">
+          <source>Journal has been put on the Batch Posting Queue.</source>
+          <target>El diario se ha colocado en la cola de contabilización por lotes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - NamedType Text023</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - NamedType 206653531" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2055141025">
+          <source>One or more Threshold exceptions found, do you still wish to proceed to create Purchase Orders?</source>
+          <target>Se encontraron una o más excepciones de Umbral, ¿aún desea continuar con la creación de Órdenes de Compra?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - NamedType ThresholdExceptionFoundDocCreationQst</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Action 3132678850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2340654900">
+          <source>FASANI Añadir productos al Diario</source>
+          <target>FASANI Añadir productos al Diario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Action FASANI Añadir productos al Diario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Action 640607759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2340654900">
+          <source>&amp;FSN Create Consolidate Orders</source>
+          <target>FSN Crear consolidado de ordenes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Action FSN Create Consolidate Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Action 1198340777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2340654900">
+          <source>Item Test Status</source>
+          <target>Test Estado Producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Action Item Test Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Action 1198340777 - Method 1377591017 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2055141025">
+          <source>Validate successfull!</source>
+          <target>Validación exitosa!</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Action Item Test Status - Method OnAction - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Action 1198340777 - Method 1377591017 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2055141025">
+          <source>Item %1 %2 is blocked for Purchasing. See Item Status Link %3 %4 %5</source>
+          <target>El artículo %1 %2 está bloqueado para la compra. Ver enlace de estado del artículo %3 %4 %5</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Action Item Test Status - Method OnAction - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Action 1198340777 - Method 1377591017 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2055141025">
+          <source>Item %1 %2 is blocked for Transfering. See Item Status Link %3 %4 %5</source>
+          <target>El elemento %1 %2 está bloqueado para su transferencia. Ver enlace de estado del artículo %3 %4 %5</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Action Item Test Status - Method OnAction - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Action 1198340777 - Method 1377591017 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2055141025">
+          <source>No articles for valid</source>
+          <target>No hay artículos válidos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Action Item Test Status - Method OnAction - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Action 1657996784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2340654900">
+          <source>New Consolidate No.</source>
+          <target>Nuevo No. Consolidado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Action New Consolidate No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Action 3375878490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2340654900">
+          <source>View Matrix</source>
+          <target>Ver Matriz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Action View Matrix - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Control 837208150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2340654900">
+          <source>FSN Cant. UM Compra</source>
+          <target>FSN Cant. UM Compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Control FSN Purch. Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Control 1949873570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2340654900">
+          <source>FSN Unidad Medida</source>
+          <target>FSN Unidad Medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Control FSN Purch. Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055141025 - Control 2904510095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2340654900">
+          <source>New Consolidate No.</source>
+          <target>Nuevo No. Consoliado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN PurchReplenJournalExt - Control GlobalConsolidateNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3146868704 - Control 1502391118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3654759344">
+          <source>FASANI</source>
+          <target>FASANI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenItemStoreRecExt - Control FASANI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3146868704 - Control 2989135064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3654759344">
+          <source>Attrib 1 Code</source>
+          <target>Cód. Attributo 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenItemStoreRecExt - Control Attrib 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3146868704 - Control 613419575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3654759344">
+          <source>FSN Approach Multiple</source>
+          <target>FSN Enfoque múltiple</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenItemStoreRecExt - Control FSN Approach Multiple - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3146868704 - Control 1683336802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3654759344">
+          <source>FSN Fecha Actualizacion</source>
+          <target>FSN Fecha Actualizacion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenItemStoreRecExt - Control FSN Date Update - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3146868704 - Control 3881978038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3654759344">
+          <source>FSN Max Anterior</source>
+          <target>FSN Max Anterior</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenItemStoreRecExt - Control FSN Previous Maximum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3146868704 - Control 2727949016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3654759344">
+          <source>FSN Min Anterior</source>
+          <target>FSN Min Anterior</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenItemStoreRecExt - Control FSN Previous Minimum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3146868704 - Control 592829922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3654759344">
+          <source>FSN Texto</source>
+          <target>FSN Texto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenItemStoreRecExt - Control FSN Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1824595735 - Control 1034835157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1631680079">
+          <source>FSN</source>
+          <target>FSN</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenSetupExt - Control FSN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 349084010 - Control 868573117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1521849886">
+          <source>FSN Filter</source>
+          <target>FSN Filtros</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenTemplateCardExt - Control FSN Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 349084010 - Control 3422996537 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1521849886">
+          <source>Specifies the item attribute code that will be used to filter the items.</source>
+          <target>Especifica el código de atributo del artículo que se utilizará para filtrar los artículos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenTemplateCardExt - Control FSN Item Attribute Code Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 349084010 - Control 1527269355 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1521849886">
+          <source>Specifies the item attribute value that will be used to filter the items.</source>
+          <target>Especifica el valor del atributo del elemento que se utilizará para filtrar los elementos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenTemplateCardExt - Control FSN Item Attribute Value Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 349084010 - Control 457431281 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1521849886">
+          <source>Specifies the item hierarchy level that will be used to filter the items.</source>
+          <target>Especifica el nivel de jerarquía de elementos que se utilizará para filtrar los elementos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenTemplateCardExt - Control FSN Item Hierarchy Level Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 349084010 - Control 3320249486 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1521849886">
+          <source>Specifies the item hierarchy value that will be used to filter the items.</source>
+          <target>Especifica el valor de la jerarquía de elementos que se utilizará para filtrar los elementos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenTemplateCardExt - Control FSN Item Hierarchy Value Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 349084010 - Control 1720832236 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1521849886">
+          <source>Specifies the special group code that will be used to filter the items.</source>
+          <target>Especifica el código de grupo especial que se utilizará para filtrar los elementos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenTemplateCardExt - Control FSN Special Group Code Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 349084010 - Control 1064122145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1521849886">
+          <source>Associated Credit Memo</source>
+          <target>Nota Credito Asociada</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ReplenTemplateCardExt - Control Associated Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2137944241 - Action 319922935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 854187124">
+          <source>Set Consolidate</source>
+          <target>Establecer consolidado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailPurchOrderExt - Action SetConsolidate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2137944241 - Action 319922935 - Method 1377591017 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2137944241">
+          <source>Do you want to add consolidated number to %1 records?</source>
+          <target>¿Desea agregar un número consolidado a %1 registros?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailPurchOrderExt - Action SetConsolidate - Method OnAction - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2137944241 - Action 319922935 - Method 1377591017 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2137944241">
+          <source>Consolidate %1 assigment to %2 records</source>
+          <target>Consolide %1 asignación en %2 registros</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailPurchOrderExt - Action SetConsolidate - Method OnAction - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2137944241 - Action 319922935 - Method 1377591017 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2137944241">
+          <source>Vendor %1 must be equal of all orders selected</source>
+          <target>El proveedor %1 debe ser igual a todos los pedidos seleccionados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailPurchOrderExt - Action SetConsolidate - Method OnAction - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2137944241 - Action 319922935 - Method 1377591017 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2137944241">
+          <source>there are no marked records or have a consolidated number</source>
+          <target>no hay registros marcados o tienen un número consolidado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailPurchOrderExt - Action SetConsolidate - Method OnAction - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2137944241 - Action 319922935 - Method 1377591017 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2137944241">
+          <source>Status must be Released %1</source>
+          <target>El estado debe ser Lanzado %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailPurchOrderExt - Action SetConsolidate - Method OnAction - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2137944241 - Action 319922935 - Method 1377591017 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2137944241">
+          <source>Consolidate %1 alredy exists in other purchase order group. Try activity</source>
+          <target>Consolidar %1 ya existe en otro grupo de órdenes de compra. Prueba la actividad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailPurchOrderExt - Action SetConsolidate - Method OnAction - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 287214786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2813225753">
+          <source>FSN Stock Request List Ext</source>
+          <target>FSN lista Solicitudes Stock Ext</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Stock Request List_Ext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 287214786 - Action 240274116 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2813225753">
+          <source>FSN authorization</source>
+          <target>Autorizacion FSN</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Stock Request List_Ext - Action FSN authorization - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2379802372 - NamedType 3557570305" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2379802372">
+          <source>. Consolidate No. %1</source>
+          <target>. Consolidado No. %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN TransferReplenJournalExt - NamedType ConsolidateTxt</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2379802372 - NamedType 4111446379" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2379802372">
+          <source>Do you want to Create Transfer Orders from this Journal?</source>
+          <target>¿Deceas crear pedidos transferecias de este Libro?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN TransferReplenJournalExt - NamedType CreateTOQst</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2379802372 - NamedType 1374191947" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2379802372">
+          <source>Journal has been put on the Batch Posting Queue.</source>
+          <target>El diario se ha colocado en la cola de contabilización por lotes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN TransferReplenJournalExt - NamedType JournalOnBatchPostingErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2379802372 - NamedType 2700891220" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2379802372">
+          <source>Sales number %1 was created.</source>
+          <target>Ventas numero %1 fueron creados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN TransferReplenJournalExt - NamedType SalesNoCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2379802372 - NamedType 1227741761" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2379802372">
+          <source>Sales numbers %1 through %2 were created.</source>
+          <target>Ventas numero %1 hasta %2 fueron creadas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN TransferReplenJournalExt - NamedType SalesNoRangeCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2379802372 - NamedType 206653531" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2379802372">
+          <source>One or more Threshold exceptions found, do you still wish to proceed to create Transfer Orders?</source>
+          <target>Se encontraron una o más excepciones de Umbral, ¿aún desea continuar con la creación de Órdenes de Transferencia?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN TransferReplenJournalExt - NamedType ThresholdExceptionFoundDocCreationQst</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2379802372 - NamedType 2351070829" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2379802372">
+          <source>Transfer number %1 was created.</source>
+          <target>Transferencia numero %1 fue creada</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN TransferReplenJournalExt - NamedType TransferNoCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2379802372 - NamedType 4133636864" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2379802372">
+          <source>Transfer numbers %1 through %2 were created.</source>
+          <target>Transferencias numero %1 hasta %2 fueron creadas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN TransferReplenJournalExt - NamedType TransferNoRangeCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2379802372 - Action 615975733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3042250724">
+          <source>FSN Create Consolidate Transfer</source>
+          <target>FSN Crear transferencia consolidada</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN TransferReplenJournalExt - Action FSN Create Consolidate Transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2379802372 - Control 837208150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3042250724">
+          <source>FSN Cant. UM Compra</source>
+          <target>FSN Cant. UM Compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN TransferReplenJournalExt - Control FSN Purch. Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2379802372 - Control 1949873570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3042250724">
+          <source>FSN Unidad Medida</source>
+          <target>FSN Unidad Medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN TransferReplenJournalExt - Control FSN Purch. Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - Control 1502391118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2461977201">
+          <source>FASANI</source>
+          <target>FASANI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - Control FASANI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - Control 2060999887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2461977201">
+          <source>FSN Grupo No. Stock Level</source>
+          <target>FSN Grupo No. Stock Level</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - Control FSN Grupo No. Stock Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - Control 4088962097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2461977201">
+          <source>Dia Maximo</source>
+          <target>Dia Maximo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - Control FSN maximum day - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - Control 681849579 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2461977201">
+          <source>Dia Minimo</source>
+          <target>Dia Minimo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - Control FSN minimum day - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 613419575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Approach Multiple</source>
+          <target>FSN Enfoque múltiple</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Approach Multiple - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 3396408003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Base Unit of Measure</source>
+          <target>FSN Base Unit of Measure</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Base Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 1935010719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Maximun Base</source>
+          <target>FSN Maximun Base</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Maximun Base - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 4079821149 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Minimun Base</source>
+          <target>FSN Minimun Base</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Minimun Base - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 1949873570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Purch. Unit of Measure</source>
+          <target>FSN Purch. Unit of Measure</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Purch. Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 2209153970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Purchase Order Multiple</source>
+          <target>FSN Purchase Order Multiple</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Purchase Order Multiple - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 4078605075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Qty. Per Unit of Measure</source>
+          <target>FSN Qty. Per Unit of Measure</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Qty. Per Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 2807562107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Quantity</source>
+          <target>FSN Quantity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Quantity Add - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 409371499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Replen. Template Code</source>
+          <target>FSN Replen. Template Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Replen. Template Code Add - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 2915763652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Transfer Multiple</source>
+          <target>FSN Transfer Multiple</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Transfer Multiple - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 3653812723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>Lost Sales (30 Days)</source>
+          <target>Venta Perdida (30 Dias)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field VP30D - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 478020005 - Field 1683336802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3654759344">
+          <source>FSN Date Update</source>
+          <target>FSN Date Update</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Store Rec - Field FSN Date Update - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 478020005 - Field 3881978038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3654759344">
+          <source>FSN Previous Maximum</source>
+          <target>FSN Previous Maximum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Store Rec - Field FSN Previous Maximum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 478020005 - Field 2727949016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3654759344">
+          <source>FSN Previous Minimum</source>
+          <target>FSN Previous Minimum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Store Rec - Field FSN Previous Minimum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 478020005 - Field 592829922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3654759344">
+          <source>FSN Text</source>
+          <target>FSN Text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Store Rec - Field FSN Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1079025755 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1079025755">
+          <source>DEFAULT</source>
+          <target>GENERICO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN ReplenJrnlTemplate - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1079025755 - Field 1064122145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1521849886">
+          <source>Associated Credit Memo</source>
+          <target>Nota Credito Asociada</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN ReplenJrnlTemplate - Field Associated Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1079025755 - Field 2641726333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1521849886">
+          <source>FSN Consolidate No.</source>
+          <target>FSN No. Consolidado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN ReplenJrnlTemplate - Field FSN Consolidate No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1824595735 - Field 937065574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1631680079">
+          <source>FSN Approach Adjustment Type</source>
+          <target>FSN tipo de ajuste Aproximación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN ReplenSetupExt - Field FSN Approach Adjustment Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1824595735 - Field 2592621764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1631680079">
+          <source>FSN Approach Multiple %</source>
+          <target>FSN Aproximación a multiplo %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN ReplenSetupExt - Field FSN Approach Multiple % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1824595735 - Field 389655397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1631680079">
+          <source>FSN Consolidate Serie No.</source>
+          <target>FSN No. Serie Consolidado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN ReplenSetupExt - Field FSN Consolidate Serie No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1824595735 - Field 574909636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1631680079">
+          <source>FSN Transfer Consolidate No.</source>
+          <target>FSN Transferencia consolidada No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN ReplenSetupExt - Field FSN Transfer Consolidate No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2824500201 - Field 2077058757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 276273208">
+          <source>FSN Calculated</source>
+          <target>FSN Calculated</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSNReplenJrnDetails - Field FSN Calculated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4142435239 - Field 2060999887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1478168589">
+          <source>FSN Grupo No. Stock Level</source>
+          <target>FSN Grupo No. Stock Level</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MyExtension - Field FSN Grupo No. Stock Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4142435239 - Field 4088962097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1478168589">
+          <source>Dia Maximo</source>
+          <target>Dia Maximo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MyExtension - Field FSN maximum day - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4142435239 - Field 681849579 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1478168589">
+          <source>Dia Minimo</source>
+          <target>Dia Minimo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MyExtension - Field FSN minimum day - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2060999887 - EnumValue 2850047899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Viernes</source>
+          <target>Viernes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Grupo No. Stock Level - EnumValue Friday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2060999887 - EnumValue 3612571044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lunes</source>
+          <target>Lunes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Grupo No. Stock Level - EnumValue Monday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2060999887 - EnumValue 3371220206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ninguno</source>
+          <target>Ninguno</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Grupo No. Stock Level - EnumValue None - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2060999887 - EnumValue 3693365919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sabado</source>
+          <target>Sabado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Grupo No. Stock Level - EnumValue Saturday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2060999887 - EnumValue 2643887984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Domingo</source>
+          <target>Domingo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Grupo No. Stock Level - EnumValue Sunday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2060999887 - EnumValue 2259593336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Jueves</source>
+          <target>Jueves</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Grupo No. Stock Level - EnumValue Thursday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2060999887 - EnumValue 4237472533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Martes</source>
+          <target>Martes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Grupo No. Stock Level - EnumValue Tuesday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2060999887 - EnumValue 2039729766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Miercoles</source>
+          <target>Miercoles</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Grupo No. Stock Level - EnumValue Wednesday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - NamedType 868351444" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opcion "Calcular inventario" no valida para Añadir Productos al Diario Reaprov.</source>
+          <target>Opcion "Calcular inventario" no valida para Añadir Productos al Diario Reaprov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - NamedType Error000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 691254521 - NamedType 945106384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La pagina correcta es FSN Lista Libro Reaprov.</source>
+          <target>La pagina correcta es FSN Lista Libro Reaprov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method LSC Replen. Calculation_OnInsertWorksheetLineOnBeforeSetReplenJournalLinesPar - NamedType errortext01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2138027048 - Method 691254521 - NamedType 868351444" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El producto %1 no se encuentra relacionado con el proveedor %2 en Item Vendor</source>
+          <target>El producto %1 no se encuentra relacionado con el proveedor %2 en Item Vendor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replen. Calculation - Method LSC Replen. Calculation_OnInsertWorksheetLineOnBeforeSetReplenJournalLinesPar - NamedType Error000</note>
+        </trans-unit>
+        <trans-unit id="Page 467583340 - Action 2882465090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BOM Level</source>
+          <target>Nivel L.M.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. By Location Matrix - Action BOM Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 1279592898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Reorder Point</source>
+          <target>FSN Reorder Point</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Reorder Point - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2484755637 - Field 3976915587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3605438968">
+          <source>FSN Maximum Inventory</source>
+          <target>FSN Maximum Inventory</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Replen. Item Quantity - Field FSN Maximum Inventory - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

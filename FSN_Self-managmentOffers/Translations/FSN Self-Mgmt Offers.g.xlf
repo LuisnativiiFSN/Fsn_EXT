@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_SelfMgmtOffers.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 181839606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Self-Management Offers</source>
+          <target>Self-Management Offers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 2726320388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% Discount</source>
+          <target>% Discount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field % discount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 2129755995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Name</source>
+          <target>Bank Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Bank name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 2129755995 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agricola,Cuscatlan,Promerica,Credisiman,Credicomer,Bac,Fedecredito,Hipotecario</source>
+          <target>Agricola,Cuscatlan,Promerica,Credisiman,Credicomer,Bac,Fedecredito,Hipotecario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Bank name - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 4250562494 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Group</source>
+          <target>Discount Group</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field discount Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 4250562494 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RETAIL,VIP,FASANI,ADFSN</source>
+          <target>RETAIL,VIP,FASANI,ADFSN</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field discount Group - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 2649176925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <target>End Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 2842094365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <target>Item Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 3915920124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Offer Type</source>
+          <target>Offer Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Offer Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 3915920124 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base,Special Group,Banks</source>
+          <target>Base,Special Group,Banks</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Offer Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>Price</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 2995342476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell Out</source>
+          <target>Sell Out</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field sell Out - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 4062804685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell Out Value</source>
+          <target>Sell Out Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Sell Out Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 2532947120 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <target>Start Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 1074243913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store</source>
+          <target>Store</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Store - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item,Special Group,All</source>
+          <target>Item,Special Group,All</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 1635652473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Of Measure</source>
+          <target>Unit Of Measure</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field unit Of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 3353186157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Category End Date</source>
+          <target>Web Category End Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Web category End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 4021509265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Category Name</source>
+          <target>Web Category Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Web Category name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 3841721376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Category Start Date</source>
+          <target>Web Category Start Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Web category Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 621233676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Category Type</source>
+          <target>Web Category Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Web category type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 181839606 - Field 621233676 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>nothing,exists</source>
+          <target>nothing,exists</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Self-Mgmt Offers - Field Web category type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2945067531 - Method 1020975623 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La cantidad máxima del producto %1 a facturar para el cliente es %2 cajas</source>
+          <target>La cantidad máxima del producto %1 a facturar para el cliente es %2 cajas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN self-Mgmt Offer - Method LSC POS Transaction Events_OnBeforeTotalExecuted - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2945067531 - Method 1020975623 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se ha superado la cantidad máxima de compra por dia del producto %1. El límite permitido para facturar al cliente es de %2 cajas</source>
+          <target>Se ha superado la cantidad máxima de compra por dia del producto %1. El límite permitido para facturar al cliente es de %2 cajas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN self-Mgmt Offer - Method LSC POS Transaction Events_OnBeforeTotalExecuted - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2945067531 - Method 1883370019 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La cantidad máxima del producto %1 a facturar para el cliente es %2 cajas</source>
+          <target>La cantidad máxima del producto %1 a facturar para el cliente es %2 cajas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN self-Mgmt Offer - Method ProcessVaBloqItem - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2945067531 - Method 1883370019 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se ha superado la cantidad máxima de compra por dia del producto %1. El límite permitido para facturar al cliente es de %2 cajas</source>
+          <target>Se ha superado la cantidad máxima de compra por dia del producto %1. El límite permitido para facturar al cliente es de %2 cajas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN self-Mgmt Offer - Method ProcessVaBloqItem - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2945067531 - Method 2611126555 - NamedType 3696138470" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COMODIN</source>
+          <target>COMODIN</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN self-Mgmt Offer - Method ValidateClientGeneral - NamedType _COMODIN</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2945067531 - Method 2611126555 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El grupo descuento cliente COMODIN no puede ser VIP</source>
+          <target>El grupo descuento cliente COMODIN no puede ser VIP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN self-Mgmt Offer - Method ValidateClientGeneral - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2945067531 - Method 2850293673 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excede el maximo de descueto que es $%1, para el cupon %2, Descuento total del Cupon $%3</source>
+          <target>Excede el maximo de descueto que es $%1, para el cupon %2, Descuento total del Cupon $%3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN self-Mgmt Offer - Method ValOfferMax - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2945067531 - Method 2850293673 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excede balance maximo que es $%1, para el cupon %2, Balance del cupon $%3</source>
+          <target>Excede balance maximo que es $%1, para el cupon %2, Balance del cupon $%3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN self-Mgmt Offer - Method ValOfferMax - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Self-Mgmt Offers</source>
+          <target>FSN Self-Mgmt Offers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must select a laboratory</source>
+          <target>You must select a laboratory</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 836790820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% Discount</source>
+          <target>% Discount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control % Discount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 51030907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>bank name</source>
+          <target>bank name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control bank name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 4250562494 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>discount Group</source>
+          <target>discount Group</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control discount Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 3983022685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>end date</source>
+          <target>end date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control end date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 2842094365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <target>Descripcion de producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No</source>
+          <target>Item No</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 3915920124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Offer Type</source>
+          <target>Offer Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Offer Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>Precio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 3380326508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell Out</source>
+          <target>Sell Out</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Sell Out - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 4062804685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell Out Value</source>
+          <target>Sell Out Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Sell Out Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 2719593936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>start date</source>
+          <target>start date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control start date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 1074243913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store</source>
+          <target>Tieda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Store - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <target>Unidad de medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 3353186157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web category End Date</source>
+          <target>[Web category End Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Web category End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 4021509265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Category name</source>
+          <target>Web Category name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Web Category name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 3841721376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web category Start Date</source>
+          <target>Web category Start Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Web category Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 1198846668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Category Type</source>
+          <target>Web Category Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Web Category Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 3090661100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter</source>
+          <target>Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Control 2303717618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mass load per laboratory</source>
+          <target>Mass load per laboratory</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Control Mass load per laboratory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Action 1375209909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Record</source>
+          <target>Check Record</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Action Check Record - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Action 2547073718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirm Offer</source>
+          <target>Confirm Offer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Action Confirm Offer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181839606 - Action 3593819886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mass load</source>
+          <target>Mass load</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers - Action Mass load - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ofertas FSN por referencia</source>
+          <target>Ofertas FSN por referencia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Method 3094983541 - NamedType 2528306372" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRECIO_%1</source>
+          <target>PRECIO_%1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Method getDiscount - NamedType prefix</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Method 727483748 - NamedType 2528306372" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRECIO_</source>
+          <target>PRECIO_</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Method loadDiscounts - NamedType prefix</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Method 727483748 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Esta seguro de cargar los nuevos descuentos de productos?</source>
+          <target>Esta seguro de cargar los nuevos descuentos de productos?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Method loadDiscounts - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Method 727483748 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No hay items para cargar</source>
+          <target>No hay items para cargar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Method loadDiscounts - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Method 727483748 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Los descuentos se cargaron correctamente</source>
+          <target>Los descuentos se cargaron correctamente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Method loadDiscounts - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 1034835157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN</source>
+          <target>FSN</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control FSN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 2842094365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <target>Item Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 651821516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description Reference</source>
+          <target>Item Description Reference</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Item Description Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No</source>
+          <target>Item No</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 2127959155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No. Reference</source>
+          <target>Item No. Reference</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Item No. Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 3958843921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RETAIL</source>
+          <target>RETAIL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Retail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 998393528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>status</source>
+          <target>status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 2718332917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAGRI</source>
+          <target>VAGRI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control VAGRI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 4182301777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VIP</source>
+          <target>VIP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control VIP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Action 3759067764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cargar descuentos</source>
+          <target>Cargar descuentos</target>
+          <note from="Developer" annotates="general" priority="2">="YourLanguageCaption"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Action Load Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 897620423 - Control 1496232879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3899378240">
+          <source>Maximo de facturar</source>
+          <target>Maximo de facturar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Maximum billing Item - Control MaxVent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4259463596 - Control 1575525099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3445084291">
+          <source>FSN Tipo Max. Offer :.</source>
+          <target>FSN Tipo Max. Offer :.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Periodic Disc. Table Ext - Control FSN Type MAx. Offer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4259463596 - Control 1293381023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3445084291">
+          <source>FSN Monto Descuento/compra $ :.</source>
+          <target>FSN Monto Descuento/compra $ :.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Periodic Disc. Table Ext - Control FSN Monto Descuento/compra - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2253809252 - Control 1496232879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1445118335">
+          <source>Maximo de facturar</source>
+          <target>Maximo de facturar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Self MaxProduct - Control MaxVent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3794816542 - Field 4265119484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1445118335">
+          <source>FSN Maximum billing</source>
+          <target>FSN Maximum billing</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Item Status - Field FSN Maximum billing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2273407238 - Field 4265119484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1212290831">
+          <source>FSN Maximum billing</source>
+          <target>FSN Maximum billing</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Item Status Link - Field FSN Maximum billing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4259463596 - Field 3409665133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1747469202">
+          <source>FSN Amount Discont/Purchase</source>
+          <target>FSN Amount Discont/Purchase</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Periodic Disc. Table Ext - Field FSN Amount Discont/Purchase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4259463596 - Field 1314535945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1747469202">
+          <source>FSN Max. para Facturar</source>
+          <target>FSN Max. para Facturar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Periodic Disc. Table Ext - Field FSN Max. para Facturar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4259463596 - Field 1794823282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1747469202">
+          <source>FSN Type Val. Offer</source>
+          <target>FSN Type Val. Offer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Periodic Disc. Table Ext - Field FSN Type Val. Offer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1575525099 - EnumValue 802476508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Val. Monto Máximo de Compra</source>
+          <target>Val. Monto Máximo de Compra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Type MAx. Offer - EnumValue Max. Compra - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1575525099 - EnumValue 1511683578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Val. Monto Máximo de Descuento</source>
+          <target>Val. Monto Máximo de Descuento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Type MAx. Offer - EnumValue Max. Descuento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1575525099 - EnumValue 3371220206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nada</source>
+          <target>Nada</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Type MAx. Offer - EnumValue None - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2945067531 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La cantidad máxima del producto %1 a facturar para el cliente es %2 cajas</source>
+          <target>La cantidad máxima del producto %1 a facturar para el cliente es %2 cajas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN self-Mgmt Offer - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2945067531 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se ha superado la cantidad máxima de compra por dia del producto %1. El límite permitido para facturar al cliente es de %2 cajas</source>
+          <target>Se ha superado la cantidad máxima de compra por dia del producto %1. El límite permitido para facturar al cliente es de %2 cajas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN self-Mgmt Offer - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 3915920124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Offer Type</source>
+          <target>Offer Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Offer Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 51030907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>bank name</source>
+          <target>bank name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control bank name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 1074243913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store</source>
+          <target>Store</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Store - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 2719593936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>start date</source>
+          <target>start date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control start date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 3983022685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>end date</source>
+          <target>end date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control end date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <target>Unit of Measure</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 836790820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% Discount</source>
+          <target>% Discount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control % Discount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>Price</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 4250562494 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>discount Group</source>
+          <target>discount Group</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control discount Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 3380326508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell Out</source>
+          <target>Sell Out</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Sell Out - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 4062804685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell Out Value</source>
+          <target>Sell Out Value</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Sell Out Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 1198846668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Category Type</source>
+          <target>Web Category Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Web Category Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 1823743331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Category name</source>
+          <target>Web Category name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Web Category ame - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 3841721376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web category Start Date</source>
+          <target>Web category Start Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Web category Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3977572641 - Control 3353186157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web category End Date</source>
+          <target>Web category End Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Self-Mgmt Offers Record - Control Web category End Date - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

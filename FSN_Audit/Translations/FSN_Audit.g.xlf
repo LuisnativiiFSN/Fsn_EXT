@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_Audit">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1797058271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN External Catalog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Catalog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1797058271 - Field 1299771338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Catalog - Field BC Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1797058271 - Field 1411579887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC Entry Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Catalog - Field BC Entry Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1797058271 - Field 923124475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Catalog - Field BC Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1797058271 - Field 1780553912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Catalog Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Catalog - Field Catalog Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1797058271 - Field 1780553912 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type,Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Catalog - Field Catalog Name - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1797058271 - Field 2876843761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EBS Entry Type Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Catalog - Field EBS Entry Type Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1797058271 - Field 2743177737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EBS Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Catalog - Field EBS Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1797058271 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Catalog - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1797058271 - Field 474657511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Skip Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Catalog - Field Skip Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN External Item Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 3241667804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Apply Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 1178809860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Done</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Done - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 149522872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Entry Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 3662340901 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Entry Type Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 1579714849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Expiration Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 1927692614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Last error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 1018165589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Location Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 1482668068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 1161220728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Mov. BC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field No. Mov. BC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 176518433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Order Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 2588654952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Origin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Origin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 1576505637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Reason Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Return Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 1882905478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Source No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 2567982724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock Locator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Stock Locator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 1844098600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subinventoy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Subinventoy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 3552069182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>systemCreatedByEBS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field systemCreatedByEBS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 2277830611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>systemCreatedEBS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field systemCreatedEBS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 3219903398 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>systemModifyByEBS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field systemModifyByEBS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 1282685781 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Stock Locator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Transfer Stock Locator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 2666519647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Subinventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Transfer Subinventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1723388401 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN External Item Entry - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 734185571 - Field 3465500804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Month</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Quotes - Field Month - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 734185571 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Quotes - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 734185571 - Field 245426702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Quotes - Field Total - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 734185571 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Quotes - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 734185571 - Field 3776794752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Quotes - Field User Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 734185571 - Field 2832340769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Quotes - Field Year - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 353460299 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No: %1 Not Found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Audit Command - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 353460299 - Method 3782271034 - NamedType 2248886284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lineas de estado de cuenta %1 , no corresponde a numero de documento externo %2 en linea %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Audit Command - Method Bank Acc. Reconciliation Post_OnCloseBankAccLedgEntryOnBeforeBankAccLedgEntryModify - NamedType Error</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 353460299 - Method 3782271034 - NamedType 1166845910" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lineas de estado de cuenta no puede estar vacío ya que no corresponde a numero de documento externo %1 en fecha %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Audit Command - Method Bank Acc. Reconciliation Post_OnCloseBankAccLedgEntryOnBeforeBankAccLedgEntryModify - NamedType Error2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 353460299 - Method 3782271034 - NamedType 3682506963" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero de Documento Externo no puede estar vacío</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Audit Command - Method Bank Acc. Reconciliation Post_OnCloseBankAccLedgEntryOnBeforeBankAccLedgEntryModify - NamedType ErrorDE</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 353460299 - Method 1257022453 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User not Exists in Seller Group "Audit"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Audit Command - Method ValidateSalesTypeAudit - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 353460299 - Method 1257022453 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next Transaction is marked to Audit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Audit Command - Method ValidateSalesTypeAudit - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 353460299 - Method 2081718187 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This User is not manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Audit Command - Method VerifyStaff - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se ha configurado la Cadena Parametros</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El 4 parametro de AplicarAutomaticamenteDiario debe ser: Yes / No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La Cadena de Parametros requiere 4 valores requeridos separados por comas: TipoDocumento,PlantillaDiario,SeccionDiario,AplicarAutomaticamenteDiario: (Si / No), (Opcional) NoDocumento</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mov. EBS procesado por Skip Entry Configurado en FSN External Catalog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mov. EBS reactivado por Skip Entry Configurado en FSN External Catalog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Template %1 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Batch %1 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Esta linea no esta incluida en el diario </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El campo [%1]=[%2] no coincide con el [%3].[%4]=[%5]</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El [%1]=[%2] tiene más de un registro en BC: %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El campo %1 no puede estar vacio</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>En el campo [%1] de la tabla [%2] este valor [%3]=[%4] no existe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registro no puede ser procesado por Subinventoy = %1 and Transfer Subinventrory = %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El campo [%1]=[%2] no tiene configurado un [%3].[%4]</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>entry no_ %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - Method 2959875562 - NamedType 2779639592" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Procesando: #1 de #2 ###############</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - Method CheckExternalItemEntryToApplyOnlyFullDocuments - NamedType ProgressMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - Method 2289831364 - NamedType 3040301676" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Procesando: #1 de #2 ###############</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - Method ShowProcessDialog - NamedType ProgressMsgL</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - Method 4224198349 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Template %1 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - Method Transfer - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - Method 4224198349 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Batch %1 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - Method Transfer - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1723388401 - Method 4224198349 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN External Catalog %1 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN External Item Entry - Method Transfer - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 673908927 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuotas por tienda</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Quotes by store - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 673908927 - Control 3465500804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Quotes by store - Control Month - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 673908927 - Control 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tienda</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Quotes by store - Control Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 673908927 - Control 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Quotes by store - Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 673908927 - Control 2832340769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Año</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Quotes by store - Control Year - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 445260262 - Action 2255664164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2461977201">
+          <source>Cuotas sala</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN SALES QUOTES - Action Cuotas Sala - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3814196404 - Control 3353916277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2067017715">
+          <source>Alias</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchaseListExt - Control Pay-to Vendor Search Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 678883167 - Field 3353916277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Pay-to Vendor Search Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchaseHeaderExt - Field Pay-to Vendor Search Name - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

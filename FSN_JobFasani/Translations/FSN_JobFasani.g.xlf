@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_JobFasani">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1729632008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scheduler Job Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 617522584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boolean</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Boolean - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 515859937 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calcdate Formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Calcdate Formula - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 489126886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateFormula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field DateFormula - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 3350651205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Decimal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Decimal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 4160221838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Ending Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1934425201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Handling</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Error Handling - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1934425201 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Skip To Next Run,Mark With Error and Retry,Mark With Error and Stop</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Error Handling - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1489224205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Occurred</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Error Occurred - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 642879879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Dist. Restrictions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field From Dist. Restrictions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 642879879 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Location,Single Location,Include List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field From Dist. Restrictions - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 3617061941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From-Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field From-Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1412656180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From-Location Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field From-Location Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 3883182266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Integer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Integer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1003062582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Job ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 323089917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Batch ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Last Batch ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 857684003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Date Checked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Last Date Checked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 2846043038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Log Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Last Log Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 957333912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Message Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Last Message Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 3680441540 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Time Checked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Last Time Checked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 2784180815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next Check Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Next Check Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 2634725664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next Check Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Next Check Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1418569422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Object Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1618224966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Object No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1085746399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1085746399 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>,,,Report,,Codeunit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Object Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 828292189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Option</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Option - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 828292189 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Doesn't need translation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Option - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 72500984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retry Counter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Retry Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1486352279 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Run Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1486352279 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Processing,With Error,Stopped With Error,,Special Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Run Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 980877959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Starting Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1821279055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1230148255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 3239043755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Between Check</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Time Between Check - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1306848492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Units</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Time Units - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1306848492 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Second,Minute,Hour,Day</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Time Units - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1205903401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Current Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Use Current Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 328301227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Job ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Use Job ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 493058289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Web Replication</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Use Web Replication - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 493058289 - Method 2126772001 - NamedType 4276833091" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only Valid for codeunit 99008923 "Data Distribution WS"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Use Web Replication - Method OnValidate - NamedType OnlyValidFor</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 54063479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Uses Scheduler Job Record</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Uses Scheduler Job Record - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 2209473287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Valid on Fridays</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Valid on Fridays - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 172691896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Valid on Mondays</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Valid on Mondays - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 3633285027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Valid on Saturdays</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Valid on Saturdays - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 92149052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Valid on Sundays</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Valid on Sundays - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 3989679444 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Valid on Thursdays</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Valid on Thursdays - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 1038049177 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Valid on Tuesdays</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Valid on Tuesdays - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1729632008 - Field 2201288322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Valid on Wednesdays</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Scheduler Job Header - Field Valid on Wednesdays - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2076897650 - Method 1729503322 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Programa retorno un error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN JOB Fasani - Method AfterRunCodeunit - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Page 340943954 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN JOB FASANI - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340943954 - Control 2572419062 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuración Objetos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN JOB FASANI - Control Object Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340943954 - Control 1618224966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Objeto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN JOB FASANI - Control Object No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340943954 - Control 1085746399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo Objeto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN JOB FASANI - Control Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340943954 - Control 896511889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Schedule Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN JOB FASANI - Control Schedule Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340943954 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cambiar Estatus</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN JOB FASANI - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340943954 - Action 1378963462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ejecutar Ahora</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN JOB FASANI - Action RunProcess - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340943954 - Action 1617008376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detener Ejecución de Web Services</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN JOB FASANI - Action StopWebServiceExecutions - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_ItemInfoExt">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2887619636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Info. Extend</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be rename, delete record and insert new</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be delete. %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - NamedType 4203247406" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inicialize...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - NamedType Txt2</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - NamedType 1014764321" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be delete %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - NamedType Txt7</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Method 3132840596 - NamedType 2290157555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Offer: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Method CheckInfo - NamedType Txt1</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 2997954940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked Ecommerce</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Blocked Ecommerce - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 1246825746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Default</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Discount Default - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 4240670190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field End Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 458406397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Ending Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 149522872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Entry Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 149522872 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Information,Type Item Information,Ecommerce-Limit-Inventory,Ecommerce-Hierarchy,Ecommerce-Item,Ecommerce-Prices,Parameters</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Entry Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 3130853843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Free Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Free Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 573639258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hierarchy Parent Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Hierarchy Parent Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 3723183665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image Link</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Image Link - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 4093180191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Item Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 4093180191 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item,ProductGroup,Category,Division,Attribute 1,SpecialGroup,All,Attribute 2,Attribute 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Item Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 1867272042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Date Modify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Last Date Modify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 183123725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last User Modify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Last User Modify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 2635471116 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mark Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Mark Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 3252520268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maximum Quantity Sale</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Maximum Quantity Sale - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 163296354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Quantity Sale</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Minimum Quantity Sale - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 3448728978 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price Default</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Price Default - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 1248512529 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price Inc. Disc. Default</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Price Inc. Disc. Default - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 3369789712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 855083451 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Require Medical Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Require Medical Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 3007069574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sort</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Sort - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 1753214751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Source Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 1753214751 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inicialize,Automatic,Copy Temporary,AutomaticStatic</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Source Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 2169532623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Start Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 460889064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 692903808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sub Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Sub Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 692903808 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information,ItemSetting,ItemImage,ItemLink</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Sub Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 75031992 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Discount Default</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Tag Discount Default - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2887619636 - Field 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Item Info. Extend - Field Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - NamedType 3869883860" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C:\temp\WSFSN\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - NamedType StaticHugoPath</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - NamedType 4203247406" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inicialize...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - NamedType Txt2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - NamedType 3565550789" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 whitout %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - NamedType Txt3</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - NamedType 377067704" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status: Bloqued on POS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - NamedType Txt4</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - NamedType 4034338383" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price is %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - NamedType Txt5</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - NamedType 1652460938" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PROMOS ESPECIALES</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - NamedType Txt6</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - NamedType 1014764321" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be delete %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - NamedType Txt7</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - NamedType 3734459812" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - NamedType Txt8</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - NamedType 3096763195" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inactive</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - NamedType Txt9</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1771429419 - NamedType 1089555199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Precio regular: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method UpdateHugoItem - NamedType lTxt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1771429419 - NamedType 3002645050" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Producto en oferta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method UpdateHugoItem - NamedType lTxt2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1048054860 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Conection Error DB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method UpdateInventoryHugoSql - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1048054860 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be suggest items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method UpdateInventoryHugoSql - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1048054860 - NamedType 3949771609" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SELECT ex.No_ + [Unit of Measure] Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method UpdateInventoryHugoSql - NamedType lQuery1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1048054860 - NamedType 3312074992" size-unit="char" translate="yes" xml:space="preserve">
+          <source>,ROUND(INTRANET.dbo.fn_getItemInventory(u.[Item No_],'%1') / CASE WHEN ex.[Unit of Measure] = i.[Purch_ Unit of Measure] THEN u.[Qty_ per Unit of Measure] ELSE 1 END,0,1) %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method UpdateInventoryHugoSql - NamedType lQuery2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1048054860 - NamedType 2674378375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>,ex.[Hierarchy Parent Code] ParentCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method UpdateInventoryHugoSql - NamedType lQuery3</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1048054860 - NamedType 2843287398" size-unit="char" translate="yes" xml:space="preserve">
+          <source> FROM ECOMMERCE.DBTIENDA.dbo.[FASANI$Item Info_ Extend] ex JOIN [DBTIENDA].dbo.FASANI$Item i ON ex.[No_]=i.[No_] JOIN [DBTIENDA].dbo.[FASANI$Item Unit of Measure] u ON i.No_= u.[Item No_] AND i.[Purch_ Unit of Measure] = u.Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method UpdateInventoryHugoSql - NamedType lQuery4</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1048054860 - NamedType 2205590781" size-unit="char" translate="yes" xml:space="preserve">
+          <source> where [Entry Type]=5 AND [Sub Type] = 1 and [Line No_] = 100 AND ID='HUGO' AND [Blocked Ecommerce] = 0 AND ex.[Hierarchy Parent Code] IN (SELECT No_ FROM ECOMMERCE.DBTIENDA.dbo.[FASANI$Item Info_ Extend] ex WHERE [Unit of Measure]='HUGO' and [Free Text] &lt;&gt; '')</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method UpdateInventoryHugoSql - NamedType lQuery5</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1471192501 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Conection Error DB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method UpdateStaticLimitEcommSql - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1471192501 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be suggest items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method UpdateStaticLimitEcommSql - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2887619636 - Method 1265114181 - NamedType 2290157555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Offer: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Item Info. Extend - Method ValidateRecordType - NamedType Txt1</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Admin,Process,,Actions,Inventory,Hierarchy,Adicionales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ecommerce Info. Extend</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - NamedType 2290157555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Can be only 2 copy temporary by item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - NamedType Txt1</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - NamedType 4203247406" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be change "Item Type", must be delete and new create</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - NamedType Txt2</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - NamedType 3565550789" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Limit image is 10</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - NamedType Txt3</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Control 3956102570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AccesRoute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Control AccesRoute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Control 1735198201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Block Show Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Control BlockShowDiscount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Control 3130853843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Free Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Control Free Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Control 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Group/ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Control ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Control 1186854093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IntegrationCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Control IntegrationCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Control 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Limit Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Control Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Action 1150427562 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extra Image</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Action AddImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Action 1516372536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Item Link</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Action AddItemLink - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Action 745402003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Division</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Action Division - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Action 1563600048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Action Global Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Action 1487222247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Action Item Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Action 1997552584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Action Product Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Action 2155933390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Temp.Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Action CreateTempVersion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Action 3243070197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ecommerce-Prices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Action Ecommerce-Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320879863 - Action 2969408078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory-Limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Ecommerce Info Extend. - Action Inventory-Limit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3103622376 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Item Information Extend - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3103622376 - Control 3130853843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Free Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Item Information Extend - Control Free Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3156318174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Information Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Item Information Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3300163066 - Control 2407793165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2838014922">
+          <source>FSN Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN barcode Ext - Control FSN Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 768750726 - Action 2742390217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1018902024">
+          <source>Ecommerce Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailItemListExt - Action Ecommerce Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 768750726 - Action 604339567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1018902024">
+          <source>Item Information Add</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailItemListExt - Action ItemInfoExtend - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 768750726 - Action 854037749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1018902024">
+          <source>Item Info. Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailItemListExt - Action ItemInfoType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 768750726 - Action 2230032234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1018902024">
+          <source>Offer Extend</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailItemListExt - Action Offer Extend - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 768750726 - Action 1790972943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1018902024">
+          <source>Update all ingredient</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailItemListExt - Action UpdateAllIngredient - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 768750726 - Action 1790972943 - Method 1377591017 - NamedType 1089555199" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 768750726">
+          <source>Do you want to upgrade all items?\It will take a few minutes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN RetailItemListExt - Action UpdateAllIngredient - Method OnAction - NamedType lTxt1</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3975793754 - Field 2407793165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3574446021">
+          <source>FSN Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Barcode Ext - Field FSN Blocked - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,72 @@
+{
+  "id": "1e99817d-26ea-43ba-bca0-1b2e6e777a83",
+  "name": "FSN_ExternalSerie",
+  "publisher": "FASANI",
+  "version": "1.0.0.75",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "70375071-ed72-4b1b-9736-cfe88bca6c83",
+      "publisher": "FASANI",
+      "name": "FSN_InsurerCompany",
+      "version": "1.0.0.11"
+    },
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "publisher": "LS Retail",
+      "name": "LS Central",
+      "version": "18.4.5.1000013"
+    },
+    {
+      "id": "2a0547fa-f60f-401d-b1fe-c7c4be8fb230",
+      "publisher": "LS Retail",
+      "name": "LS Central System App",
+      "version": "18.4.0.0"
+    },
+    {
+      "id": "a397324a-67fe-4557-aefb-aa375b30dbdf",
+      "publisher": "FASANI",
+      "name": "BCDAO",
+      "version": "1.0.0.20"
+    },
+    {
+      "id": "e7aa14cd-4ee8-4901-9cbd-fba2c27a5d22",
+      "publisher": "FASANI",
+      "name": "BCBLO",
+      "version": "1.0.0.14"
+    },
+    {
+      "id": "c2ec0fd9-a04f-49ff-8054-df8b17008af7",
+      "publisher": "IDS",
+      "name": "IDS Localizacion",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "0b039440-887f-4aa8-9efe-5bfcd3d0129e",
+      "publisher": "IDS",
+      "name": "IDS LS",
+      "version": "18.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "target": "OnPrem",
+  "features": [
+    "TranslationFile"
+  ]
+}

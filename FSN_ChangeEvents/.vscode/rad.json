@@ -1,0 +1,1 @@
+﻿{"Added":[],"Modified":[{"Id":50091,"Kind":11,"Name":"ChangeEventHosp","PackagePath":"/src/src/Codeunit/ChangeEventPOS.Codeunit.al"},{"Id":50096,"Kind":12,"Name":"DTE POS Customer Card","PackagePath":"/src/src/Page/CustomerCardDTE.Page.al"}],"Removed":[{"Id":50095,"Kind":12,"Name":"DTE POS Customer","PackagePath":"/src/src/Page/SelectCustomerDTE.Page.al"}]}

@@ -1,0 +1,49 @@
+{
+  "id": "d5e8ca52-ce65-492b-bf9b-6d87de7fc75c",
+  "name": "FSN_Audit",
+  "publisher": "FASANI",
+  "version": "1.0.0.22",
+  "brief": "Extension de Auditoria",
+  "description": "Extension con todo el codigo de auditoria",
+  "target": "OnPrem",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "name": "LS Central",
+      "publisher": "LS Retail",
+      "version": "18.4.5.1000013"
+    },
+    {
+      "id": "62f6f99a-4d99-497c-af9f-16f62493c460",
+      "name": "FSN_Purchase",
+      "publisher": "FASANI",
+      "version": "1.0.1.15"
+    },
+    {
+      "id": "a397324a-67fe-4557-aefb-aa375b30dbdf",
+      "name": "BCDAO",
+      "publisher": "FASANI",
+      "version": "1.0.0.23"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50200
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

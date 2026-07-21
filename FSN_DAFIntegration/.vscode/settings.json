@@ -1,0 +1,7 @@
+{
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "C:/Program Files/Microsoft Dynamics 365 Business Central/180/Service",
+        "C:/Windows/assembly"
+    ]
+}

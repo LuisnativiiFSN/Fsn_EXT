@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_Membresia">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1950687951 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record is procecced</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 2279323338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Action - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 2279323338 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create,Renovate,VerifyReferences</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Action - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 776953429 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beneficiary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Beneficiary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 382882119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member Club Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Club Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 741632393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Counter Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Counter Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 2572116376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Create Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Date Create Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 2894230802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Processed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Date Processed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 2400744372 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Process Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 2253333645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 786338324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member Scheme Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Scheme Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 2267787733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StaffID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field StaffID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending,Processed,Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 3402596481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Processed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field Time Processed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1950687951 - Field 2469702926 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN IntegrationMember - Field User Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error insert table %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - NamedType 2397507036" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error modify table %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - NamedType gText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - NamedType 1759810419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value %1 not exists in table %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - NamedType gText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - NamedType 1122113802" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact not exists %1 + %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - NamedType gText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - NamedType 3696138470" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COMODIN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - NamedType _COMODIN</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 3840110280 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method CreateNewMemberCard - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 3840110280 - NamedType 2348379739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer cant be "Retail Customer Group" COMODIN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method CreateNewMemberCard - NamedType lText008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 3840110280 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ingrese numero de tarjeta VIP y BENEFICIARIO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method CreateNewMemberCard - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 4059297269 - NamedType 1613578185" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede anular transacion con Tarjeta VIP afiliada o Renovada %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method LSC POS Transaction Events_OnAfterVoidPressed - NamedType Label1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 569212548 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid value %1 in Request Node %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberCardReplace - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 569212548 - NamedType 3031896719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 no existe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberCardReplace - NamedType Text101</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 569212548 - NamedType 12322657" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberCardReplace - NamedType Text103</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 569212548 - NamedType 3200805742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record %1 already exists. Value %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberCardReplace - NamedType Text106</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 569212548 - NamedType 1692744520" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se pudo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberCardReplace - NamedType Resp</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 569212548 - NamedType 3397655244" size-unit="char" translate="yes" xml:space="preserve">
+          <source>51</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberCardReplace - NamedType cod</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 2409788401 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El cliente %1 no existe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberMgtAccount - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 2409788401 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account alredy exists ID %1, is not match with Customer %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberMgtAccount - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 2409788401 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error de datos. No tiene cuentas membresia asociada a targeta %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberMgtAccount - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 2409788401 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El Cliente %1 no coincide con el de la Cuenta %2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberMgtAccount - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 255687774 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Erro No. %1, %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberMgtCard - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 255687774 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact not exists %1 + %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberMgtCard - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 2015124826 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta no encontrada %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method MemberMgtContact - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value %1 not exists in table %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scheme %1 not exists in club %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action "Create". Member card %1 alredy exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action "Modify". Member card %1 not exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beneficiary cant is empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer must be a personal document (DUI, NRC or Foreign Document)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer must be adult</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 2348379739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer cant be "Retail Customer Group" COMODIN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 2986076356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Verify references is not used</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 728973284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calc formula of "Card Expiration" is not valid in Table %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 91276667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card must be expired for Action "Modify"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 9116266 - NamedType 2004366518" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer cant be empty in table %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ProcessMemberRecord - NamedType lText012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 939090790 - NamedType 3292432959" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC: Tarjeta no existe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ValidateMemberCard - NamedType ERR000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 939090790 - NamedType 3930129576" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC: Cuenta Miembro no existe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ValidateMemberCard - NamedType ERR001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 939090790 - NamedType 272858897" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC: Cliente no existe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ValidateMemberCard - NamedType ERR002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 412864175 - Method 939090790 - NamedType 910555514" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC: Cliente no coincide con el de la cuenta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integration Member - Method ValidateMemberCard - NamedType ERR003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 366530491 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password must be manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Loyalty - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 366530491 - Method 3814792146 - NamedType 3584248220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This user is not a manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Loyalty - Method LSC POS Controller_OnModalPanelResult - NamedType ltext001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 366530491 - Method 3604453172 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insufficient points</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Loyalty - Method LSC POS Controller_OnNumpadResult - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 366530491 - Method 3604453172 - NamedType 3656793313" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede ingresar un dato mayor o menor a %1 NICOPUNTOS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Loyalty - Method LSC POS Controller_OnNumpadResult - NamedType Errotext</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 366530491 - Method 1120870546 - NamedType 2810311271" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot get points</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Loyalty - Method LSC POS Transaction Events_OnBeforeCheckMemberCard - NamedType ErrorText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 366530491 - Method 432666688 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card %1 not exits</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Loyalty - Method MembershipCardConfirm - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 366530491 - Method 432666688 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 is not valid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Loyalty - Method MembershipCardConfirm - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 366530491 - Method 432666688 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card be scanned, try again</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Loyalty - Method MembershipCardConfirm - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 366530491 - Method 432666688 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Not match. Expected card %1, scann %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Loyalty - Method MembershipCardConfirm - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 810849738 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password must be manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Command Extend - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 810849738 - Method 432666688 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card %1 not exits</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Command Extend - Method MembershipCardConfirm - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 810849738 - Method 432666688 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 is not valid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Command Extend - Method MembershipCardConfirm - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 810849738 - Method 432666688 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card be scanned, try again</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Command Extend - Method MembershipCardConfirm - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 810849738 - Method 432666688 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Not match. Expected card %1, scann %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Command Extend - Method MembershipCardConfirm - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Membresias</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - NamedType 947577544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TARJETA %1 PERTENECE A DUI %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - NamedType Mens01</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - NamedType 1582713858" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Afiliacion exitosa</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - NamedType TexAf</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - NamedType 3247632252" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se pudo afiliar tarjeta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - NamedType TexnAf</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - NamedType 3599945305" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se pudo renovar tarjeta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - NamedType TexNRenov</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - NamedType 3494852115" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renovacion exitosa</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - NamedType TexRenov</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - NamedType 3696138470" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COMODIN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - NamedType _COMODIN</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nada que hacer, acción ID = %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El club %1 no existe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La tarjeta %1 aun esta vigente, vence el %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El cliente debe ser mayor de Edad.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cliente no existe %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha nacimiento no es correcta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El documento legal de cliente no puede esta vacio.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 2348379739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se puede Afiliar / Renovar a un cliente COMODin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType lText008</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 3841809293" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La tarjeta %1 ya existe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType gText009</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 3396367997" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El beneficiario no puede estar vacio</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType gText010</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 4034064614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El Club Membresia %1 no tiene configurado Periodo de expiración</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType gText011</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. %1 No existe en la Base Local (%2).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 4121972269 - NamedType 2758671380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tarjeta %1, en Club %2 dentro de esquema %3 fue registrada exitosamente!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method MemberManagement - NamedType gText013</note>
+        </trans-unit>
+        <trans-unit id="Page 902956014 - Method 3040812157 - NamedType 2657319458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha de nacimiento invalido</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Affiliate MemberCard - Method ValidateCus - NamedType Messag</note>
+        </trans-unit>
+        <trans-unit id="Page 1950687951 - Action 2675496269 - Method 1377591017 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All records processed successfull!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN IntegrationMember - Action Process - Method OnAction - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Page 1950687951 - Action 2675496269 - Method 1377591017 - NamedType 2761171062" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Card Selected %1, &amp;All Pending</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN IntegrationMember - Action Process - Method OnAction - NamedType lTextMenu</note>
+        </trans-unit>
+        <trans-unit id="Page 1950687951 - Action 2675496269 - Method 1377591017 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN IntegrationMember - Action Process - Method OnAction - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Page 1950687951 - Action 2675496269 - Method 1377591017 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card %1 processed successfull!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN IntegrationMember - Action Process - Method OnAction - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Page 1728358205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Escanear VIP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Scan VIP - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

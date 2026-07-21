@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="FSN_ReplicationVerify.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2839556462 - Method 34862469 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº de Tienda: %1 ,Terminal: %2, Fecha: %3, Hora: %4 Insertados</source>
+          <target>Nº de Tienda: %1 ,Terminal: %2, Fecha: %3, Hora: %4 Insertados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replication server - Method ReplicationVerify - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2839556462 - Method 34862469 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº de Tienda: %1 ,Terminal: %2, Fecha: %3, Hora: %4 ya existe</source>
+          <target>Nº de Tienda: %1 ,Terminal: %2, Fecha: %3, Hora: %4 ya existe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replication server - Method ReplicationVerify - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2839556462 - Method 34862469 - NamedType 1033806989" size-unit="char" translate="yes" xml:space="preserve">
+          <source>use master CREATE TABLE #Temp1 (drive varchar(5),[MB] decimal) INSERT INTO #Temp1 EXEC XP_FIXEDDRIVES CREATE TABLE #Temp2 (IP varchar(max)) INSERT INTO #Temp2 EXEC master..xp_cmdshell 'ipconfig' select substring(t2.IP,CHARINDEX(':',t2.IP,1)+2,LEN(t2.IP)-(CHARINDEX(':',t2.IP,1)+1)) as local_net_address,t1.drive,t1.[MB]from  #Temp1 t1 join  #Temp2 t2 on t2.IP like '%IPv4%' and t1.drive='C'</source>
+          <target>[NAB: REVIEW]use master CREATE TABLE #Temp1 (drive varchar(5),[MB] decimal) INSERT INTO #Temp1 EXEC XP_FIXEDDRIVES CREATE TABLE #Temp2 (IP varchar(max)) INSERT INTO #Temp2 EXEC master..xp_cmdshell 'ipconfig' select substring(t2.IP,CHARINDEX(':',t2.IP,1)+2,LEN(t2.IP)-(CHARINDEX(':',t2.IP,1)+1)) as local_net_address,t1.drive,t1.[MB]from  #Temp1 t1 join  #Temp2 t2 on t2.IP like '%IPv4%' and t1.drive='C'</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source has been modified.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replication server - Method ReplicationVerify - NamedType query1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2839556462 - Method 34862469 - NamedType 396110372" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SELECT [database_id],[Database_Name],[Drive_Letter],[Drive_Label],[Total_Size_MB],[Free_Space_MB],[Total_Size_GB],[Free_Space_GB],[Free_Space_Percentage],[Used_Space_Percentage],[DB_Log_MB],[DB_Data_MB],[DB_Log_GB],[DB_Data_GB] FROM [master].[dbo].[Volume Stats View]</source>
+          <target>SELECT [database_id],[Datbase_Name],[Drive_Letter],[Drive_Label],[Total_Size_MB],[Free_Space_MB],[Total_Size_GB],[Free_Space_GB],[Free_Space_Percentage],[Used_Space_Percentage],[DB_Log_MB],[DB_Data_MB],[DB_Log_GB],[DB_Data_GB] FROM [master].[dbo].[Volume Stats View]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replication server - Method ReplicationVerify - NamedType query2</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Replication Verify</source>
+          <target>FSN Replication Verify</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3307844512 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DB_Id</source>
+          <target>DB_Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control DB_Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1644771034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DB_Name</source>
+          <target>Nombre_DB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control DB_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 2608346374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DriveLetter</source>
+          <target>Letra de unidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control DriveLetter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1857955172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DriveSpace</source>
+          <target>Espacio de unidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control DriveSpace - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3937526983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FreeSpaceGB</source>
+          <target>GB de espacio libre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control FreeSpaceGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1648266305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FreeSpaceMB</source>
+          <target>MB de espacio libre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control FreeSpaceMB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 921571204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FreeSpacePercentage</source>
+          <target>Porcentaje de espacio libre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control FreeSpacePercentage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 204519905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IpAddress</source>
+          <target>Direccion IP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control IpAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 4018244739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SizeDB_DataGB</source>
+          <target>TamañoDB_DataGB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control SizeDB_DataGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1754591373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SizeDB_DataMB</source>
+          <target>TamañoDB_DataMB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control SizeDB_DataMB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3102700367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SizeDB_LogGB</source>
+          <target>TamañoDB_LogGB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control SizeDB_LogGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 854217860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SizeDB_Log_MB</source>
+          <target>TamañoDB_LogMB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control SizeDB_Log_MB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 975887170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>No. Tienda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control StoreNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3522378736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terminal</source>
+          <target>Terminal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control Terminal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1230148255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <target>Hora</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1588191566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotalSizeGB</source>
+          <target>Tamaño total GB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control TotalSizeGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3851844932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotalSizeMB</source>
+          <target>Tamaño total MB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control TotalSizeMB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 20940045 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UsedSpacePercentage</source>
+          <target>Porcentaje de espacio utilizado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control UsedSpacePercentage - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_CustomerBeneficiary">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 4290449483 - Field 2775288517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Benef. Father Son - Field Card No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4290449483 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Benef. Father Son - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4290449483 - Field 1466422492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DUI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Benef. Father Son - Field DUI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4290449483 - Field 3281272467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Benef. Father Son - Field mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4290449483 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Benef. Father Son - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4290449483 - Field 3347480509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NIT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Benef. Father Son - Field NIT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4290449483 - Field 3942000251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Poliza</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Benef. Father Son - Field Poliza - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4290449483 - Field 1856965130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Benef. Father Son - Field Relation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4290449483 - Field 2913010301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Titular</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Benef. Father Son - Field Titular - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2223769781 - Field 2775288517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SeleccionBeneficiario - Field Card No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2223769781 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SeleccionBeneficiario - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2223769781 - Field 1856965130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SeleccionBeneficiario - Field Relation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2223769781 - Field 2913010301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Titular</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SeleccionBeneficiario - Field Titular - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3043382782 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. tarjeta de Titular</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Benef. Father/Son Event - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3043382782 - Method 2548950901 - NamedType 3470171847" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede ser vacio</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Benef. Father/Son Event - Method BeneficiariesComan - NamedType DataTypeErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3043382782 - Method 2548950901 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El nombre del beneficiario no puede estar vacío</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Benef. Father/Son Event - Method BeneficiariesComan - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3043382782 - Method 2548950901 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El nombre no puede estar vacío</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Benef. Father/Son Event - Method BeneficiariesComan - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3043382782 - Method 2548950901 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El codigo de titular no es valido</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Benef. Father/Son Event - Method BeneficiariesComan - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3043382782 - Method 2548950901 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El numero de Tarjeta es %1, desea continuar?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Benef. Father/Son Event - Method BeneficiariesComan - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3043382782 - Method 2548950901 - NamedType 539028561" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TITULAR</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Benef. Father/Son Event - Method BeneficiariesComan - NamedType lFilterTitular</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3043382782 - Method 2509803922 - NamedType 4000568837" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El correo "%1" no tiene un formato válido.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Benef. Father/Son Event - Method LSC POS Controller_OnKeyboardResult - NamedType InfoText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3043382782 - Method 2473622958 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ingrese correo del beneficiario</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Benef. Father/Son Event - Method LSC POS Controller_OnPOSEvent - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3043382782 - Method 2473622958 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El cliente %1 no esta permitido para ingresar correo electronico.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Benef. Father/Son Event - Method LSC POS Controller_OnPOSEvent - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3043382782 - Method 357177177 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. tarjeta de Titular</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Benef. Father/Son Event - Method POS Transaction Events_OnAfterValidateCustomer - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Page 3191389321 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Beneficiaries Father/Son</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Beneficiaries Father/Son - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3191389321 - Control 3281272467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Beneficiaries Father/Son - Control mail - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

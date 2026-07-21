@@ -1,0 +1,1 @@
+﻿{"Added":[],"Modified":[{"Id":50007,"Kind":12,"Name":"FSN POS Card Request Entries","PackagePath":"/src/src/Page/POSCardRequestEntries.Page.al"}],"Removed":[{"Id":50036,"Kind":11,"Name":"FSN POS Card Integration","PackagePath":"/src/src/Codeunit/POSCardIntegration.Codeunit.al"}]}

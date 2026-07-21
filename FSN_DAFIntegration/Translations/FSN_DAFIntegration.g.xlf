@@ -1,0 +1,919 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_DAFIntegration">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 3180945002 - NamedType 1629689694" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VACIO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - NamedType EMPTY_</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - NamedType 2248182395" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GENERAL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - NamedType GENERAL_</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unauthorized for use DAF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be stablish conextion. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 not exists. %2 %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - NamedType 3809722251" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TIPOLOGIA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - NamedType TIPOLOGIA_</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 3284118627 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 not apply for DAF APP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CancelTypologyType - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1145269969 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be stablish conextion. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CheckTripsFromDAF - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1145269969 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CheckTripsFromDAF - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1145269969 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error conextion DAF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CheckTripsFromDAF - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1145269969 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no trip in DAF for %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CheckTripsFromDAF - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1145269969 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver %1 ALREADY orders assigned</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CheckTripsFromDAF - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1145269969 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Orders suggest for DAF not avaliable in POS %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CheckTripsFromDAF - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1145269969 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trip ID isnt valid!. "Trip No. %1"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CheckTripsFromDAF - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1145269969 - NamedType 2348379739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NOT EXISTS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CheckTripsFromDAF - NamedType lText008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1145269969 - NamedType 2986076356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ORDERS NOT FOUND</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CheckTripsFromDAF - NamedType lText009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 843746636 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mixto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CreateTripDAF - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 2229374322 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be stablish conextion. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CreateTripFromDAF - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 2229374322 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CreateTripFromDAF - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 2229374322 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error conextion DAF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CreateTripFromDAF - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 2229374322 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no trip in DAF for %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CreateTripFromDAF - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 2229374322 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver %1 ALREADY orders assigned</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CreateTripFromDAF - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 2229374322 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Orders suggest for DAF not avaliable in POS %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CreateTripFromDAF - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 2229374322 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trip ID isnt valid!. "Trip No. %1"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method CreateTripFromDAF - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1865556987 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be stablish conextion. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method FinalizeTripInDAF - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1865556987 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method FinalizeTripInDAF - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 3888042500 - NamedType 2202810143" size-unit="char" translate="yes" xml:space="preserve">
+          <source>a3256|B0000757|B0000758</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method GetOrderType - NamedType itemFilter</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1018332510 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HAS ANOTHER OLD ROUTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method InitDeliveryDriverTripFromDAF - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 1018332510 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DRIVER NOT AVAILABLE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method InitDeliveryDriverTripFromDAF - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 3429230275 - NamedType 3938122455" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMPTY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method SendOrderDAF - NamedType EMPTY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 3429230275 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data not exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method SendOrderDAF - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 3429230275 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response not Found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method SendOrderDAF - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3180945002 - Method 3429230275 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inactive in DAF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DAF Integration - Method SendOrderDAF - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant process inventory lookup, Inventory is show at hour %1 </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 [%2] \</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory is not enough for %1 items.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory incomplete, change store suggest \%1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory is not enough, no no suggestions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OPTION %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>For Store %1 - %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 - %2 .......... Request %3 Inventory %4 (Complete)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory is not enough for %1 items.\Not store suggest.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order %1 not exists or havent items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response WS is not sucessfull.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 do you want continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order must be items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order document type TICKET.\Want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Order to: %1\Store: %2\Want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lookup %1 , not found %2 - %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call typified like SALE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance is greater that total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text018</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No. Not available</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New linked order created %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value %1 - %2 is invalid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Function not allowed in Status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 1302975608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text023</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 196491397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mixto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text024</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 834188014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text025</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3216065459" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error insert tipology, field was ocuped for %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text026</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3853762076" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Limit Amount for delivery is $%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text027</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 2747277865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Limit Amount for delivery cross transaction is $%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text028</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3384974482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store delivery %1 and store Transac %2 no match</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text029</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 1148659762" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount in cross orders for contact ($ %1) is less to allowed $( %2)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text030</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 510963145" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 is assigned to store %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text031</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 4168233824" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer request %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text032</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3530537207" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Changes in transaction require recalc payment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text033</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3699446230" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Not exists, Value %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text034</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3061749613" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vertify payments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text035</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 2424052996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check data card payments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text036</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 1786356379" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member point %1 are not enough for payment %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text037</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 342054122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Valid Time for street %1 is %2.\%3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text038</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 3999324801" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be insert payment for reprint voucher,\amount transaction must be zero</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text039</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 1404403683" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a valid street.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text040</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 2042100300" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PAY: %1 %2 %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text041</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 2898896410" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are %1 order(s) with priority.\ Priority is %2 \Contact. %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text201</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - NamedType 985806559" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EXPRESS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - NamedType Text202</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 2215617108 - NamedType 2290157555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trip status in %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method AssignExt - NamedType Txt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 2215617108 - NamedType 4203247406" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Already %2 %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method AssignExt - NamedType Txt2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 1543341875 - NamedType 1089555199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active motorcycle - %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method DriverOnOffExt - NamedType lTxt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 1543341875 - NamedType 3002645050" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inactive motorcycle - %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method DriverOnOffExt - NamedType lTxt2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 1543341875 - NamedType 2364948433" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver have asociate orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method DriverOnOffExt - NamedType lTxt3</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 1311318442 - NamedType 1089555199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 [Open..]</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method GetDriverNameExt - NamedType lTxt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 1311318442 - NamedType 3002645050" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 [In Trip]</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method GetDriverNameExt - NamedType lTxt2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 4008179838 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must liquidate the bikes %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method ReportZValidate - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 4008179838 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>before printing the cut</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method ReportZValidate - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 2722043549 - NamedType 2290157555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send order to Queue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip - NamedType Txt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 2722043549 - NamedType 4203247406" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be start trip, order %1 </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip - NamedType Txt2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 2722043549 - NamedType 3565550789" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order must be invoiced.\%1\%2\%3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip - NamedType Txt3</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 2722043549 - NamedType 377067704" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trip was cancel in DAF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip - NamedType Txt4</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 2722043549 - NamedType 4034338383" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be finalize trip. unknow error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip - NamedType Txt5</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 2722043549 - NamedType 3462888219" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This order number does not belong to a delivery order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip - NamedType PosDelError</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 1376142475 - NamedType 2290157555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send order to Queue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip2 - NamedType Txt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 1376142475 - NamedType 4203247406" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be start trip, order %1 </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip2 - NamedType Txt2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 1376142475 - NamedType 3565550789" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order must be invoiced.\%1\%2\%3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip2 - NamedType Txt3</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 1376142475 - NamedType 377067704" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trip was cancel in DAF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip2 - NamedType Txt4</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 1376142475 - NamedType 4034338383" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be finalize trip. unknow error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip2 - NamedType Txt5</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 1376142475 - NamedType 3462888219" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This order number does not belong to a delivery order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method SendTrip2 - NamedType PosDelError</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3756032531 - Method 4208803698 - NamedType 1089555199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be quit form trip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Delivery Func. Extend - Method UnAssignFromPageExt - NamedType lTxt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connection fail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Service, %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 3970335315" size-unit="char" translate="yes" xml:space="preserve">
+          <source>swipe or insert card in POS SERFINSA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text001_2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description error not found (%1)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 3004929502" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Performing automatic return. POS SERFINSA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text002_2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction succesfull!!. (Trans. %1)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Points %1 , equivalent to $%2. (Transaction %3)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mode: %1 message: %2 . Validate data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generic error SERFINSA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Command not exists %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup parameter not exits %1, %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 not exists. Values %1 %2 %3 %4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3259864694 - Method 826853007 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status in API %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit OData Conexion 2 - Method DAFUpdateTrip - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1828528959 - Method 1865556987 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be stablish conextion. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit POS Print Utility - Method FinalizeTripInDAF - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1828528959 - Method 1865556987 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit POS Print Utility - Method FinalizeTripInDAF - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Admin,Trip,Reports,Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver Trip View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 1819174072" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Iniciar viaje</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType CaptionStartShip</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 1172533893" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirmar mercadería</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType CaptionText</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 3721534664" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start trip?\Driver: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text1</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 1290701856" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Trip - Orders %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text10</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 653005239" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trip loaded! \%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text11</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 2566095090" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text12</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 1928398473" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No orders in queue!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text13</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 3841488324" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be add order, DAF mode is active. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text14</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 64263985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Motorcycle return?, \Finalize %1 orders?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text2</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 701960602" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel trip for %1?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text3</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 1339657219" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unassign order %1 %2?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text4</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 1977353836" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add order to trip?.\No. %1\Phone%2\Amount %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text5</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 2615050453" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be modify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text6</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 3252747070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sent to queue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text7</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 3890443687" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel trip for order definitely. \Order%1\Phone %2 \Amount %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text8</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - NamedType 233173008" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trip was cancelled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - NamedType Text9</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Method 156529102 - NamedType 206785178" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MONTOS DE LIQUIDACION DAF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Method GenerateMontoDAFHTML - NamedType TitleLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Method 1416289001 - NamedType 245426702" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount to liquidate is: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Method MessageAmount - NamedType Total</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Method 1416289001 - NamedType 3703761530" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Change is: $%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Method MessageAmount - NamedType Change</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Method 1416289001 - NamedType 3522378736" size-unit="char" translate="yes" xml:space="preserve">
+          <source> on Terminal: $%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Method MessageAmount - NamedType Terminal</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Method 716454850 - NamedType 1473772685" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Solo se puede liquidar moto en %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Method OnOpenPage - NamedType LabelText</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Method 2282416948 - NamedType 2810311271" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Los datos no representan un token válido de JSON.: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Method Post - NamedType ErrorText</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Method 3744457603 - NamedType 3565550789" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El pedido debe ser facturado.\%1\%2\%3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Method ValDelTrip - NamedType Txt3</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 2863333558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount to liquidate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control DriverAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 353529621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Orders Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control OrdersAmount2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 645356111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Changes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control TotalChanges2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 2326379023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Trip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control TotalTrip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 3133234951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control Box - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 3703761530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control Change - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 2378863201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control Contact Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 1286140333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control Driver ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 3260489966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control Order Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 681009761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control OrderNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 2153522857 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Liquidate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control ToLiquidate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 2153522857 - Method 2126772001 - NamedType 3556463680" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Importe a liquidar no puede ser menor que el Importe de la Orden</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control ToLiquidate - Method OnValidate - NamedType IText000</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 216827303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trip. Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control Trip. Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 3431433841 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trip Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control TripType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Control 3431433841 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Normal,DAF-Automatic</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Control TripType - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 146219450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 1746083154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete From Queue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action DeleteFromQueue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 2629232231 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re Open Orden</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action ReOpenOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 3444384062 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UnAssign Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action UnAssign - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 3152938707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Monto DAF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action ViewMontoDAF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 1474388889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action Trip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 3070984018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add From Queue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action AddFromQueue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 1015699403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Trip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action CancelTrip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 2229374322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreateTripFromDAF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action CreateTripFromDAF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 2922988447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalize Trip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action FinalizeTrip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 1970238225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Trip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action StartTrip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 1970238225 - Method 1377591017 - NamedType 4101962809" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desea confirmar mercadería?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action StartTrip - Method OnAction - NamedType TextConfirm</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 3990059039 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirmar ruta para cancelar pedido</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action StartTrip2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1959851041 - Action 3990059039 - Method 1377591017 - NamedType 4101962809" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desea confirmar mercadería?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Driver Trip View - Action StartTrip2 - Method OnAction - NamedType TextConfirm</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1029225555 - Action 3963603388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2760349135">
+          <source>Resend to DAF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DAF send Test - Action Resend DAF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1381179177 - Field 237237036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 304366443">
+          <source>FSN DAF Trip No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Delivery Driver Trip Ext - Field FSN DAF Trip No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1381179177 - Field 1825593676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 304366443">
+          <source>FSN Functionality Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Delivery Driver Trip Ext - Field FSN Functionality Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1381179177 - Field 1825593676 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 304366443">
+          <source>Manual, Automatic</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Delivery Driver Trip Ext - Field FSN Functionality Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2925565916 - Field 1967884235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2346079946">
+          <source>FSN Cambio Efectivo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Delivery Order Ext - Field FSN Cambio Efectivo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1246335322 - EnumValue 676513219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN DAF OrderType - EnumValue Call Center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1246335322 - EnumValue 3312303423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Commerce</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN DAF OrderType - EnumValue E-Commerce - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1246335322 - EnumValue 3332175073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Onlife</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN DAF OrderType - EnumValue Onlife - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1246335322 - EnumValue 1535478001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Packaging</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN DAF OrderType - EnumValue Packaging - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

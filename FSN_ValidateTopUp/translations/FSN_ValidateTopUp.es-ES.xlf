@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="FSN_ValidateTopUp.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 310370195 - Method 2232433710 - NamedType 782590172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can only perform one top-up per transaction</source>
+          <target>Solo puede realizar una recarga por transaccion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source has been modified.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Top Up Total - Method ValidateTopUpTotal - NamedType Msg01</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

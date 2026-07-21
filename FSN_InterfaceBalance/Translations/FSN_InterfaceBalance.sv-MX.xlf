@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="sv-MX" original="FSN_InterfaceBalance.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3282949711 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN AP - Pro Purch. Cr. Memo - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2846746478 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN AP - Pro Purch. Invoices - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 3430845525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boleta_id</source>
+          <target>Boleta_id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field Boleta_id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 3588592318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE CONTROL</source>
+          <target>DTE CONTROL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field DTE CONTROL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 424440431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>factura_descuento</source>
+          <target>factura_descuento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field factura_descuento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 1659871742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>factura_imp_venta</source>
+          <target>factura_imp_venta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field factura_imp_venta - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 3896444801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>factura_subtotal</source>
+          <target>factura_subtotal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field factura_subtotal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 835885913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>fANN</source>
+          <target>fANN</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field fANN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 1941127942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>fDIA</source>
+          <target>fDIA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field fDIA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 1556158755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FECHA</source>
+          <target>FECHA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field FECHA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 4019485122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha_Documento</source>
+          <target>Fecha_Documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field Fecha_Documento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 768377015 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FECHA_REGISTRO</source>
+          <target>FECHA_REGISTRO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field FECHA_REGISTRO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 2038714343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>fMES</source>
+          <target>fMES</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field fMES - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 2639049725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NCnum</source>
+          <target>NCnum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field NCnum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 3835226890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NCVal</source>
+          <target>NCVal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field NCVal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 1423149331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NUM_COMPROBANTE</source>
+          <target>NUM_COMPROBANTE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field NUM_COMPROBANTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 1732674174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Procesado</source>
+          <target>Procesado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field Procesado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 56536755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>prov_id</source>
+          <target>prov_id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field prov_id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 1673304799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>prov_nombre</source>
+          <target>prov_nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field prov_nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 2742725084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replication Counter</source>
+          <target>Replication Counter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field Replication Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 3454552051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SALDO_COMPR</source>
+          <target>SALDO_COMPR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field SALDO_COMPR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 202261665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suc_id</source>
+          <target>Suc_id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field Suc_id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 2435596949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>suc_nombre</source>
+          <target>suc_nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field suc_nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1080533799 - Field 3862373129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TieneNota</source>
+          <target>TieneNota</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_po - Field TieneNota - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 470746416 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ANULADO</source>
+          <target>ANULADO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field ANULADO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2060451939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APLICADO_AR</source>
+          <target>APLICADO_AR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field APLICADO_AR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 235986507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APLICADO_GL</source>
+          <target>APLICADO_GL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field APLICADO_GL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2633200706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BATCH_SOURCE</source>
+          <target>BATCH_SOURCE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field BATCH_SOURCE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3236157376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BITCOIN</source>
+          <target>BITCOIN</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field BITCOIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1249327851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CAJA</source>
+          <target>CAJA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field CAJA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1457009511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CESC_REB_DEV_VTA_GRABADA</source>
+          <target>CESC_REB_DEV_VTA_GRABADA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field CESC_REB_DEV_VTA_GRABADA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2343404142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CODIGO_CLIENTE</source>
+          <target>CODIGO_CLIENTE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field CODIGO_CLIENTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2584974324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CORRELATIVO</source>
+          <target>CORRELATIVO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field CORRELATIVO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3873059573 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DOCUMENTO_FINAL</source>
+          <target>DOCUMENTO_FINAL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field DOCUMENTO_FINAL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 4057148794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DOCUMENTO_INICIAL</source>
+          <target>DOCUMENTO_INICIAL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field DOCUMENTO_INICIAL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 4086892735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE</source>
+          <target>DTE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field DTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1119595013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE_CODIGO_CONTROL</source>
+          <target>DTE_CODIGO_CONTROL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field DTE_CODIGO_CONTROL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 4192712738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE_CODIGO_GENERACION_FINAL</source>
+          <target>DTE_CODIGO_GENERACION_FINAL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field DTE_CODIGO_GENERACION_FINAL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2422943051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE_CODIGO_GENERACION_INICIO</source>
+          <target>DTE_CODIGO_GENERACION_INICIO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field DTE_CODIGO_GENERACION_INICIO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2703641065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFECTIVO_DOMICILIO_A_ENVIAR</source>
+          <target>EFECTIVO_DOMICILIO_A_ENVIAR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field EFECTIVO_DOMICILIO_A_ENVIAR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2442384736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFECTIVO_DOMICILIO_A_RECIBIR</source>
+          <target>EFECTIVO_DOMICILIO_A_RECIBIR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field EFECTIVO_DOMICILIO_A_RECIBIR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1152561218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FECHA_DOCUMENTO</source>
+          <target>FECHA_DOCUMENTO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field FECHA_DOCUMENTO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 4257582327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FECHA_DOC_ANULADO</source>
+          <target>FECHA_DOC_ANULADO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field FECHA_DOC_ANULADO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 768377015 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FECHA_REGISTRO</source>
+          <target>FECHA_REGISTRO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field FECHA_REGISTRO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1334062172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GIFTCARD</source>
+          <target>GIFTCARD</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field GIFTCARD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 357752894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HUGO_PAY</source>
+          <target>HUGO_PAY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field HUGO_PAY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3568248919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IVA_REB_DEV_VTA_GRABADA</source>
+          <target>IVA_REB_DEV_VTA_GRABADA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field IVA_REB_DEV_VTA_GRABADA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2299594926 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MONTO_PERCEPCION</source>
+          <target>MONTO_PERCEPCION</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field MONTO_PERCEPCION - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3401745533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MONTO_RETENCION</source>
+          <target>MONTO_RETENCION</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field MONTO_RETENCION - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 193461384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MOSTRAR</source>
+          <target>MOSTRAR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field MOSTRAR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1375249525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NCF</source>
+          <target>NCF</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field NCF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3905007222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NOMBRE_CLIENTE</source>
+          <target>NOMBRE_CLIENTE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field NOMBRE_CLIENTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3382994014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NUMERO_DOC_ANULADO</source>
+          <target>NUMERO_DOC_ANULADO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field NUMERO_DOC_ANULADO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 732124951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>REB_DEV_VTA_EXENTA</source>
+          <target>REB_DEV_VTA_EXENTA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field REB_DEV_VTA_EXENTA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2543081864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>REB_DEV_VTA_GRABADA</source>
+          <target>REB_DEV_VTA_GRABADA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field REB_DEV_VTA_GRABADA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2107054426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>REFERENCIA_CLIENTE_EBS</source>
+          <target>REFERENCIA_CLIENTE_EBS</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field REFERENCIA_CLIENTE_EBS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2518672740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>REGISTRO_CLIENTE</source>
+          <target>REGISTRO_CLIENTE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field REGISTRO_CLIENTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2742725084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replication Counter</source>
+          <target>Replication Counter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field Replication Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3807148657 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SERIE_DOCUMENTO</source>
+          <target>SERIE_DOCUMENTO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field SERIE_DOCUMENTO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3611356461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>STATUS_GRAL</source>
+          <target>STATUS_GRAL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field STATUS_GRAL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 917343344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SUCURSAL</source>
+          <target>SUCURSAL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field SUCURSAL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1310322585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SUCURSAL_CLIENTE</source>
+          <target>SUCURSAL_CLIENTE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field SUCURSAL_CLIENTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1899435226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TARJETA1_ID</source>
+          <target>TARJETA1_ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TARJETA1_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 363821071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TARJETA1_VALOR</source>
+          <target>TARJETA1_VALOR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TARJETA1_VALOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2603647703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TARJETA2_ID</source>
+          <target>TARJETA2_ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TARJETA2_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 390174602 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TARJETA2_VALOR</source>
+          <target>TARJETA2_VALOR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TARJETA2_VALOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3300878360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TARJETA3_ID</source>
+          <target>TARJETA3_ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TARJETA3_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 4082547041 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TARJETA3_VALOR</source>
+          <target>TARJETA3_VALOR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TARJETA3_VALOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 176938909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TARJETA4_ID</source>
+          <target>TARJETA4_ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TARJETA4_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1690098076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TARJETA4_VALOR</source>
+          <target>TARJETA4_VALOR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TARJETA4_VALOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 874554590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TARJETA5_ID</source>
+          <target>TARJETA5_ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TARJETA5_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1411597427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TARJETA5_VALOR</source>
+          <target>TARJETA5_VALOR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TARJETA5_VALOR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3935627856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TIPO_PAGO</source>
+          <target>TIPO_PAGO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TIPO_PAGO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2375124330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TIPO_TRANSACCION</source>
+          <target>TIPO_TRANSACCION</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TIPO_TRANSACCION - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1802753102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TOTAL</source>
+          <target>TOTAL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TOTAL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1328875857 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TOTAL_CREDITO</source>
+          <target>TOTAL_CREDITO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TOTAL_CREDITO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 2216086056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TOTAL_EFECTIVO</source>
+          <target>TOTAL_EFECTIVO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TOTAL_EFECTIVO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3926046114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TOTAL_PUNTOS</source>
+          <target>TOTAL_PUNTOS</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field TOTAL_PUNTOS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1926051330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>USUARIO</source>
+          <target>USUARIO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field USUARIO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 215734392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VALIDADO</source>
+          <target>VALIDADO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field VALIDADO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3658112849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VALOR_CESC</source>
+          <target>VALOR_CESC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field VALOR_CESC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 4152409129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VALOR_IVA</source>
+          <target>VALOR_IVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field VALOR_IVA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 3064691159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VALOR_VENTA_EXENTA</source>
+          <target>VALOR_VENTA_EXENTA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field VALOR_VENTA_EXENTA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1736143155 - Field 1883791048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VALOR_VENTA_GRABADA</source>
+          <target>VALOR_VENTA_GRABADA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN PITS_ventas - Field VALOR_VENTA_GRABADA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2498687776 - Method 1240827475 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Procesando Registros... @1@@@@@</source>
+          <target>Procesando Registros...</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Register PITS Sales - Method FillTable - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Page 3145654741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generar PITS Ventas</source>
+          <target>Generar PITS Ventas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN PITS On Demand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3145654741 - Control 1696636248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha Final</source>
+          <target>Fecha Final</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN PITS On Demand - Control Ending_Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3145654741 - Control 2869657421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recrear Registros</source>
+          <target>Recrear Registros</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN PITS On Demand - Control ReCreate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3145654741 - Control 3668883629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha Inicio</source>
+          <target>Fecha Inicio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN PITS On Demand - Control Starting_Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3145654741 - Control 1074243913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sala</source>
+          <target>Sala</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN PITS On Demand - Control Store - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2458654722 - Control 470746416 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE ANULADO</source>
+          <target>DTE ANULADO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN PITS VENTAS - Control ANULADO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 771339957 - Field 3166199171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>FSN PITS Sales Nos.</source>
+          <target>FSN PITS Sales Nos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Receivables Setup - Field FSN PITS Sales Nos. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

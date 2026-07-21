@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_ReplenHistAdjustment">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2487550880 - Method 2050803184 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN SalesAdjustment - Method GetInsertAndModifyHistReplen - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2487550880 - Method 2050803184 - NamedType 3161018329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN SalesAdjustment - Method GetInsertAndModifyHistReplen - NamedType lTextSimbol</note>
+        </trans-unit>
+        <trans-unit id="Page 1372945790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Replen. Sales Hist. Adj. Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Replen. Sales Hist. Adj. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1372945790 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode found\item not found =</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Replen. Sales Hist. Adj. Lines - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 1372945790 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Replen. Sales Hist. Adj. Lines - NamedType Text004</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,48 @@
+{
+  "id": "82502c95-5c26-408b-be00-f7149d0f53ba",
+  "name": "FSN_Membresia",
+  "publisher": "FASANI",
+  "version": "1.0.0.43",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "publisher": "LS Retail",
+      "name": "LS Central",
+      "version": "18.4.0.0"
+    },
+    {
+      "id": "a397324a-67fe-4557-aefb-aa375b30dbdf",
+      "publisher": "FASANI",
+      "name": "BCDAO",
+      "version": "1.0.0.20"
+    },
+    {
+      "id": "e7aa14cd-4ee8-4901-9cbd-fba2c27a5d22",
+      "publisher": "FASANI",
+      "name": "BCBLO",
+      "version": "1.0.0.14"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.2",
+  "target": "OnPrem",
+  "features": [
+    "TranslationFile"
+  ]
+}

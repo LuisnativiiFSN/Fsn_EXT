@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+        <Style />
+      </Body>
+      <Width>6.5in</Width>
+      <Page>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="UnitofMeasureCode_Barcodes">
+          <DataField>UnitofMeasureCode_Barcodes</DataField>
+        </Field>
+        <Field Name="BarcodeNo_Barcodes">
+          <DataField>BarcodeNo_Barcodes</DataField>
+        </Field>
+        <Field Name="Description_Barcodes">
+          <DataField>Description_Barcodes</DataField>
+        </Field>
+        <Field Name="Company_Name">
+          <DataField>Company_Name</DataField>
+        </Field>
+        <Field Name="Company_Former_Name">
+          <DataField>Company_Former_Name</DataField>
+        </Field>
+        <Field Name="Company_NIT">
+          <DataField>Company_NIT</DataField>
+        </Field>
+        <Field Name="Company_NRC">
+          <DataField>Company_NRC</DataField>
+        </Field>
+        <Field Name="Store_Name">
+          <DataField>Store_Name</DataField>
+        </Field>
+        <Field Name="SalesAmountActual_ItemLedgerEntry">
+          <DataField>SalesAmountActual_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="SalesAmountActual_ItemLedgerEntryFormat">
+          <DataField>SalesAmountActual_ItemLedgerEntryFormat</DataField>
+        </Field>
+        <Field Name="ItemNo_ItemLedgerEntry">
+          <DataField>ItemNo_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="EntryNo_ItemLedgerEntry">
+          <DataField>EntryNo_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="ExternalDocumentNo_ItemLedgerEntry">
+          <DataField>ExternalDocumentNo_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="PostingDate_ItemLedgerEntry">
+          <DataField>PostingDate_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="EntryType_ItemLedgerEntry">
+          <DataField>EntryType_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="DocumentNo_ItemLedgerEntry">
+          <DataField>DocumentNo_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="Quantity_ItemLedgerEntry">
+          <DataField>Quantity_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="Quantity_ItemLedgerEntryFormat">
+          <DataField>Quantity_ItemLedgerEntryFormat</DataField>
+        </Field>
+        <Field Name="CostAmountActual_ItemLedgerEntry">
+          <DataField>CostAmountActual_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="CostAmountActual_ItemLedgerEntryFormat">
+          <DataField>CostAmountActual_ItemLedgerEntryFormat</DataField>
+        </Field>
+        <Field Name="PurchaseAmountActual_ItemLedgerEntry">
+          <DataField>PurchaseAmountActual_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="PurchaseAmountActual_ItemLedgerEntryFormat">
+          <DataField>PurchaseAmountActual_ItemLedgerEntryFormat</DataField>
+        </Field>
+        <Field Name="LocationCode_ItemLedgerEntry">
+          <DataField>LocationCode_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="CountryRegionCode_ItemLedgerEntry">
+          <DataField>CountryRegionCode_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="CostAmountExpected_ItemLedgerEntry">
+          <DataField>CostAmountExpected_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="CostAmountExpected_ItemLedgerEntryFormat">
+          <DataField>CostAmountExpected_ItemLedgerEntryFormat</DataField>
+        </Field>
+        <Field Name="DocumentType_ItemLedgerEntry">
+          <DataField>DocumentType_ItemLedgerEntry</DataField>
+        </Field>
+        <Field Name="Item_Sales_Price">
+          <DataField>Item_Sales_Price</DataField>
+        </Field>
+        <Field Name="Item_Sales_PriceFormat">
+          <DataField>Item_Sales_PriceFormat</DataField>
+        </Field>
+        <Field Name="Starting_Invoiced_Qty">
+          <DataField>Starting_Invoiced_Qty</DataField>
+        </Field>
+        <Field Name="Starting_Invoiced_QtyFormat">
+          <DataField>Starting_Invoiced_QtyFormat</DataField>
+        </Field>
+        <Field Name="Starting_Invoiced_Value">
+          <DataField>Starting_Invoiced_Value</DataField>
+        </Field>
+        <Field Name="Starting_Invoiced_ValueFormat">
+          <DataField>Starting_Invoiced_ValueFormat</DataField>
+        </Field>
+        <Field Name="EndingInvoicedValue">
+          <DataField>EndingInvoicedValue</DataField>
+        </Field>
+        <Field Name="EndingInvoicedValueFormat">
+          <DataField>EndingInvoicedValueFormat</DataField>
+        </Field>
+        <Field Name="EndingInvoicedQty">
+          <DataField>EndingInvoicedQty</DataField>
+        </Field>
+        <Field Name="EndingInvoicedQtyFormat">
+          <DataField>EndingInvoicedQtyFormat</DataField>
+        </Field>
+        <Field Name="Starting_Date">
+          <DataField>Starting_Date</DataField>
+        </Field>
+        <Field Name="Ending_Date">
+          <DataField>Ending_Date</DataField>
+        </Field>
+        <Field Name="Locat">
+          <DataField>Locat</DataField>
+        </Field>
+        <Field Name="Name_Vendor">
+          <DataField>Name_Vendor</DataField>
+        </Field>
+        <Field Name="ItemUnitCost">
+          <DataField>ItemUnitCost</DataField>
+        </Field>
+        <Field Name="ItemUnitCostFormat">
+          <DataField>ItemUnitCostFormat</DataField>
+        </Field>
+        <Field Name="KdxTipo">
+          <DataField>KdxTipo</DataField>
+        </Field>
+        <Field Name="KdxTransaccion">
+          <DataField>KdxTransaccion</DataField>
+        </Field>
+        <Field Name="KdxFecha">
+          <DataField>KdxFecha</DataField>
+        </Field>
+        <Field Name="KdxDocumento">
+          <DataField>KdxDocumento</DataField>
+        </Field>
+        <Field Name="KdxCosto">
+          <DataField>KdxCosto</DataField>
+        </Field>
+        <Field Name="KdxCostoFormat">
+          <DataField>KdxCostoFormat</DataField>
+        </Field>
+        <Field Name="KdxProveedor">
+          <DataField>KdxProveedor</DataField>
+        </Field>
+        <Field Name="KdxCountry">
+          <DataField>KdxCountry</DataField>
+        </Field>
+        <Field Name="KdxQtyEnt">
+          <DataField>KdxQtyEnt</DataField>
+        </Field>
+        <Field Name="KdxQtyEntFormat">
+          <DataField>KdxQtyEntFormat</DataField>
+        </Field>
+        <Field Name="KdxQtySal">
+          <DataField>KdxQtySal</DataField>
+        </Field>
+        <Field Name="KdxQtySalFormat">
+          <DataField>KdxQtySalFormat</DataField>
+        </Field>
+        <Field Name="KdxQtyBal">
+          <DataField>KdxQtyBal</DataField>
+        </Field>
+        <Field Name="KdxQtyBalFormat">
+          <DataField>KdxQtyBalFormat</DataField>
+        </Field>
+        <Field Name="KdxAmtEnt">
+          <DataField>KdxAmtEnt</DataField>
+        </Field>
+        <Field Name="KdxAmtEntFormat">
+          <DataField>KdxAmtEntFormat</DataField>
+        </Field>
+        <Field Name="KdxAmtSal">
+          <DataField>KdxAmtSal</DataField>
+        </Field>
+        <Field Name="KdxAmtSalFormat">
+          <DataField>KdxAmtSalFormat</DataField>
+        </Field>
+        <Field Name="KdxAmtBal">
+          <DataField>KdxAmtBal</DataField>
+        </Field>
+        <Field Name="KdxAmtBalFormat">
+          <DataField>KdxAmtBalFormat</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

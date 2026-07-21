@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="FSN_ChangeEvents.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 943470690 - Method 1296534301 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Make Pickup for Tender Type %1</source>
+          <target>Realizar recogida para el tipo de oferta %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ChangeEventHosp - Method CalcPickUpWarning - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 943470690 - Method 2341623424 - NamedType 1089555199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede enviar el pedido a sucursal %1</source>
+          <target>No se puede enviar el pedido a la sucursal %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ChangeEventHosp - Method EPOS Controler_OnPOSCommand - NamedType lTxt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 943470690 - Method 2341623424 - NamedType 3002645050" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seleccione sucursal</source>
+          <target>Seleccione sucursal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ChangeEventHosp - Method EPOS Controler_OnPOSCommand - NamedType lTxt2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 943470690 - Method 3827022570 - NamedType 413446250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PW</source>
+          <target>PW</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ChangeEventHosp - Method PickUpWarning - NamedType Text290</note>
+        </trans-unit>
+        <trans-unit id="Page 2673263599 - Control 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ciudad</source>
+          <target>Ciudad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer - Control City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2673263599 - Control 2928371823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Doc. Tributario</source>
+          <target>Doc. Tributario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer - Control DTE Tax ID Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2673263599 - Control 617267791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NIT</source>
+          <target>NIT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer - Control VAT Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2673263599 - Action 1297118749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CREAR CLIENTE</source>
+          <target>CREAR CLIENTE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer - Action NUEVO CLIENTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2673263599 - Action 4024345488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SELECCIONAR</source>
+          <target>SELECCIONAR</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer - Action SELECCIONAR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 776953429 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Datos beneficiario</source>
+          <target>Datos beneficiario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control Beneficiary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 2800182073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre</source>
+          <target>Nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN BeneficiaryName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 1559341476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Datos Cliente Generico</source>
+          <target>Datos Cliente Generico</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control ClientGeneric - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 1889608522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Correo</source>
+          <target>Correo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN CLIENT EMAIL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 1711622021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre</source>
+          <target>Nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN CLIENT GENERIC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 3683975468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control aa - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 2928371823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Doc. Tributario</source>
+          <target>Doc. Tributario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control DTE Tax ID Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 3306907414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Doc. Extranjero</source>
+          <target>Doc. Extranjero</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN Foreign document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 617267791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NIT</source>
+          <target>NIT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control VAT Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 3648238820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control bb - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 659317815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro (Actividad economica)</source>
+          <target>Giro (Actividad economica)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control Activity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 908640123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>County</source>
+          <target>Provincia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control Countys - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 71230345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo Cliente</source>
+          <target>Tipo Cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN Customer Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 3086298982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro (Anterior)</source>
+          <target>Giro (Anterior)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN NRC Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 2364745213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>País</source>
+          <target>País</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control Pais - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 2929184471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cód.Municipio/Depto.</source>
+          <target>Cód.Municipio/Depto.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control PostCode_g - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 592139736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Datos cliente secundario</source>
+          <target>Datos cliente secundario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control SubCustomerCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 3160513890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro</source>
+          <target>Giro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN SubCustomerActivity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 2181398239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dirección</source>
+          <target>Dirección</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN SubCustomerAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 2012108253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DUI</source>
+          <target>DUI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN SubCustomerDUI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 3504685329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Correo</source>
+          <target>Correo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN SubCustomerEmail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 796925064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre</source>
+          <target>Nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN SubCustomerName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 2193566792 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NRC</source>
+          <target>NRC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN SubCustomerNRC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 3954495185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teléfono</source>
+          <target>Teléfono</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN SubCustomerPhone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Control 2366294485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Doc. Tributario</source>
+          <target>Doc. Tributario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Control FSN SubCustomerTaxIDType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Action 740449838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agregar beneficiario</source>
+          <target>Agregar beneficiario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Action addBeneficiary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Action 3319883643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agregar Cliente General</source>
+          <target>Agregar Cliente General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Action addClientGeneric - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Action 2543834865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirmar cliente secundario</source>
+          <target>Confirmar cliente secundario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Action confirmSubClient - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3784166475 - Action 3374436357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agregar cliente secundario</source>
+          <target>Agregar cliente secundario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE POS Customer Card - Action getSubClient - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3909232718 - Action 2364531380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1018902024">
+          <source>Item Load Reference</source>
+          <target>Item Load Reference</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN ItemLoadReferenceExt - Action LoadItemReference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - NamedType 2918767063" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4142435239">
+          <source>Debe seleccionar check  para GiftCard Nuevas</source>
+          <target>Debe seleccionar check  para GiftCard Nuevas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - NamedType IText001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - NamedType 536889618" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4142435239">
+          <source>Monto no puede ser Cero</source>
+          <target>Monto no puede ser Cero</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - NamedType IText002</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - NamedType 4194160297" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4142435239">
+          <source>GiftCard ya existe, no puede tener check en Nuevo</source>
+          <target>GiftCard ya existe, no puede tener check en Nuevo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - NamedType IText003</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - NamedType 1812282852" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4142435239">
+          <source>Debe agregar  Fecha Caducidad</source>
+          <target>Debe agregar  Fecha Caducidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - NamedType IText004</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - NamedType 1174586235" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4142435239">
+          <source>Proceso finalizado!!</source>
+          <target>Proceso finalizado!!</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - NamedType IText005</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - Action 2579144969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1926169231">
+          <source>crear </source>
+          <target>crear</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - Action Crear - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - Control 2564706512 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1926169231">
+          <source>Entry Type</source>
+          <target>Tipo mov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - Control Option_5_2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4142435239 - Control 2564706512 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1926169231">
+          <source>Empresa,Fasani,Personal</source>
+          <target>Empresa,Fasani,Personal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension - Control Option_5_2 - Property OptionCaption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

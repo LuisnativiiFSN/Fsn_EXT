@@ -1,0 +1,1224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_POSCardEntry">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 1770674091 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Service, %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description error not found (%1)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction succesfull!!. (Trans. %1)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Points %1 , equivalent to $%2. (Transaction %3)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mode: %1 message: %2 . Validate data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generic error SERFINSA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Command not exists %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error to load json response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input amount is not correct</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 2265663867 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method BitworksCard - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 2265663867 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store Suggest: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method BitworksCard - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 2265663867 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedido generado automatico: PARA LLEVAR. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method BitworksCard - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 2265663867 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Origin: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method BitworksCard - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 3033895561 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method BitworksWStable - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 3033895561 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store Suggest: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method BitworksWStable - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 3033895561 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedido generado automatico: PARA LLEVAR. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method BitworksWStable - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 3033895561 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Origin: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method BitworksWStable - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 2849678022 - NamedType 1727251816" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token %1 not foun in read Pinpad Web</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method GetJsonValueAsText - NamedType lTxt0</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 2112696190 - NamedType 1727251816" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Json value (pinpad read) is empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method GetPOSCardReqEntryTmpFromResponsePinpadWeb - NamedType lTxt0</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 1134218118 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method JsonToXmlFillTableTransactorNode - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 1134218118 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store Suggest: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method JsonToXmlFillTableTransactorNode - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 1134218118 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedido generado automatico: PARA LLEVAR. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method JsonToXmlFillTableTransactorNode - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 1134218118 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Origin: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method JsonToXmlFillTableTransactorNode - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 1936732512 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method SetCustomerNameInTrans - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1770674091 - Method 3302268497 - NamedType 26217884" size-unit="char" translate="yes" xml:space="preserve">
+          <source>xRecord</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Card External Conextion - Method SRFCreateJsonDBParameters - NamedType ENCRYPTBYPASSPHRASE</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3350560645 - Method 4115625496 - NamedType 651930188" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaccion Registrada</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Pos Card BAC - Method ResPBac - NamedType ResOK</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terms (3, 6 or 9)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Card Entry not exists.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original authorization number:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You want try to use the POS Serfinsa?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error %1. \%2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Voucher information not found!. fill data vocuher in Manual mode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change to voucher %1 ?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can switch to MANUAL mode if you want</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BIN, Print Amount and Authorization code cant be emtpy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Real value Vaucher is %1 and Payment line is %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - Method 3728429846 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment card online exists. Cant be delete transaction or Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - Method BlockDeleteTransData - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - Method 1263533467 - NamedType 2348379739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original authorization number:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - Method CreateLinkPosCardEntryReturnSale - NamedType lText008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - Method 1263533467 - NamedType 2986076356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization number not match</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - Method CreateLinkPosCardEntryReturnSale - NamedType lText009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - Method 1263533467 - NamedType 728973284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Records not exists in POS Card Entry. or Already return</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - Method CreateLinkPosCardEntryReturnSale - NamedType lText010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - Method 1263533467 - NamedType 91276667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NO automatic return will be sent to POS SERFINSA. Transaction Date is% 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - Method CreateLinkPosCardEntryReturnSale - NamedType lText011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - Method 3604453172 - NamedType 4001052947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization number not match</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - Method LSC POS Controller_OnNumpadResult - NamedType lText0</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - Method 1020975623 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código de Autorización no puede ser vacío para media de pago Tarjeta.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - Method LSC POS Transaction Events_OnBeforeTotalExecuted - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2329683265 - Method 1403294550 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Points: %1 \Amount $%2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Controller - Method PointsWSCardBanks - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction already exists No. Authorization %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tender type to be function Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record contains authorization No.%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount must be higth for zero</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terminal %1 is not configured for Kin POS.\Buy manual</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay denegated. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connection fail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy tipo is not valid!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameters not exists for manual mode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BIN %2 is not registered for use Tender Type %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DUI is required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tender Type %1 not allowed for BIN %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining (%1) is lower to solicitado (%2)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 196491397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction is voided, cant be voucher re used</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text024</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 3853762076" size-unit="char" translate="yes" xml:space="preserve">
+          <source>For security cant be re use voucher in the same order.\Steps solution: \1)Create new order \2)Cancel complete the current order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text027</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - NamedType 2747277865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order original %1 (%2) isnt finalized.\Steps solutions: \1)For security Cancel order %1 (%2) \2)Try transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - NamedType Text028</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2998243238 - NamedType 1089555199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 is not configured</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method ChangeMultiemisorParameters - NamedType lTxt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 4055197255 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Points %1 equivalent to $ %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method CheckPoinsBac - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 4055197255 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Service</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method CheckPoinsBac - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 920121435 - NamedType 3696082941" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NO SE HA REALIZADO DEVOLUCION</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method CreateTransacInherit - NamedType Text1601</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% config. not exists or is not complete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response of reader is invalid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Try fail!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert or Swip card..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Charging %1...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 2348379739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>normal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 2986076356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>with Points</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 728973284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>to terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 91276667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terms must be between 1 and 99</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 2004366518" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Query points..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 4217334940" size-unit="char" translate="yes" xml:space="preserve">
+          <source>cant be read card from pinpad. Error %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText018</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 1366669901" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card Repeat.\Continue card \%1?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText013</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 2473154112" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText014</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 1835457495" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alert</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText015</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 3110850729" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon %1, is not permited for BIN %2 </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText017</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2126117730 - NamedType 3748547346" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BIN Block for Pinpad: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosPostCardPinPad - NamedType lText016</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 587298478 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% config. not exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosSendPointsRequest - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 587298478 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response of reader is invalid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosSendPointsRequest - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 587298478 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Try fail!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosSendPointsRequest - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 587298478 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosSendPointsRequest - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 587298478 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert or Swip card..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosSendPointsRequest - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 587298478 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>charging..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosSendPointsRequest - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 587298478 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosSendPointsRequest - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2690186211 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request origin not exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosSendVoidRequest - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2690186211 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosSendVoidRequest - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2690186211 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return procesing...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method KinPosSendVoidRequest - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 1995748256 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Query Points: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method PrintCardVoucherRequest - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 1995748256 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Points Loyalty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method PrintCardVoucherRequest - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 1995748256 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SERFINSA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method PrintCardVoucherRequest - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 1995748256 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QUERY POINTS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method PrintCardVoucherRequest - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 1995748256 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QUERY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method PrintCardVoucherRequest - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 1995748256 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Fail!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method PrintCardVoucherRequest - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 1995748256 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ERROR</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method PrintCardVoucherRequest - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 667665513 - NamedType 4001052947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Points %1 , equivalent to $%2. (Transaction %3)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method ProcessMessagePoints - NamedType lText0</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 667665513 - NamedType 343782268" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be query points %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method ProcessMessagePoints - NamedType lText1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 3445894086 - NamedType 4001052947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaccion%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method ProcessMessageTrans - NamedType lText0</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 3445894086 - NamedType 343782268" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error en transaccion %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method ProcessMessageTrans - NamedType lText1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 984947054 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method Reutilizacion - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 984947054 - NamedType 3161018329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method Reutilizacion - NamedType lTextSimbol</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 984947054 - NamedType 3019574858" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order %1 (%2) isnt finalized.\Steps solutions: \1)For security Cancel order %1 (%2) \2)Try transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method Reutilizacion - NamedType Tex160</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 3261194800 - NamedType 2290157555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terms parameter is not configured or allowed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method SendDataBac - NamedType Txt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 2021968282 - NamedType 1233533479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>information of card transaction not found!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method TransferInfoToPOSTransLine - NamedType errtxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 1660805677 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount must be higher to $1 in payment points</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method ValidateTerms - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 1660805677 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount cant be lower to $100 in terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method ValidateTerms - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 1987542163 - NamedType 91276667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy term require amount higher to $%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method ValildateManualRequest - NamedType lText011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2473586319 - Method 1987542163 - NamedType 1366669901" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BIN %1 have block. %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Integration - Method ValildateManualRequest - NamedType lText013</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process,Check,Report,Vouchers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error transaction type %1 is not avaliable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant create link for transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%4 %5 \Card: %1 \Expire Date: %2 \ Amount: %3 \Process?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 : must be format: MM/YY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 : Month cant be higher to 12 and less to Zero. (MM/YY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 : Year must be higher to 2000 and less to 2100. (MM/YY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CVV length cant be higher to 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Card ::%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date %1\Card: %2 \Amount: %3 \Re use voucher?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction is already sucessfull</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tender Type %1 not allowed for BIN %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>-&gt;Change to NORMAL modal\-&gt;Data will clean.\Continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>-&gt;Change modal to WOMPI\-&gt;Data will clean.\Continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 1302975608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WOMPI o ECOMMERCE we are reserved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text023</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 196491397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BIN must be 6 digits.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text024</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 834188014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number is false</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text025</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - NamedType 3216065459" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be re use Reverse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - NamedType Text026</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 4107207440 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desea guardar informacion de la tarjeta?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ProcessTokenCard - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 4107207440 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Guardando Informacion, Espere.......</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ProcessTokenCard - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 4107207440 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe completar la informacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ProcessTokenCard - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 4107207440 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Media de pago ya AUTORIZADA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ProcessTokenCard - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 4107207440 - NamedType 1652662947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha Expiracion invalida %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ProcessTokenCard - NamedType TEXT004</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 4107207440 - NamedType 2290359564" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Result: %1 \ ERROR Debe validar los datos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ProcessTokenCard - NamedType TEXT005</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 4107207440 - NamedType 2928056181" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Result: %1 \ Datos enviados con exito, validar mensaje de texto con el cliente.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ProcessTokenCard - NamedType TEXT006</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 1823032279 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se debe completar la información</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ValDataFrom - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 1823032279 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha Expiracion no puede ser vacio</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ValDataFrom - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 1823032279 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero de Documento no puede ser vacio</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ValDataFrom - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 1823032279 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero de telefono no puede ser vacio</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ValDataFrom - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Method 1823032279 - NamedType 1652662947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Correo electronico no puede ser vacio</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Method ValDataFrom - NamedType TEXT004</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 2663066213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plazos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control Plazos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 110837737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control separado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 2760652608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Datos para guardar tarjeta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control tokenGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 1443455331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Telefono :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control cellPhoneNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 4237283545 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo Documento DUI,Doc Extrangero</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control DocumentType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 4237283545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo Documento :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control DocumentType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 1466422492 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero Documento</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control DUI - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 1466422492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Documento :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control DUI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 1466422492 - Method 2126772001 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Card ::%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control DUI - Method OnValidate - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 3163706192 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 3158798565 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CVV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control CVV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 2067961393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DUI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control gDUI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 2300018508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LastValidDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control LastValidDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 4056488549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control NumDecript - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 386268496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tender Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control Tender Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 1781470153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GUARDAR TARJETA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control tokenWompi - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 197262430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auth code WP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control Auth_code_WP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 1944778528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BIN WP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control BIN_NoWP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 2939060904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reference WP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control EFT Trans. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 4275839381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre Tarjeta WP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control NombreTarjetaWP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Control 2999897523 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Control OriginalAmt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 1417232546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Check - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 2363131667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Points</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Check Points - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 2363131667 - Method 1377591017 - NamedType 343782268" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon %1, is not valid for BIN %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Check Points - Method OnAction - NamedType lText1</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 3192034877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recovery Info.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Recovery Info. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 2693011259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wompi Filtrar Tarjeta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action FilterCreditCArd - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 2675496269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 878799869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Process Pay - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 878799869 - Method 1377591017 - NamedType 343782268" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon %1, is not valid for BIN %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Process Pay - Method OnAction - NamedType lText1</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 878799869 - Method 1377591017 - NamedType 4231658992" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Utilizar pos de BAC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Process Pay - Method OnAction - NamedType Bacrec</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 878799869 - Method 1377591017 - NamedType 1148659762" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Información enviada a pos de BAC\%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Process Pay - Method OnAction - NamedType Text030</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 878799869 - Method 1377591017 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mes invalido %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Process Pay - Method OnAction - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 878799869 - Method 1377591017 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Año invalido %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Process Pay - Method OnAction - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 878799869 - Method 1377591017 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Result: %1 \ Sin procesar, validar los datos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Process Pay - Method OnAction - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 878799869 - Method 1377591017 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Result: %1 \ %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Process Pay - Method OnAction - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 878799869 - Method 1377591017 - NamedType 1652662947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Media de pago ya autorizada</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Process Pay - Method OnAction - NamedType TEXT004</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 878799869 - Method 1377591017 - NamedType 2290359564" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card: %1 \Expire Date: %2 \ Amount: %3 \Process?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Process Pay - Method OnAction - NamedType TEXT005</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 3461054021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vouchers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action Vouchers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 1065868833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Reuse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action ToReuse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 724328171 - Action 1065868833 - Method 1377591017 - NamedType 1727251816" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DUI cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online - Action ToReuse - Method OnAction - NamedType lTxt0</note>
+        </trans-unit>
+        <trans-unit id="Page 3083028480 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 : must be format: MM/YY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online View - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Page 3083028480 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 : Month cant be higher to 12 and less to Zero. (MM/YY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online View - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Page 3083028480 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 : Year must be higher to 2000 and less to 2100. (MM/YY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online View - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Page 3083028480 - Control 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online View - Control Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3083028480 - Control 3280441482 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFT Terminal ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online View - Control EFT Terminal ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3083028480 - Control 2644153021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiry Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online View - Control ExpiryDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3083028480 - Control 2714197018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Request Online View - Control FSN Print Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2812340792 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Card Search Request OK</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Search Request OK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2812340792 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reverse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Search Request OK - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Page 2812340792 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Search Request OK - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2812340792 - Control 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Search Request OK - Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2812340792 - Control 1992128871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Filters</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Search Request OK - Control SearchFilters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2812340792 - Control 2551471519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BIN Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Search Request OK - Control BINFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2812340792 - Control 539546824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Search Request OK - Control DateFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2812340792 - Control 3964723046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Ecommerce</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Search Request OK - Control IsEcommerce - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2812340792 - Control 4154148474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LastDigits</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Card Search Request OK - Control LastDigits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3414636818 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process,Check,Report,Vouchers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Filter Credit Card Wompi - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 3414636818 - Method 1395469759 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Linea de pago en estado AUTORIZADO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Filter Credit Card Wompi - Method ProcessLine - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Page 3414636818 - Control 1323046682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ultimos Digitos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Filter Credit Card Wompi - Control lastDigits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3414636818 - Control 1945579803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtrar Tarjeta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Filter Credit Card Wompi - Control FilterCreditCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3414636818 - Control 4237283545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo Documento</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Filter Credit Card Wompi - Control DocumentType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3414636818 - Control 4263880106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>N° Documento</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Filter Credit Card Wompi - Control NoDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3414636818 - Control 4263880106 - Method 2126772001 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extrayendo la Informacion, Espere.......</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Filter Credit Card Wompi - Control NoDocument - Method OnValidate - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Page 3414636818 - Control 4263880106 - Method 2126772001 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Result: %1 \ Datos no encontrados</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Filter Credit Card Wompi - Control NoDocument - Method OnValidate - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Page 3414636818 - Action 2228257561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seleccionar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Filter Credit Card Wompi - Action Selecionar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Card Request Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>It is possible to cancel transactions with today's date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction (Last Digit: %1, Amount: %2 , Ref. %3). Do you want void transaction?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This Transaction already void. References: Entry %1, Authorization %2, Ref. Bank %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be void. Error not found.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction selected not require void. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is not sucessfull.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Void.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trans. Type "%1"\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>point query\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Trans. $%1\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operator response sucessfull\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transac. Fail : %1\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount request $%1, amount response $%2\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tender Type: %1\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operator %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining is %1 different to amount original %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text018</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>For security cant be void voucher, the order original isnt finalized.\Steps solutions: \1)Cancel complete the order %1 (%2) \2)Try transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location must be %1, this transaction have %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reverse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - NamedType 1302975608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Información enviada a pos de BAC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - NamedType Text023</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - Control 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - Action 419426744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - Action Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 193161844 - Action 2197320652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Void Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Request Entries - Action Void Transaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 503268746 - Field 756254205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3627343910">
+          <source>FSN PC Aditional Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POSTransLine Card Ext - Field FSN PC Aditional Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 503268746 - Field 1931628289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3627343910">
+          <source>FSN PC Authorization Ok</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POSTransLine Card Ext - Field FSN PC Authorization Ok - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 503268746 - Field 3426478291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3627343910">
+          <source>FSN PC Encrypt Security</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POSTransLine Card Ext - Field FSN PC Encrypt Security - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 503268746 - Field 1476656101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3627343910">
+          <source>FSN PC Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POSTransLine Card Ext - Field FSN PC Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 503268746 - Field 1480162248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3627343910">
+          <source>FSN PC Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POSTransLine Card Ext - Field FSN PC Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 503268746 - Field 3830786311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3627343910">
+          <source>FSN PC Original Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POSTransLine Card Ext - Field FSN PC Original Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 503268746 - Field 3432150695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3627343910">
+          <source>FSN PC Request Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POSTransLine Card Ext - Field FSN PC Request Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 503268746 - Field 1589026493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3627343910">
+          <source>FSN token Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POSTransLine Card Ext - Field FSN token Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 503268746 - Field 878462448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3627343910">
+          <source>FSN token Wompi</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POSTransLine Card Ext - Field FSN token Wompi - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

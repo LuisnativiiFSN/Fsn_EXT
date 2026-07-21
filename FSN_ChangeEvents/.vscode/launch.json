@@ -1,0 +1,59 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Your own server",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "OnPrem",
+            "server": "http://localhost",
+            "serverInstance": "BCENTRAL",
+            "authentication": "Windows",
+            "startupObjectId": 50096,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "default",
+            "usePublicURLFromServer": true
+        },
+        {
+            "name": "Publish: Local Testing Server",
+             "type": "al",
+             "request": "launch",
+             "environmentType": "OnPrem",
+             "server": "http://localhost:8080/BCENTRAL",
+             "serverInstance": "BCENTRAL",
+             "port": 7049,
+             "authentication": "Windows",
+             "breakOnError": "All",
+             "breakOnRecordWrite": "None",
+             "enableSqlInformationDebugger": true,
+             "enableLongRunningSqlStatements": true,
+             "longRunningSqlStatementsThreshold": 500,
+             "numberOfSqlStatements": 10,
+             "tenant": "default",
+             "usePublicURLFromServer": false,
+             "schemaUpdateMode": "ForceSync"
+         },
+         {
+            "name": "Local Developer Server",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "OnPrem",
+            "server": "http://10.0.20.198:8080/BCENTRAL",
+            "serverInstance": "BCENTRAL",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "default",
+            "usePublicURLFromServer": true,
+            "schemaUpdateMode": "ForceSync"
+        }
+    ]
+}

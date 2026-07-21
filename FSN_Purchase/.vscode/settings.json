@@ -1,0 +1,9 @@
+{
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}",
+        "${PerTenantExtensionCop}",
+        "${AppSourceCop}",
+        "${analyzerFolder}BusinessCentral.LinterCop.dll"
+    ]
+}

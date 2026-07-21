@@ -1,0 +1,804 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_Print">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3658390619 - Field 1496202531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Fecha Auxiliar - Field Anio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3658390619 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Fecha Auxiliar - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3658390619 - Field 4013799157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Month</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Fecha Auxiliar - Field Mes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 4148427700" size-unit="char" translate="yes" xml:space="preserve">
+          <source>   Difference</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType DiffText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unsent WarrHotel entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Make Pickup for Tender Type %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Float entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 196491397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text024</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3317493534" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Saving</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text043</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 129010449" size-unit="char" translate="yes" xml:space="preserve">
+          <source>** COPIA **</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text046</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 2903441419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text084</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3541138036" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text085</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3200805742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Z-REPORT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text106</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 2563109125" size-unit="char" translate="yes" xml:space="preserve">
+          <source>X-REPORT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text107</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 373487001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tender declaration:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text112</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3515277490" size-unit="char" translate="yes" xml:space="preserve">
+          <source>pcs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text131</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 2979008948" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cantidad de Artículos:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text151</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 4254402182" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Server Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text153</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 1443879445" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Transactions are pending</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text161</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3188060273" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text165</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 2723792212" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SPO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text216</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 1984667520" size-unit="char" translate="yes" xml:space="preserve">
+          <source>System Voided</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text230</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3260060754" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Points</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text232</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3897757371" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Covers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text235</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 1515879926" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Split Trans.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text236</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 878183309" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Average of Covers per Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text237</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 1178061880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Avg. Paying Cust. per Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text238</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3453852362" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foreign Currency:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text300</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3238111388" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType Text500</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 883004440" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caja:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextCaja</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3414703252" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cheque A Retirar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextChequeARetirar</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3328529004" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cheque Retirado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextChequeRetirado</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 1990435216" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Articulo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextCodigo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 1215688770" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cod.Tienda:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextCodTienda</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 1643770514" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ahorro Total VIP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextDescuentoVip</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 4011519218" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Efectivo A Retirar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextEfectivoARetirar</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 2152605834" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Efectivo Retirado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextEfectivoRetirado</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3835546786" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GIRO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextGIRO</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 1893334486" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NRC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextNRC</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 1420787371" size-unit="char" translate="yes" xml:space="preserve">
+          <source>N° DE RECETA:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextReceta</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 2529288790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NIT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextRNC</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 3473549730" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextUnidad</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - NamedType 1770469237" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Precio</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - NamedType TextValor</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 2473622958 - NamedType 2763291245" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedido ya Fue asignado a %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method LSC POS Controller_OnPOSEvent - NamedType ErrorMessage</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 2473622958 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El N° pedido %1 esta siendo facturado en el N° %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method LSC POS Controller_OnPOSEvent - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 4020967835 - NamedType 1065919097" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CID-REPORT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintCIDReport - NamedType Text156</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 4020967835 - NamedType 3564484334" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store no.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintCIDReport - NamedType Text078</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 4020967835 - NamedType 2926787717" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terminal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintCIDReport - NamedType Text079</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 4020967835 - NamedType 2211009323" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintCIDReport - NamedType Text048</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 4020967835 - NamedType 4269661899" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintCIDReport - NamedType Text051</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 4020967835 - NamedType 2172403308" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tender Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintCIDReport - NamedType Text159</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 4020967835 - NamedType 2081576062" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintCIDReport - NamedType Text160</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 4020967835 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintCIDReport - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1115775303 - NamedType 529650555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintCopyExt - NamedType Text172</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1115775303 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se reimprimira NCF: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintCopyExt - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 1893334486" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NRC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextNRC</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 2529288790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NIT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextRNC</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 3835546786" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GIRO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextGIRO</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 1661302039" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CORRELATIVO:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextCorrelativo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 1215688770" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COD. TIENDA:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextCodTienda</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 883004440" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CAJA:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextCaja</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 88639339" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AUTORIZACION:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextAutorizacion</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 1247060067" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TICKET</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextTicket</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 261895704" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FECHA:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextFecha</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 1253648579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HORA:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextHora</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 1929368066" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NIT:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextNIT</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 2378954879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DUI:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextDUI</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 2351076312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FIRMA:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextFirma</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 3473549730" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CANT.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextUnidad</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 1990435216" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ARTICULO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextCodigo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 1770469237" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRECIO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextValor</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 1520151713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SUBTOTAL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType textTotal</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 693148626" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DUI/NIT:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextDUINIT</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 4005194504" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NOMBRE:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextNombre</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 1109349630" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supervisor:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextSGD16</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1411584665 - NamedType 782010915" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COD. CLIENTE: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintHeaderExt - NamedType TextCodCliente</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 815918666 - NamedType 1341540887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintSalesInfoExt - NamedType TextGravado</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 815918666 - NamedType 45800803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintSalesInfoExt - NamedType TextNSujeto</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 815918666 - NamedType 3657543460" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintSalesInfoExt - NamedType TextExento</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 815918666 - NamedType 1399370266" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G=Ventas Gravadas:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintSalesInfoExt - NamedType TextTotVentasG</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 815918666 - NamedType 123977032" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E=Ventas Exentas:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintSalesInfoExt - NamedType TextTotVentasE</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 815918666 - NamedType 3737911835" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ventas No Sujetas:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintSalesInfoExt - NamedType TextVentNoSuj</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 815918666 - NamedType 1075194669" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sub-Total:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintSalesInfoExt - NamedType TextSubTotal</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 815918666 - NamedType 925329691" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ahorro Total:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintSalesInfoExt - NamedType TextDescuento</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 815918666 - NamedType 4087776577" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TOTAL:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintSalesInfoExt - NamedType TextTotal</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1794735709 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VOID TRANSACTION</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintSlipVoid - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 3546780597 - NamedType 1399123761" size-unit="char" translate="yes" xml:space="preserve">
+          <source>gl total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintTotal - NamedType gltesttotal</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 3378327778 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In Store</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintXZLines - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 3378327778 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintXZLines - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 3113361863 - NamedType 2911528000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to print a Z Report?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintXZReportSV_Z - NamedType Text177</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 2765367548 - NamedType 2911528000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to print a Z Report Mensual?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintZReportMensual - NamedType Text177</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 2765367548 - NamedType 529650555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printing...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintZReportMensual - NamedType Text172</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 2765367548 - NamedType 415590890" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction server could not be contacted. Do you want to print for this terminal only?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintZReportMensual - NamedType Text223</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 3240912455 - NamedType 1121435244" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XXXXXXXXX CORTE X PARCIAL XXXXXXXXX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintZReportMensualSV - NamedType TextEncXMensual</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 3240912455 - NamedType 4224036910" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CORTE Z MENSUAL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintZReportMensualSV - NamedType TextEncZMensual</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 3240912455 - NamedType 1893334486" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NRC.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintZReportMensualSV - NamedType TextNRC</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 3240912455 - NamedType 2529288790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NIT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintZReportMensualSV - NamedType TextRNC</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 3240912455 - NamedType 3835546786" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GIRO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintZReportMensualSV - NamedType TextGIRO</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 3240912455 - NamedType 1215688770" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cod.Tienda:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintZReportMensualSV - NamedType TextCodTienda</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 3240912455 - NamedType 883004440" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caja:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method PrintZReportMensualSV - NamedType TextCaja</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3299771998 - Method 1602978666 - NamedType 2666681840" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current transaction must be finished!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSNPrint - Method TestNewTransaction - NamedType Text199</note>
+        </trans-unit>
+        <trans-unit id="Page 1602978175 - Control 1496202531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Fecha ZMensual - Control Anio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1602978175 - Control 4013799157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Month</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Fecha ZMensual - Control Mes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cheque</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 1324170193" size-unit="char" translate="yes" xml:space="preserve">
+          <source> is already applied to %1 %2 for employee %3.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Document type, %2 = Document No., %3 = Employee No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType AlreadyAppliedToEmployeeErr</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 2042524856" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot print check because employee %1 is blocked due to privacy.</source>
+          <note from="Developer" annotates="general" priority="2">%1 - Employee no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType BlockedEmplForCheckErr</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 3919590978" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType CheckNoTextCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 3112881028" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType DocDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 2833281111" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType DocNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 1857519089" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType LineDiscountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 1521973211" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType NetAmountLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 569889774" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType PostingDescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preview is not allowed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Check No. must be filled in.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filters on %1 and %2 are not allowed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XXXXXXXXXXXXXXXX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>must be entered.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Bank Account and the General Journal Line must have the same currency.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Both Bank Accounts must have the same currency.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XXXXXXXXXX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XXXX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 already exists.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check for %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In the Check report, One Check per Vendor and Document No.\must not be activated when Applies-to ID is specified in the journal lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The total amount of check %1 is %2. The amount must be positive.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID VOID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NON-NEGOTIABLE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 1302975608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text023</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 196491397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XXXX.XX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text024</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 834188014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text025</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 1148659762" size-unit="char" translate="yes" xml:space="preserve">
+          <source> is already applied to %1 %2 for customer %3.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text030</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 510963145" size-unit="char" translate="yes" xml:space="preserve">
+          <source> is already applied to %1 %2 for vendor %3.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text031</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 3908497555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account,Customer,Vendor,Bank Account,,,Employee</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text062</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 251226876" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Amount %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text063</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 2633104321" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must not be %2 for %3 %4.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text064</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 3270800938" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType Text065</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 2412089670" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning:  Checks cannot be financially voided when Force Doc. Balance is set to No in the Journal Template.  Do you want to continue anyway?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType USText001</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 498999819" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process cancelled at user request.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType USText002</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 3518573881" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Check No. must include at least one digit, so that it can be incremented.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType USText004</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 2243180647" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot use the &lt;blank&gt; %1 option with a Canadian style check. Please check %2 %3.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType USText006</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - NamedType 2880877264" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot use the Spanish %1 option with a Canadian style check. Please check %2 %3.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - NamedType USText007</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 2663384385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank account that the check will be drawn from.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control BankAccount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 2663384385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control BankAccount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 3691953284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want each check to commit to the database after printing instead of at the end of the print job. This allows you to avoid differences between the data and check stock on networks where the print job is cached.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control CommitEachCheck - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 3691953284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commit Each Check</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control CommitEachCheck - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 1514267703 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Last Check No. field on the bank account card.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control LastCheckNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 1514267703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Check No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control LastCheckNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 1563725732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if only one check is printed per vendor for each document number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control OneCheckPerVendorPerDocumentNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 1563725732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One Check per Vendor per Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control OneCheckPerVendorPerDocumentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 1059736969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you use check forms with preprinted stubs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control PreprintedStub - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 1059736969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preprinted Stub</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control PreprintedStub - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 2992590101 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if checks are printed again if you canceled the printing due to a problem.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control ReprintChecks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 2992590101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reprint Checks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control ReprintChecks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 4054877177 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to print the checks on blank paper before you print them on check forms.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control TestPrinting - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2901222073 - Control 4054877177 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CHEQUE - Control TestPrinting - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

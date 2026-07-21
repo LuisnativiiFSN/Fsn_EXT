@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_Hospitality">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2726918359 - NamedType 2290157555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VOIDED</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - NamedType Txt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - NamedType 4203247406" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Started</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - NamedType Txt2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - NamedType 3565550789" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finished</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - NamedType Txt3</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - NamedType 377067704" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&gt; 2 hrs over</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - NamedType Txt4</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - NamedType 4034338383" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 min over</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - NamedType Txt5</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - NamedType 1652460938" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 min</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - NamedType Txt6</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - NamedType 1014764321" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Now</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - NamedType Txt7</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 368759445 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This order cannot be processed as Typology 0.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method ApplyTipology0 - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 916582048 - NamedType 2340396539" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PREFACTURA BC, SALA ORIGEN %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method CreatePosTransaction - NamedType FREETEXT</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 916582048 - NamedType 2653564935" size-unit="char" translate="yes" xml:space="preserve">
+          <source>linea PREFACTURA BC, SALA ORIGEN ya existe.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method CreatePosTransaction - NamedType ERRORTEXT</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 3397880712 - NamedType 1313798433" size-unit="char" translate="yes" xml:space="preserve">
+          <source>00000APP01000000000</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method ecommerceHighPriority - NamedType appRange1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 3397880712 - NamedType 676101816" size-unit="char" translate="yes" xml:space="preserve">
+          <source>00000APP01999999999</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method ecommerceHighPriority - NamedType appRange2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 3397880712 - NamedType 2204977122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>000PV#1000000000000</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method ecommerceHighPriority - NamedType webRange1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 3397880712 - NamedType 291887271" size-unit="char" translate="yes" xml:space="preserve">
+          <source>000PV#1000999999999</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method ecommerceHighPriority - NamedType webRange2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 3397880712 - NamedType 1637295512" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primero Facture el pedido de %1 con el numero de Telefono %2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method ecommerceHighPriority - NamedType text0001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 4166622817 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedido enviado a CALL CENTER con No %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method EPOS Controler_OnButtonPressed - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 4166622817 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe dar clic en "PROCESAR PREFACTURA BC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method EPOS Controler_OnButtonPressed - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 4166622817 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe de definir una media de pago para prefactura BC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method EPOS Controler_OnButtonPressed - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 4166622817 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error WS: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method EPOS Controler_OnButtonPressed - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 4166622817 - NamedType 1652662947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe definir tipo domicilio(CASA, TABAJO, OTROS, PARA LLEVAR)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method EPOS Controler_OnButtonPressed - NamedType TEXT004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 4166622817 - NamedType 1561443605" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Procesando Pedido BC, Espere.......</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method EPOS Controler_OnButtonPressed - NamedType LoadingText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 4166622817 - NamedType 1190276562" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe de agregar cliente a la transaccion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method EPOS Controler_OnButtonPressed - NamedType Mensaj000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 3981331018 - NamedType 1089555199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assigned</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method GetHosspOrderCountDown - NamedType lTxt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 2649420432 - NamedType 1724931251" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method InsertTmpTrans - NamedType Text260</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 2473622958 - NamedType 2290359564" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe definir Cliente</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method LSC POS Controller_OnPOSEvent - NamedType TEXT005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 2473622958 - NamedType 2928056181" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cliente debe de tener Numero de Telefono</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method LSC POS Controller_OnPOSEvent - NamedType TEXT006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 779870209 - NamedType 2441007192" size-unit="char" translate="yes" xml:space="preserve">
+          <source>N° Remesa: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method LSC POS Trans. Infocode Entry_OnBeforeInsertEvent - NamedType FreeTextRemesa</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 779870209 - NamedType 164560514" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tienda Selec: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method LSC POS Trans. Infocode Entry_OnBeforeInsertEvent - NamedType FreeTextStoreSelect</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 4181015414 - NamedType 2340396539" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RUTA DE DAF DESDE SALA %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method NewLine - NamedType FREETEXT</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 2436750110 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web service module is not active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method RequestSetupOk - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 2436750110 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web request %1 not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method RequestSetupOk - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 2436750110 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web request %1 is not active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method RequestSetupOk - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 3511608509 - NamedType 3336091128" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ERROR Entry type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method SendPosTransCCBC - NamedType ErrorEntryType</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 2112808402 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method ValOrderProcess - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2726918359 - Method 2112808402 - NamedType 3161018329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Hospitality - Method ValOrderProcess - NamedType lTextSimbol</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Web Table Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - NamedType 352654951" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El restaurante %1 ya está seleccionado. ¿Quieres cambiarlo al restaurante %2?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - NamedType Text080</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Method 4128543304 - NamedType 2110604511" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Datos actualizados</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Method OnClosePage - NamedType Mens</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 736977384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Domicilio y Para Llevar.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control DOMICILIO Y PARA LLEVAR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 3096075186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ciudad :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Ciudad - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 417779035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Colonia/Calle :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Colonia/Calle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 2391326462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direccion :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Direccion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 3949386265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Domicilio</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Domicilio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 3949386265 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CASA,TRABAJO,OTROS,PARA LLEVAR</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Domicilio - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 1196002253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Llave Alterna :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Llave Alterna - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 812907467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Telef :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control No Telef. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 1317289589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restriccion :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Restriccion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 2131774011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sugeridas :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Sugeridas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 2172575624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comentarios</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Ingresar Comentario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 1240338501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comentarios :.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Comentario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 1240338501 - Method 2126772001 - NamedType 2442239144" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El comentario debe de ser menor a 65 caracteres</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control Comentario - Method OnValidate - NamedType ErrorL</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Control 4180984966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Control tipo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Action 741218967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GUARDAR INFORMACION</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Action ACTUALIZAR INFORMACION - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 300125466 - Action 741218967 - Method 1377591017 - NamedType 2110604511" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Datos actualizados</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Web Table Page - Action ACTUALIZAR INFORMACION - Method OnAction - NamedType Mens</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

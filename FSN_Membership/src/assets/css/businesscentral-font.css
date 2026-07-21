@@ -1,0 +1,52 @@
+body {
+    font-family: "Segoe UI", "Segoe WP", Segoe, device-segoe, Tahoma, Helvetica, Arial, sans-serif;
+    color: #212121;
+}
+
+.font-primary {
+    font-family: "Segoe UI", "Segoe WP", Segoe, device-segoe, Tahoma, Helvetica, Arial, sans-serif;
+}
+
+.font-light {
+    font-family: "Segoe UI Light", "Segoe WP Light", device-segoe-light, "Segoe WP Semilight", "Segoe UI", "Segoe WP", Segoe, Tahoma, Helvetica, Arial, sans-serif;
+}
+
+.font-semilight {
+    font-family: "Segoe UI Semilight", "Segoe WP Semilight", device-segoe-semilight, "Segoe UI", "Segoe WP", Segoe, Tahoma, Helvetica, Arial, sans-serif;
+}
+
+.font-semibold {
+    font-family: "Segoe UI Semibold", "Segoe WP Semibold", device-segoe-semibold, "Segoe UI", "Segoe WP", Segoe, Tahoma, Helvetica, Arial, sans-serif;
+}
+
+.font-secondary {
+    font-family: 	webclient-standard, device-standard, "Segoe UI", "Segoe WP", Segoe, Tahoma, Helvetica, Arial, sans-serif;
+}
+
+.large-plus-font {
+    font-size: 22.5pt;
+}
+
+.large-font {
+    font-size: 18pt;
+}
+
+.medium-plus-font {
+    font-size: 15pt;
+}
+
+.medium-font {
+    font-size: 13.5pt;
+}
+
+.small-plus-font {
+    font-size: 12pt;
+}
+
+.small-font {
+    font-size: 10.5pt;
+}
+
+.smallest-font {
+    font-size: 9pt;
+}

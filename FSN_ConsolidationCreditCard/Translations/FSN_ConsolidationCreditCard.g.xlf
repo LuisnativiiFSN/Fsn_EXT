@@ -1,0 +1,989 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_ConsolidationCreditCard">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3391551501 - Field 25700210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN InterfazCreditos - Field Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3391551501 - Field 2359550932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN InterfazCreditos - Field Credit Limit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3391551501 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN InterfazCreditos - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3391551501 - Field 2720558376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EBS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN InterfazCreditos - Field EBS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3391551501 - Field 1517517027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LDCOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN InterfazCreditos - Field LDCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3391551501 - Field 138115679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LSR</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN InterfazCreditos - Field LSR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3391551501 - Field 2126651878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ReferenciaEBS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN InterfazCreditos - Field ReferenciaEBS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be MODIFY in status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 643555839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Amount Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 2427721429 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Pending</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Amount Pending - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 1777732821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auth. Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Auth. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 1154371785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization Web Ok</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Authorization Web Ok - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 3534425223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BIN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field BIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 2674503554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Close - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 3198210870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Consigment No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Consigment No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 856939593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Consignment Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Consignment Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 3494498308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Return</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Is Return - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 1375249525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NCF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field NCF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 2400744372 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Process Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 3236512926 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Provider Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Provider Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 2253333645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 3083556976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reference No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Reference No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 3368806013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Staff ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nothing,Open,Partial,Completado,Match Reverse,Confirm Pending,Manual Close,CashApply</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 3449663827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terminal ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Terminal ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 985039452 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trans. Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Trans. Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 3890180923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trans. Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Trans. Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2746082929 - Field 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Prov. VS Customer - Field Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be modify in status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be delete in status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Reverse must be negative, Positive for buy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be MODIFY in status active inherit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 2618509611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Commission</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Amount Commission - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 2043680614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount In Payments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Amount In Payments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 2243233164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Amount Transaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 406468578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Audit Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Audit Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 1777732821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auth. Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Auth. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 1665890964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card Mask</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Card Mask - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 2674503554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Close - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 242581387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close Diff. Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Close Diff. Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 3118454977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close Diff. Like Cash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Close Diff. Like Cash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 3201441197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close Diff. Refund</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Close Diff. Refund - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 4208851034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission Percent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Commission Percent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 753742527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Count Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Count Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 3716426245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Date Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 3610271285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extra Data 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Extra Data 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 847256494 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Reverse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Is Reverse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 1070608051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Last Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 1056434172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Parent Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 593001566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Amt. Comission</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Parent Amt. Comission - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 3318504593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Auth. Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Parent Auth. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 1068272785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Parent Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 4127063314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Provider Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Provider Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 2618029887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Record Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 2618029887 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Load,Manual,Duplicate,Manual Refund</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Record Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 3083556976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reference No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Reference No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 562534335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retailer ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Retailer ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open,Partial,Complete,MatchReverse,Confirm Pending,Cancelled,Inherit,CashApply,ApplyCreditCustomer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 3295731885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store Apply</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Store Apply - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 3372799473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store In Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Store In Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 3449663827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terminal ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Terminal ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 725332840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trans. Time Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Trans. Time Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 3004939264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trans. Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field Trans. Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3731822315 - Field 13278866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Card Providers - Field User No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3552258362 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN TranClienteLD - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3552258362 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN TranClienteLD - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3552258362 - Field 149409447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN TranClienteLD - Field Date Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3552258362 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN TranClienteLD - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3552258362 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN TranClienteLD - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3552258362 - Field 35450067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN TranClienteLD - Field Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3552258362 - Field 2188349781 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refund Receipt No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN TranClienteLD - Field Refund Receipt No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3552258362 - Field 395568547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retrieved from Receipt No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN TranClienteLD - Field Retrieved from Receipt No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3552258362 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN TranClienteLD - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3552258362 - Field 1915308640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN TranClienteLD - Field Time Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3552258362 - Field 775380468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN TranClienteLD - Field Transaction Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 826228420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1,Month %2 / %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType ProcessOption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Match Presition %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount  zero</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;Precision,2:2&gt;&lt;Standard Format,2&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mix Muliple vouchers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>partial %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process date %1 ?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>(-1D)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>+-30D</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>+-5D</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Must be pending</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining amount %1, in payment %2, is not successfull</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply manual, user: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Special search. Date,Cust.(Group),Store,Amt MX</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spec. search. Date(+-30D),Auth.Code,Store,Amt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spec. search. Cust.(Group),Store,Amt MX(+-1D)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error in create link \voucher %1 %2 %3, \Transac. %4 %5 %6</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error in try inherit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text018</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be use more vouchers in status %1, \Solutions: Use Inherit or Liquidate Consigment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Voucher is lower (%1) to amount request (%2)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Cant be Emtpy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1823419059 - NamedType 665278991" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Error, Parent amount %1 is lowerto invoice Amount %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Card Providers Mgt. - NamedType Text022</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 695284877 - NamedType 3418310955" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checking balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit InterfazSaldoClientes - NamedType CheckingBalanceMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 695284877 - NamedType 3943784158" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checking lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit InterfazSaldoClientes - NamedType CheckingLinesMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 695284877 - NamedType 3451866136" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit InterfazSaldoClientes - NamedType PostingLinesMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 695284877 - NamedType 2438318723" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting revers. lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit InterfazSaldoClientes - NamedType PostingReversLinesMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 695284877 - NamedType 2454077865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updating bal. lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit InterfazSaldoClientes - NamedType UpdatingBalLinesMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 695284877 - NamedType 1128701740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updating lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit InterfazSaldoClientes - NamedType UpdatingLinesMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 695284877 - Method 3657330213 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No existe No serie en libro diario general</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit InterfazSaldoClientes - Method ApplyTransactions - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 695284877 - Method 737175832 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No existe No serie en libro diario general</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit InterfazSaldoClientes - Method InsertGenJournalLine - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Page 1154279665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payments Retail Role Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Payments Retail Rol Center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1154279665 - Action 2542384230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entradas de tarjeta POS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Payments Retail Rol Center - Action CardAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490487206 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be set Entry No. directly , must be select from lookup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Prov. VS Client - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Page 490487206 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comfirm selection \Aut.Code %1  \Referece %2 \Amount  $%3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Prov. VS Client - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 490487206 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply Consigment %1?. Amount a calcular %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Prov. VS Client - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 490487206 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply Cross Cash?\Custom:%1\Amount %2\Store %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Prov. VS Client - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 490487206 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply Cash by %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Prov. VS Client - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Page 490487206 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>History not exists for Customer No.= %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Prov. VS Client - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Page 490487206 - Control 3236512926 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Provider Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Prov. VS Client - Control Provider Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490487206 - Action 1197703878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply Like Cash Tender</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Prov. VS Client - Action Apply Like Cash Tender - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490487206 - Action 2424735227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Consigment Apply</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Prov. VS Client - Action Consigment Apply - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 490487206 - Action 375402616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seach Card Mask</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Prov. VS Client - Action Seach Card Mask - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Card Providers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Links record %1 %2 %3 ?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be canncel this record</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Heredar? \Aut.Code %1  \Referece %2 \Amount  $%3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Voucher is closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Voucher is parent of others vocuhers. Cant inherit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Voucher already inherit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be equal voucher</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Voucher amount $%1\Inherit Sums $%2\Used in Payments $%3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Voucher Destiny is closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel by Refund voucher %1 %2 %3 ?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel by Refund</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Difference?\%1 %2 %3\Diff. $%4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Voucher never used</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Complete, Diffl partial by refund</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be cancel partial in status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be apply like cash partial in status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply like Cash partial</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applied like cash? voucher %1 %2 %3 ?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text018</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply like Cash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply to Customer Credit? %1 %2 %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply to Credit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Control 1056434172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Control Parent Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Control 1068272785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Control Parent Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Action 4292327715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information Inherit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Action Information Inherit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Action 36844671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inherit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Action Inherit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Action 3753372475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Diference</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Action Post Diference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Action 505149012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reverse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Action Reverse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Action 2012676125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply Like Apply</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Action Apply Like Apply - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Action 2012676125 - Method 1377591017 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Apply Partial,Cash Apply Complete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Action Apply Like Apply - Method OnAction - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Action 163871733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel by Refund</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Action Cancel by Refund - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Action 163871733 - Method 1377591017 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Partial,Cancel Complete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Action Cancel by Refund - Method OnAction - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="Page 3731822315 - Action 2676581607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Links (Re Open)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers - Action Cancel Links - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3048502969 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sincronize record from date %1?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers Mgt - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 3048502969 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing 5000 record maximum, try process again.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers Mgt - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 3048502969 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 records processing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers Mgt - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 3048502969 - Control 3311481346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card Providers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers Mgt - Control CardProviders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3048502969 - Control 74891556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card VS Client</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers Mgt - Control CardVSClient - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3048502969 - Control 369765833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter Pending</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers Mgt - Control FilterPending - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3048502969 - Control 1481497274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WorksDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers Mgt - Control WorksDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3048502969 - Action 2182808262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process All</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers Mgt - Action ProcessAll - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3048502969 - Action 846810248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sincronize Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers Mgt - Action SincronizeRecords - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3048502969 - Action 3316239784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Card Providers Mgt - Action Update View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 385978602 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Setup Extend</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Setup Extend - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - NamedType 1987762555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - NamedType CurrReport_PAGENOCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - NamedType 2796876449" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - NamedType G_L_Entry__Posting_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - NamedType 3635448962" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - NamedType G_L_Entry__Source_Type_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - NamedType 815172629" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - NamedType Journal_RegisterCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register No. %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Entries in Register No. %1: %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - Control 856555280 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to include the name of the general ledger account in the list. If this field is selected, the name will appear on the line below the ledger line where it appears, and each ledger line will use two report lines. Otherwise, the name will not appear and each ledger line will use only one report line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - Control IncludeAccountDesc - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - Control 856555280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include Account Desc.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - Control IncludeAccountDesc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - Control 2457079412 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the register includes dimensions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - Control ShowDimensions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3868939135 - Control 2457079412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN G/L Payment - Control ShowDimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4148334180 - Control 1194581100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2588048341">
+          <source>Código Autorizacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Applied Customer Entries - Control FSN Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4148334180 - Control 3131874250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2588048341">
+          <source>DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Applied Customer Entries - Control LSC Narration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3477679180 - Control 1194581100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 824625293">
+          <source>Código Autorizacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Applied Vendor Entries - Control FSN Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3477679180 - Control 3131874250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 824625293">
+          <source>DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Applied Vendor Entries - Control LSC Narration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2354050463 - Control 1194581100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2393537757">
+          <source>Código Autorizacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Cust Ledger Entries - Control FSN Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2354050463 - Control 3131874250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2393537757">
+          <source>DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Cust Ledger Entries - Control LSC Narration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4112089878 - Control 1194581100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 674409955">
+          <source>Código Autorizacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Det. ust. Ledg. Entries - Control FSN Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4112089878 - Control 3131874250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 674409955">
+          <source>DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Det. ust. Ledg. Entries - Control LSC Narration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 921817660 - Action 2267561639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1755308350">
+          <source>Additional Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Incoming Documents Ext - Action AdditionalDocuments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 921817660 - Action 3991279553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1755308350">
+          <source>Adds. Documents Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Incoming Documents Ext - Action AddsDocumentsPosted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3557670183 - Control 1194581100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1567633909">
+          <source>Código Autorizacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Vend Ledger Entries - Control FSN Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3557670183 - Control 3131874250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1567633909">
+          <source>DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Vend Ledger Entries - Control LSC Narration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 697780200 - Field 1194581100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Comment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Cust Ledg Entry - Field FSN Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 857198786 - Field 1194581100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 406314583">
+          <source>Comment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Vendor Ledger Entry - Field FSN Comment - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="LoteVence">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1583593572 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Lote Invalidate - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1583593572 - Field 1579714849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Lote Invalidate - Field Expiration Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1583593572 - Field 190956899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Faltante</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Lote Invalidate - Field Faltante - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1583593572 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Lote Invalidate - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1583593572 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Lote Invalidate - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1583593572 - Field 1482668068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Lote Invalidate - Field Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1583593572 - Field 3080618677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Lote Invalidate - Field Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1583593572 - Field 1096974361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pos Terminal No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Lote Invalidate - Field Pos Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1583593572 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Lote Invalidate - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1583593572 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Lote Invalidate - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1583593572 - Field 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Lote Invalidate - Field Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 227402373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Lotes invalidos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Lotes invalios - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 227402373 - Method 2381344127 - NamedType 470711900" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The length of the Document No. (%1) can not exceed 20 characters.\The Document No. is constructed by concatenating the Store No. (%2), POS Terminal No. (%3) and the Transaction No. (%4) separated by "-".\Please make sure the combined length of the Store No. and the POS Terminal No. does not exceed 10 characters.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Lotes invalios - Method CreateDocNo - NamedType LText001</note>
+        </trans-unit>
+        <trans-unit id="Page 227402373 - Control 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha de Transaccion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Lotes invalios - Control Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 227402373 - Control 3080618677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mensaje</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Lotes invalios - Control Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 227402373 - Control 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cantidad venta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Lotes invalios - Control Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 227402373 - Action 634843985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Functions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Lotes invalios - Action &amp;Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 227402373 - Action 3250530284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ajuste Lote</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Lotes invalios - Action &amp;Ajuste Lote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 227402373 - Action 862830737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Corregir Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Lotes invalios - Action &amp;Correct Serial/Lot No. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,16 @@
+{
+    "containerResultPath":  "",
+    "launchConfigName":  "Publish: TEST",
+    "securePassword":  "01000000d08c9ddf0115d1118c7a00c04fc297eb01000000e5f1d9ec29fa204cbc0b4269649de9b50000000002000000000010660000000100002000000071b078ffec0aceb3c692716682b13c4d7f8f601710aae56975357f6102eef9ab000000000e80000000020000200000004b07e510cf0a42a4dacc6079a599a5cd95a6737c915fc1db43f17d8c3b21ab4e20000000a327afd6365185f53a120194edb5aca3762a3086773f627005fd3cd07e5b37d640000000a3b221079817d0edfdc0c2e5bbc53c997e438010ced49334014120f53d91d7242ee6f3fa445fe857a72e76e76f1b3df1021d273bf6922a1a8ef12ef290f71f85",
+    "userName":  "consulta",
+    "companyName":  "",
+    "testSuiteName":  "",
+    "vmUserName":  "",
+    "vmSecurePassword":  "",
+    "remoteContainerName":  "",
+    "dockerHost":  "",
+    "newPSSessionOptions":  "",
+    "testRunnerServiceUrl":  "",
+    "codeCoveragePath":  ".//.altestrunner//codecoverage.json",
+    "culture":  "en-US"
+}

@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+        <Style />
+      </Body>
+      <Width>6.5in</Width>
+      <Page>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParameters>
+    <ReportParameter Name="NumeroCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>NumeroCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>NumeroCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="ClienteCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ClienteCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ClienteCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="FechaCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>FechaCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>FechaCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CodigoAseguradoCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CodigoAseguradoCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CodigoAseguradoCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="AseguradoCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>AseguradoCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>AseguradoCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="ParentescoCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ParentescoCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ParentescoCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="TitularCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>TitularCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>TitularCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="TipoCoaseguroCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>TipoCoaseguroCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>TipoCoaseguroCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="PorcentajeCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>PorcentajeCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>PorcentajeCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CoaseguroCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CoaseguroCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CoaseguroCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="TotalCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>TotalCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>TotalCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="TotalIvaCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>TotalIvaCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>TotalIvaCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="XPagarCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>XPagarCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>XPagarCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="VendedorCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>VendedorCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>VendedorCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="GiroCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>GiroCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>GiroCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="NITCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>NITCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>NITCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="NRCCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>NRCCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>NRCCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="StoreNameCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>StoreNameCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>StoreNameCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CodEmpresaCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CodEmpresaCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CodEmpresaCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CodigoCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CodigoCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CodigoCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="DescripcionCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>DescripcionCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>DescripcionCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="UnidadCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>UnidadCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>UnidadCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="CantidadCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>CantidadCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>CantidadCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="UnitarioCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>UnitarioCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>UnitarioCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="UnitarioIVACaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>UnitarioIVACaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>UnitarioIVACaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="ValorCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ValorCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ValorCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="DescuentoCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>DescuentoCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>DescuentoCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="PorcIVACaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>PorcIVACaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>PorcIVACaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="ValorMasIVACaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ValorMasIVACaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ValorMasIVACaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="NumRecetaCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>NumRecetaCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>NumRecetaCaption</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="Numero">
+          <DataField>Numero</DataField>
+        </Field>
+        <Field Name="Cliente">
+          <DataField>Cliente</DataField>
+        </Field>
+        <Field Name="Fecha">
+          <DataField>Fecha</DataField>
+        </Field>
+        <Field Name="CodigoAsegurado">
+          <DataField>CodigoAsegurado</DataField>
+        </Field>
+        <Field Name="Asegurado">
+          <DataField>Asegurado</DataField>
+        </Field>
+        <Field Name="Parentesco">
+          <DataField>Parentesco</DataField>
+        </Field>
+        <Field Name="Titular">
+          <DataField>Titular</DataField>
+        </Field>
+        <Field Name="TipoCoaseguro">
+          <DataField>TipoCoaseguro</DataField>
+        </Field>
+        <Field Name="Porcentaje">
+          <DataField>Porcentaje</DataField>
+        </Field>
+        <Field Name="PorcentajeFormat">
+          <DataField>PorcentajeFormat</DataField>
+        </Field>
+        <Field Name="Coaseguro">
+          <DataField>Coaseguro</DataField>
+        </Field>
+        <Field Name="CoaseguroFormat">
+          <DataField>CoaseguroFormat</DataField>
+        </Field>
+        <Field Name="Total">
+          <DataField>Total</DataField>
+        </Field>
+        <Field Name="TotalFormat">
+          <DataField>TotalFormat</DataField>
+        </Field>
+        <Field Name="TotalIva">
+          <DataField>TotalIva</DataField>
+        </Field>
+        <Field Name="TotalIvaFormat">
+          <DataField>TotalIvaFormat</DataField>
+        </Field>
+        <Field Name="XPagar">
+          <DataField>XPagar</DataField>
+        </Field>
+        <Field Name="XPagarFormat">
+          <DataField>XPagarFormat</DataField>
+        </Field>
+        <Field Name="Vendedor">
+          <DataField>Vendedor</DataField>
+        </Field>
+        <Field Name="ValorTexto">
+          <DataField>ValorTexto</DataField>
+        </Field>
+        <Field Name="StaffNameText">
+          <DataField>StaffNameText</DataField>
+        </Field>
+        <Field Name="StoreNameText">
+          <DataField>StoreNameText</DataField>
+        </Field>
+        <Field Name="PrintType">
+          <DataField>PrintType</DataField>
+        </Field>
+        <Field Name="DiscountAmt">
+          <DataField>DiscountAmt</DataField>
+        </Field>
+        <Field Name="DiscountAmtFormat">
+          <DataField>DiscountAmtFormat</DataField>
+        </Field>
+        <Field Name="Giro">
+          <DataField>Giro</DataField>
+        </Field>
+        <Field Name="NombreCliente">
+          <DataField>NombreCliente</DataField>
+        </Field>
+        <Field Name="Direccion">
+          <DataField>Direccion</DataField>
+        </Field>
+        <Field Name="NIT">
+          <DataField>NIT</DataField>
+        </Field>
+        <Field Name="NRC">
+          <DataField>NRC</DataField>
+        </Field>
+        <Field Name="StoreName">
+          <DataField>StoreName</DataField>
+        </Field>
+        <Field Name="CodEmpresa">
+          <DataField>CodEmpresa</DataField>
+        </Field>
+        <Field Name="Codigo">
+          <DataField>Codigo</DataField>
+        </Field>
+        <Field Name="Descripcion">
+          <DataField>Descripcion</DataField>
+        </Field>
+        <Field Name="Unidad">
+          <DataField>Unidad</DataField>
+        </Field>
+        <Field Name="Cantidad">
+          <DataField>Cantidad</DataField>
+        </Field>
+        <Field Name="CantidadFormat">
+          <DataField>CantidadFormat</DataField>
+        </Field>
+        <Field Name="Unitario">
+          <DataField>Unitario</DataField>
+        </Field>
+        <Field Name="UnitarioFormat">
+          <DataField>UnitarioFormat</DataField>
+        </Field>
+        <Field Name="UnitarioIVA">
+          <DataField>UnitarioIVA</DataField>
+        </Field>
+        <Field Name="UnitarioIVAFormat">
+          <DataField>UnitarioIVAFormat</DataField>
+        </Field>
+        <Field Name="Valor">
+          <DataField>Valor</DataField>
+        </Field>
+        <Field Name="ValorFormat">
+          <DataField>ValorFormat</DataField>
+        </Field>
+        <Field Name="Descuento">
+          <DataField>Descuento</DataField>
+        </Field>
+        <Field Name="DescuentoFormat">
+          <DataField>DescuentoFormat</DataField>
+        </Field>
+        <Field Name="PorcIVA">
+          <DataField>PorcIVA</DataField>
+        </Field>
+        <Field Name="PorcIVAFormat">
+          <DataField>PorcIVAFormat</DataField>
+        </Field>
+        <Field Name="ValorMasIVA">
+          <DataField>ValorMasIVA</DataField>
+        </Field>
+        <Field Name="ValorMasIVAFormat">
+          <DataField>ValorMasIVAFormat</DataField>
+        </Field>
+        <Field Name="NumReceta">
+          <DataField>NumReceta</DataField>
+        </Field>
+        <Field Name="PriceRecalc">
+          <DataField>PriceRecalc</DataField>
+        </Field>
+        <Field Name="PriceRecalcFormat">
+          <DataField>PriceRecalcFormat</DataField>
+        </Field>
+        <Field Name="DiscountLine">
+          <DataField>DiscountLine</DataField>
+        </Field>
+        <Field Name="DiscountLineFormat">
+          <DataField>DiscountLineFormat</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

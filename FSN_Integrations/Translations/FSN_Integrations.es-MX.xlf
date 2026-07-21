@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="FSN_Integrations.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2114181238 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot new numbers from the number series %1</source>
+          <target>No se pueden nuevos números de la serie numérica %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integrations Methods - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2114181238 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no Serial Code</source>
+          <target>No hay código de serie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integrations Methods - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2114181238 - NamedType 577740501" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APP_INTEGRATION</source>
+          <target>APP_INTEGRATION</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integrations Methods - NamedType SUB_TYPE</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2114181238 - NamedType 1085715468" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transacciones de punto express no puede llevar lineas de productos</source>
+          <target>Transacciones de punto express no puede llevar lineas de productos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integrations Methods - NamedType Tex0001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2114181238 - NamedType 1723412085" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transacciones de PuntoXpress no pueden cambiar tipo documento</source>
+          <target>Transacciones de PuntoXpress no pueden cambiar tipo documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integrations Methods - NamedType Tex0002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2114181238 - NamedType 2675580450" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Termine transaccion para abrir panel PuntoXpress</source>
+          <target>Termine transaccion para abrir panel PuntoXpress</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integrations Methods - NamedType Tex0016</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2114181238 - Method 1773263919 - NamedType 941982466" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se debe de descargar en %1</source>
+          <target>Se debe de descargar en %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integrations Methods - Method DesPXpress - NamedType ErroTerminal</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2114181238 - Method 1457284082 - NamedType 2528306372" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PV</source>
+          <target>PV</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integrations Methods - Method generateTerminalNo - NamedType prefix</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2114181238 - Method 43290573 - NamedType 2528306372" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PV</source>
+          <target>PV</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integrations Methods - Method generateTerminalNoPE - NamedType prefix</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2114181238 - Method 4260754582 - NamedType 2290359564" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe agregar un Cliente para la transacción de PUNTOXPRESS</source>
+          <target>Debe agregar un Cliente para la transacción de PUNTOXPRESS</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Integrations Methods - Method LSC POS Controller_OnButtonPressed - NamedType TEXT005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2925459011 - Method 3686397714 - NamedType 941982466" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se debe de descargar en %1</source>
+          <target>Se debe de descargar en %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Pseudo Obeserver Methods - Method DescargaPuntoExpress - NamedType ErroTerminal</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2925459011 - Method 2293372938 - NamedType 717777889" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pa$$w0rd</source>
+          <target>Pa$$w0rd</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Pseudo Obeserver Methods - Method getCredentials - NamedType PASSWORD</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2925459011 - Method 882488980 - NamedType 941982466" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se debe de descargar en %1</source>
+          <target>Se debe de descargar en %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Pseudo Obeserver Methods - Method ValProcess - NamedType ErroTerminal</note>
+        </trans-unit>
+        <trans-unit id="Enum 970023810 - EnumValue 1224286991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE Portable</source>
+          <target>DTE Portable</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Integrations - EnumValue DTEP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 970023810 - EnumValue 3368392885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MEDICPRO</source>
+          <target>MEDICPRO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Integrations - EnumValue MEDICPRO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 970023810 - EnumValue 2120474881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Onlife</source>
+          <target>Onlife</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Integrations - EnumValue ONLIFE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 970023810 - EnumValue 3705630641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PuntoXpress</source>
+          <target>PuntoXpress</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Integrations - EnumValue PXPRESS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 970023810 - EnumValue 1161931828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Uber</source>
+          <target>Uber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Integrations - EnumValue UBER - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

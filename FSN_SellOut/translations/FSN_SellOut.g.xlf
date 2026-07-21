@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_SellOut">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3407352664 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 11342033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Offer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Offer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 3915920124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Offer Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Offer Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 2253333645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 2742725084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replication Counter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Replication Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 375036104 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell Out Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Sell Out Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 76185036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell Out Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Sell Out Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3407352664 - Field 3375825797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Sell Out</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Sell Out Value Entry - Field Value Sell Out - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4095098848 - Field 3647353589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3231105709">
+          <source>FSN Sell Out Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Coupon Header - Field FSN Sell Out Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4095098848 - Field 2453236660 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3231105709">
+          <source>FSN Value Sell Out</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Coupon Header - Field FSN Value Sell Out - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3725368539 - Field 3647353589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1747469202">
+          <source>FSN Sell Out Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Periodic Discount - Field FSN Sell Out Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3725368539 - Field 2453236660 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1747469202">
+          <source>FSN Value Sell Out</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Periodic Discount - Field FSN Value Sell Out - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3380251601 - Field 916606164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3176919188">
+          <source>FSN Barcode No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Periodic Discount Line - Field FSN Barcode No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3380251601 - Field 3647353589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3176919188">
+          <source>FSN Sell Out Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Periodic Discount Line - Field FSN Sell Out Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3380251601 - Field 2453236660 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3176919188">
+          <source>FSN Value Sell Out</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Periodic Discount Line - Field FSN Value Sell Out - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1321331433 - Field 4182385665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4146668066">
+          <source>FSN Sell Out Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Pos Trans Periodic Disc - Field FSN Sell Out Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1321331433 - Field 3647353589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4146668066">
+          <source>FSN Sell Out Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Pos Trans Periodic Disc - Field FSN Sell Out Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1321331433 - Field 2453236660 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4146668066">
+          <source>FSN Value Sell Out</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Pos Trans Periodic Disc - Field FSN Value Sell Out - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 572438876 - EnumValue 3319484574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank/Percent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Sell Out Value Type - EnumValue Bank/Percent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 572438876 - EnumValue 834450047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nothing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Sell Out Value Type - EnumValue Nothing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 572438876 - EnumValue 3445825796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor/Percent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum FSN Sell Out Value Type - EnumValue Vendor/Percent - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

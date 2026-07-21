@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="FSN_Recargas.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2440103783 - Field 1559139290 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <target>Activo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Activo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Montos Operadoras - Field Activo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2440103783 - Field 1092982760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Epines</source>
+          <target>Epines</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Epines"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Montos Operadoras - Field Epines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2440103783 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <target>Identificador</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Identificador"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Montos Operadoras - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2440103783 - Field 1552410953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Monto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Monto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Montos Operadoras - Field Monto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2440103783 - Field 273993524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operador</source>
+          <target>Operador</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operador"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Montos Operadoras - Field Operador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1919952938 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <target>Identificador</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Identificador"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Operadoras Telefonicas - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1919952938 - Field 3757862293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product No.</source>
+          <target>No. Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Operadoras Telefonicas - Field No. Producto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1919952938 - Field 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Nombre</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Operadoras Telefonicas - Field Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1919952938 - Field 1305028959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price e-pin</source>
+          <target>Precio e-pin</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Precio e-pin"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Operadoras Telefonicas - Field Precio e-pin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1919952938 - Field 1059384570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Url query</source>
+          <target>Url Consulta</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Url Consulta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Operadoras Telefonicas - Field Url Consulta - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1919952938 - Field 1711775742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Url recharge</source>
+          <target>Url Recarga</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Url Recarga"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Operadoras Telefonicas - Field Url Recarga - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 4275892302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Control</source>
+          <target>Control</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Control"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Control ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 1991915875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Fecha</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Fecha - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 936434740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date recharge</source>
+          <target>Fecha recarga</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha recarga"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Fecha Recarga - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 1400610496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hour</source>
+          <target>Hora</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Hora"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Hora - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 753949136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attempts</source>
+          <target>Intentos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Intentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Intento No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>No. linea</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. linea"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 2860236154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recharge amount</source>
+          <target>Monto recarga</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Monto recarga"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Monto Recarga - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 4190726666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone number</source>
+          <target>Número Teléfono</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Número Teléfono"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Numero Telefono - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 4190726666 - Method 2126772001 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CONFIRMAR NÚMERO DE TELÉFONO \</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Numero Telefono - Method OnValidate - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 1187984551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remark</source>
+          <target>Observación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Observación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Observacion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 273993524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operador</source>
+          <target>Operador</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operador"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Operador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <target>No. terminal</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. terminal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 2253333645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <target>No. recibo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. recibo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 1245130655 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replicated</source>
+          <target>Replicado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Replicado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Replicated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 2742725084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replication Counter</source>
+          <target>Contador replicación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Contador replicación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Replication Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 3368806013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff</source>
+          <target>Empleado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Staff ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>No. tienda</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. tienda"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 3743342157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Tipo</source>
+          <target>Paquete Tigo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Paquete Tigo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Tipo Paquete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2183902258 - Field 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <target>No. transacción</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. transacción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electr. Hist. - Field Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 251881138 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CESC</source>
+          <target>CESC</target>
+          <note from="Developer" annotates="general" priority="2">ESP="CESC"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field CESC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 667691536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applied Commission D</source>
+          <target>Comisión aplicada D</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comisión aplicada D"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Comision Aplicada D - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 498782513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applied Commission O</source>
+          <target>Comisión aplicada O</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comisión aplicada O"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Comision Aplicada O - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 2402553023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission Debited D</source>
+          <target>Comisión debitada D</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comisión debitada D"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Comision Debitada D - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 827281218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission Debited O</source>
+          <target>Comisión debitada O</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comisión debitada O"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Comision Debitada O - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 2950845476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State</source>
+          <target>Estado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Estado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 1991915875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Fecha</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Fecha - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 936434740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recharge date</source>
+          <target>Fecha recarga</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha recarga"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Fecha Recarga - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 1400610496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hour</source>
+          <target>Hora</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Hora"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Hora - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>No. linea</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. linea"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 280134339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Credited</source>
+          <target>Monto Acreditado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Monto Acreditado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Monto Acreditado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 2243269117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Debited</source>
+          <target>Monto Debitado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Monto Debitado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Monto Debitado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 442352582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount available</source>
+          <target>Monto disponible</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Monto disponible"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Monto Disponible - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 2860236154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recharge amount</source>
+          <target>Monto recarga</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Monto recarga"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Monto Recarga - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 4190726666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone number</source>
+          <target>Número teléfono</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Número teléfono"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Numero Telefono - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 273993524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operador</source>
+          <target>Operador</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operador"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Operador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <target>No. terminal</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. terminal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 2253333645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <target>No. recibo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. recibo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 1245130655 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replicated</source>
+          <target>Replicado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Replicado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Replicated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 2742725084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replication Counter</source>
+          <target>Contador replicación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Contador replicación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Replication Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 137323088 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response Service</source>
+          <target>Respuesta servicio</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Respuesta servicio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Respuesta Servicio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 3368806013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff</source>
+          <target>Empleado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Staff ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>No. tienda</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. tienda"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 3743342157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Tigo</source>
+          <target>Paquete Tigo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Paquete Tigo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Tipo Paquete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 2976249901 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operator transaction</source>
+          <target>Transaccion operador</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Transaccion operador"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Transaccion Operador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2388060267 - Field 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <target>No. transacción</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. transacción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Recargas Electronicas - Field Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 89535612 - Field 2475387973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response Code</source>
+          <target>Código Respuesta</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Código Respuesta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Respuestas Operadoras - Field Codigo Respuesta - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 89535612 - Field 1475260075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Respuestas Operadoras - Field Descripcion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 89535612 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <target>Identificador</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Identificador"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Respuestas Operadoras - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 89535612 - Field 273993524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operador</source>
+          <target>Operador</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operador"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Respuestas Operadoras - Field Operador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - NamedType 3329752465" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El monto no es válido</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - NamedType ErrorMonto</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - NamedType 3043188714" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El número de teléfono no es válido</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - NamedType ErrorNumeroTelefono</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - NamedType 3816315681" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se ha podido insertar/modificar registro de recarga.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - NamedType InsertModifyError</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - NamedType 3377565019" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El monto o número de teléfono no deben ser vacios</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - NamedType VaciosError</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3158783656 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recarga COMODIN exitosa.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method ComodinPQ - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3992563501 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El monto: %1  no es valido</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method InfoPaqueTigo - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3992563501 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El numero de telefono: %1  no es valido</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method InfoPaqueTigo - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3992563501 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recarga Cancelada, intente nuevamente</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method InfoPaqueTigo - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3992563501 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe anular la transaccion actual</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method InfoPaqueTigo - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3992563501 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Solo puede haber una recarga por transaccion.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method InfoPaqueTigo - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3992563501 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ya hay una recarga fallida, debe realizar devolución</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method InfoPaqueTigo - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3992563501 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error en repuesta WS Recarga PaqueTigo</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method InfoPaqueTigo - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 4260754582 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La transaccion actual ya existe en Historico de Recarga, desea continuar?</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method LSC POS Controller_OnButtonPressed - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 1305416744 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Solo puede haber una recarga por transaccion.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method LSC POS Transaction Events_OnAfterValidateItemLine - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 771927623 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La recarga no fue exitosa: anule la transaccion</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method LSC POS Transaction Events_OnBeforeTransactionTendered - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 771927623 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La transaccion actual ya existe en Historico de Recarga, anule la transaccion</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method LSC POS Transaction Events_OnBeforeTransactionTendered - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 2056062171 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La transacción actual ya existe en histórico de recarga</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method PaqueTigoTender - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 2056062171 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La transacción actual ya existe en Transaction Header</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method PaqueTigoTender - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 2243322282 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error en repuesta WS, debe Anular la Transaccion</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method RecargaElectronicaWS - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 2243322282 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Respuesta del Operador fallo, debe Anular Transaccion\%1</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method RecargaElectronicaWS - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 2243322282 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Respuesta del Operador exitosa.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method RecargaElectronicaWS - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 2243322282 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recarga de COMODIN exitosa.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method RecargaElectronicaWS - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 2575399012 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Respuesta del Operador exitosa</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method RecargaPaquete - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 2575399012 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Respuesta del Operador fallo, debe Anular Transaccion</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method RecargaPaquete - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 482001687 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero Teléfono</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method SendNoTelefono - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 482001687 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La Transaccion %1 ya existe en Historico Recarga</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method SendNoTelefono - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 482001687 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ingrese Codigo Vendedor</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method SendNoTelefono - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3304196971 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error en repuesta WS PaqueTigo</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method SendNoTelResult - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3304196971 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error de paquete, debe realizar anulacion</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method SendNoTelResult - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3304196971 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No existe parametro varios PAQUETIGOP</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method SendNoTelResult - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - Method 3871413638 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El numero de telefono %1 no es valido</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - Method ValueNoTelefono - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Successful recharges</source>
+          <target>Recargas Exitosas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Recargas Exitosas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 667691536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applied Commission D</source>
+          <target>Comisión aplicada D</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comisión aplicada D"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Comision Aplicada D - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 498782513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applied Commission O</source>
+          <target>Comisión aplicada O</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comisión aplicada O"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Comision Aplicada O - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 2402553023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission Debited D</source>
+          <target>Comisión debitada D</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comisión debitada D"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Comision Debitada D - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 827281218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commission Debited O</source>
+          <target>Comisión debitada O</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comisión debitada O"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Comision Debitada O - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 2950845476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Estado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Estado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 1991915875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Fecha</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Fecha - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 1400610496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <target>Hora</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Hora"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Hora - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>No. linea</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. linea"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 280134339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Credited</source>
+          <target>Monto acreditado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Monto acreditado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Monto Acreditado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 2243269117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Debited</source>
+          <target>Monto debitado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Monto debitado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Monto Debitado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 442352582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount available</source>
+          <target>Monto disponible</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Monto disponible"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Monto Disponible - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 2860236154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recharge amount</source>
+          <target>Monto recarga</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Monto recarga"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Monto Recarga - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 4190726666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone number</source>
+          <target>Número teléfono</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Número teléfono"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Numero Telefono - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 273993524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operadora</source>
+          <target>Operadora</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operadora"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Operador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <target>No. terminal</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. terminal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 2253333645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <target>No. recibo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. recibo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 137323088 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response Service</source>
+          <target>Respuesta servicio</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Respuesta servicio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Respuesta Servicio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 3368806013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff</source>
+          <target>Empleado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Staff ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>No. tienda</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. tienda"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 2976249901 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Operator</source>
+          <target>Transacción operador</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Transacción operador"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Transaccion Operador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2388060267 - Control 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <target>No. transacción</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. transacción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Electronicas - Control Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>History Recharges</source>
+          <target>Histórico Recargas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Histórico Recargas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 4275892302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Control</source>
+          <target>Control</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Control"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Control ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 1991915875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Fecha</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Fecha - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 1400610496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <target>Hora</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Hora"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Hora - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 1869223188 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attempts</source>
+          <target>Intentos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Intentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Intentos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>No. linea</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. linea"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 2860236154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recharge amount</source>
+          <target>Monto recarga</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Monto recarga"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Monto Recarga - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 4190726666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone number</source>
+          <target>Número teléfono</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Número teléfono"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Numero Telefono - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 1187984551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remark</source>
+          <target>Observación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Observación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Observacion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 273993524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operadora</source>
+          <target>Operadora</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operadora"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Operador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <target>No. terminal</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. terminal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 2253333645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <target>No. Recibo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Recibo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 3368806013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff</source>
+          <target>Empleado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Empleado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Staff ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>No. tienda</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. tienda"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1852966137 - Control 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <target>No. transacción</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. transacción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Recargas Historico - Control Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La recarga no fue exitosa: anule la transaccion</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2388060267 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La transaccion actual ya existe en Historico de Recarga, desea continuar?</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Recargas Electronicas - NamedType lText001</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

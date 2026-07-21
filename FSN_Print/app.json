@@ -1,0 +1,54 @@
+{
+  "id": "06580f9f-90de-4ff0-ae08-0fe1a192d397",
+  "name": "FSN_Print",
+  "publisher": "FASANI",
+  "version": "1.0.0.60",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "publisher": "LS Retail",
+      "name": "LS Central",
+      "version": "18.4.5.1000013"
+    },
+    {
+      "id": "2a0547fa-f60f-401d-b1fe-c7c4be8fb230",
+      "publisher": "LS Retail",
+      "name": "LS Central System App",
+      "version": "18.4.0.0"
+    },
+    {
+      "id": "a397324a-67fe-4557-aefb-aa375b30dbdf",
+      "publisher": "FASANI",
+      "name": "BCDAO",
+      "version": "1.0.0.23"
+    },
+    {
+      "id": "e7aa14cd-4ee8-4901-9cbd-fba2c27a5d22",
+      "publisher": "FASANI",
+      "name": "BCBLO",
+      "version": "1.0.0.14"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0",
+  "target": "OnPrem",
+  "features": [
+    "TranslationFile"
+  ]
+}

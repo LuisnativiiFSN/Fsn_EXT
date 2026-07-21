@@ -1,0 +1,4 @@
+*.app
+*/.alcache/*
+*/.altemplates/*
+./snapshots/*

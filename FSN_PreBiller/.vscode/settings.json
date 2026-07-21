@@ -1,0 +1,16 @@
+{
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "C:/Program Files/Microsoft Dynamics 365 Business Central/170/Service",
+        "C:/Program Files/Microsoft Dynamics 365 Business Central/170/Service/FSN",
+        "C:/Windows/assembly"
+    ],
+    "editor.fontFamily": "'Fira Code'",
+    "cSpell.enableFiletypes": [
+        "al"
+    ],
+    "cSpell.language": "en",
+    "cSpell.words": [
+        "endregion"
+    ],
+}

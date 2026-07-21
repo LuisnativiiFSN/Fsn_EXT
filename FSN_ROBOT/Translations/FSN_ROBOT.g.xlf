@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_ROBOT">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1546586719 - Field 3127231369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateHours</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field DateHours - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546586719 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546586719 - Field 171455946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field DTE AuthNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546586719 - Field 1123328280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field DTE Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546586719 - Field 1466422492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DUI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field DUI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546586719 - Field 411342786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FC Message Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field FC Message Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546586719 - Field 2857256208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FC No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field FC No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546586719 - Field 2419674428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>idMachine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field idMachine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546586719 - Field 1400980571 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>idTransaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field idTransaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546586719 - Field 3346365350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field Payment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546586719 - Field 2675496269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1546586719 - Field 2128094833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Header - Field Signature Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1076793208 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1076793208 - Field 3496503505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>expirationDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Line - Field expirationDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1076793208 - Field 2419674428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>idMachine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Line - Field idMachine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1076793208 - Field 580112178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>idProduct</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Line - Field idProduct - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1076793208 - Field 1400980571 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>idTransaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Line - Field idTransaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1076793208 - Field 1294919425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>lineNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Line - Field lineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1076793208 - Field 4193750953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>lot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Line - Field lot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1076793208 - Field 3328426687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Line - Field price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1076793208 - Field 2881171362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>priceCost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Line - Field priceCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1076793208 - Field 3355113493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Line - Field quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1076793208 - Field 2660559065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Vending Line - Field Unit Of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2304286450 - NamedType 2810311271" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Los datos no representan un token válido de JSON.: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Get - NamedType ErrorText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 1008286930 - NamedType 3589810618" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetOrderLocker?orderNo=%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method GetLooker - NamedType URLText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 1192110810 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false;User ID=%3;Password=%4;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method getSQLInfo - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 42020206 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Formato de rango inválido. Debe ser "min..max".</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method IsLastWithinRange - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 42020206 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Límite inferior inválido en el rango: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method IsLastWithinRange - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 42020206 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Límite superior inválido. Debe especificarse el límite superior.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method IsLastWithinRange - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 42020206 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Límite superior inválido en el rango: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method IsLastWithinRange - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 42020206 - NamedType 1652662947" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rango inválido: el límite inferior (%1) es mayor que el superior (%2).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method IsLastWithinRange - NamedType TEXT004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 4260754582 - NamedType 2763291245" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedido ya Fue asignado al %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method LSC POS Controller_OnButtonPressed - NamedType ErrorMessage</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 4260754582 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedido %1 debe de Procesarce antes de Facturar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method LSC POS Controller_OnButtonPressed - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 4260754582 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedido ya fue enviado al robot desde prefactura con GUID: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method LSC POS Controller_OnButtonPressed - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 4260754582 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se ha asignado Terminal del box desde DAF %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method LSC POS Controller_OnButtonPressed - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 4260754582 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El N° pedido %1 esta siendo facturado en el N° %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method LSC POS Controller_OnButtonPressed - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 4260754582 - NamedType 1317554061" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Marked for Gift Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method LSC POS Controller_OnButtonPressed - NamedType TXT_MARKED</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2473622958 - NamedType 2763291245" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedido ya Fue asignado a %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method LSC POS Controller_OnPOSEvent - NamedType ErrorMessage</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2473622958 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El N° pedido %1 esta siendo facturado en el N° %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method LSC POS Controller_OnPOSEvent - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2282416948 - NamedType 2810311271" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Los datos no representan un token válido de JSON.: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Post - NamedType ErrorText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2675496269 - NamedType 2761171062" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Ventanilla 1,&amp;Ventanilla 2,&amp;Ventanilla 3,&amp;Ventanilla 4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Process - NamedType lTextMenu</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2675496269 - NamedType 247990609" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Esta seguro de recibir en %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Process - NamedType ConfirmText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2675496269 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe selecionar ventanilla</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Process - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2675496269 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe especificar el número de ventanillas en parámetro FSN, campo "Port 2".</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Process - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2675496269 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El numero de ventanilla especificada en el campo Tiempo de espera es mayor al número de ventanillas configuradas en parámetro FSN, campo "Port 2".</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Process - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2675496269 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No hay productos para procesar (estado del prod debe ser pendiente de escaneo) %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Process - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 3572239033 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se a especificado codigo almancen para Machine %1 en FSN Parametros</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method ProcessFacSales - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2035104127 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El N° pedido %1 esta siendo facturado en el N° %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method ProcessOrderSales - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2035104127 - NamedType 2763291245" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedido ya Fue asignado al %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method ProcessOrderSales - NamedType ErrorMessage</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2944799759 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede ELIMINAR productos de la Factura Venta(Vending)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Sales Invoice Subform_OnDeleteRecordEvent - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2785381565 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede INSERTAR productos en la Factura Venta(Vending)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Sales Invoice Subform_OnInsertRecordEvent - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 3974215888 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede MODIFICAR la Factura Venta(Vending)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Sales Invoice Subform_OnModifyRecordEvent - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 4153906201 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede anular la Factura Venta(Vending)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Sales Invoice_OnDeleteRecordEvent - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 3865570867 - NamedType 1141098572" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C:\temp\ROBOT\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method Save - NamedType localpath</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 120506670 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Despacho Ventanilla %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method SaveInfocode - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 3476029190 - NamedType 4076340114" size-unit="char" translate="yes" xml:space="preserve">
+          <source>{"state": 3,"message": "ROBOT: Pedido Rechazado","productDetail": [{}]}</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method SentInfotmationRobot - NamedType responseText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 426570286 - NamedType 1317554061" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Marked for Gift Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method ToggleGiftReceiptOnPOSLines - NamedType TXT_MARKED</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 426570286 - NamedType 871282596" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unmarked for Gift Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method ToggleGiftReceiptOnPOSLines - NamedType TXT_UNMARKED</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 3813626787 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Los datos ya se encuentran registrados en Item Ledger Entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method UpdatePosTransLine - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 3813626787 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se encontraron detalles de productos en la respuesta del robot exitosa.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method UpdatePosTransLine - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 2269105354 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El pedido N.º %1 fue impreso en el N.º %2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method ValidateAsigTerminal - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 3652598759 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant add item %1 </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method ValidateItemPendingScann - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 3652598759 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se encontraron lineas pendientes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method ValidateItemPendingScann - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2801991252 - Method 3652598759 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Lote:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Process Robot - Method ValidateItemPendingScann - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 1142060046 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventario del robot insuficiente – Artículo %1, Cantidad %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method InvetAlertRobot - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 254692769 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Los datos ya se encuentran registrados en Item Ledger Entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method PosAdjTUseItemJrnTemplate - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 120506670 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caja %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method SaveInfocode - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 837325288 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>plantilla diario producto %1 no está configurado.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValidateConfigJnl - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 837325288 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El número de orden de transferencia no pueden estar vacíos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValidateConfigJnl - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 837325288 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El código de transferencia almacen no pueden estar vacíos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValidateConfigJnl - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 837325288 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error en configuracion de tienda o ubicación</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValidateConfigJnl - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 837325288 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>plantilla diario prod. %1 no está configurada en Parametros FSN, Campo Valor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValidateConfigJnl - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 837325288 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No existe configuracion grupo ROBOT, codigo PROCESS en Parametros FSN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValidateConfigJnl - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 837325288 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Libro diario producto %1 no es de tipo Producto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValidateConfigJnl - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 837325288 - NamedType 2348379739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Secciones diario prod. %1 no está configurada en Parametros FSN, Campo FiltroData1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValidateConfigJnl - NamedType lText008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 837325288 - NamedType 2986076356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Secciones diario productos %1 no está configurado en Item Journal Batch.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValidateConfigJnl - NamedType lText009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 837325288 - NamedType 728973284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Secciones diario prod. %1 no está configurada en Parametros FSN, Campo FiltroData2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValidateConfigJnl - NamedType lText010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 3921239521 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero Documento no puede ser Null o vacio.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValJsonInformation - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 3921239521 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Store no puede ser Null o vacio.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValJsonInformation - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 2578384121 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero Documento no puede ser Null o vacio.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValNegAdjTItemJrnTemplate - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 2578384121 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Store no puede ser Null o vacio.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValNegAdjTItemJrnTemplate - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 2578384121 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Los datos ya se encuentran registrados en Item Ledger Entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValNegAdjTItemJrnTemplate - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2744725242 - Method 2578384121 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ajuste no aplicado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS Process Robot Jrn - Method ValNegAdjTItemJrnTemplate - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3548534224 - Field 4015232462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3653497896">
+          <source>FSN Assigned PosTerminalNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POS Transac Robot TableExt - Field FSN Assigned PosTerminalNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3548534224 - Field 2034647488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3653497896">
+          <source>FSN state of preparation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POS Transac Robot TableExt - Field FSN state of preparation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3548534224 - Field 2034647488 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3653497896">
+          <source>No Preparado,Preparando</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POS Transac Robot TableExt - Field FSN state of preparation - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3548534224 - Field 857712685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3653497896">
+          <source>FSN Status Robot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POS Transac Robot TableExt - Field FSN Status Robot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3548534224 - Field 857712685 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3653497896">
+          <source>No Procesado,Procesado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POS Transac Robot TableExt - Field FSN Status Robot - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3548534224 - Field 500993127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3653497896">
+          <source>FSN Ventanilla</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN POS Transac Robot TableExt - Field FSN Ventanilla - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 2867073057 - EnumValue 1473806122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 3721384662">
+          <source>Confirm Robot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension FSN POS Line Add Action Ext - EnumValue ConfirmRobot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 2867073057 - EnumValue 490570071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 3721384662">
+          <source>Confirm Sala</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension FSN POS Line Add Action Ext - EnumValue ConfirmSala - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,49 @@
+{
+  "id": "f7fa0bc7-10e5-49a9-b003-35b27492a342",
+  "name": "FSN_Integrations",
+  "publisher": "FASANI",
+  "version": "1.0.0.54",
+  "brief": "",
+  "target": "OnPrem",
+  "description": "Extension de integraciones para FSN para el manejo de integraciones con otros sistemas en la nube",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "name": "LS Central",
+      "publisher": "LS Retail",
+      "version": "18.4.5.1000013"
+    },
+    {
+      "id": "a397324a-67fe-4557-aefb-aa375b30dbdf",
+      "name": "BCDAO",
+      "publisher": "FASANI",
+      "version": "1.0.0.22"
+    },
+    {
+      "id": "e7aa14cd-4ee8-4901-9cbd-fba2c27a5d22",
+      "name": "BCBLO",
+      "publisher": "FASANI",
+      "version": "1.0.0.14"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

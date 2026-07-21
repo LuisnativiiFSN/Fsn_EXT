@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_ExternalSerie">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 4233589235 - Field 3788382109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desde</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Desde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 1466422492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DUI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field DUI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 1991915875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Fecha - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 2325591159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha Autorizacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Fecha Autorizacion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 3301897649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hasta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Hasta - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 1400610496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hora</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Hora - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 3347480509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NIT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field NIT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 2886454963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Extranjero</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field No. Extranjero - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 3612309607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre Cliente</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Nombre Cliente - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 669240971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero de Factura</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Numero de Factura - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 2253333645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 4235567209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reimpresion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Reimpresion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 534646475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resolucion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Resolucion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 236574500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serie</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Serie - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4233589235 - Field 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Transaction Header Ext - Field Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot new numbers from the number series %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no Serial Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - Method 2239824678 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Store is not active in Parameter Various</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - Method GigaUnoIsActive - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - Method 2239824678 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Store is not found in Parameter Various</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - Method GigaUnoIsActive - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - Method 2616910936 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no Serial Code for ticket</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - Method InsertCorrTK - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - Method 1020975623 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cantidad de lineas es %1, excede el limite de lineas que son %2 para Tipo documento %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - Method LSC POS Transaction Events_OnBeforeTotalExecuted - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - Method 2755530666 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GENERICO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - Method LSC Replen. Template_OnBeforeInsertEvent - NamedType Text0001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - Method 2897130815 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must select a customer for document type CCF or CF.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - Method ValidateGigaUnoDocument - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - Method 2897130815 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe asignar cliente para tipo documento.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - Method ValidateGigaUnoDocument - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - Method 2897130815 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Serie</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - Method ValidateGigaUnoDocument - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - Method 2897130815 - NamedType 3992394690" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se puede cambiar tipo documento en dovoluciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - Method ValidateGigaUnoDocument - NamedType Menss000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - Method 59520870 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant operation permise (Re Print)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - Method WSGenerarFacturaRemision - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 840877880 - Control 1556077063 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4077954845">
+          <source>Locked in Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Income/Expense Acc. Card - Control Locked in Sales - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 840877880 - Control 1556077063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4077954845">
+          <source>Locked in Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Income/Expense Acc. Card - Control Locked in Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 840877880 - Control 1768687476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4077954845">
+          <source>Only Ticket</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Income/Expense Acc. Card - Control Only Ticket - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 840877880 - Control 1768687476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4077954845">
+          <source>Only Ticket</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Income/Expense Acc. Card - Control Only Ticket - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 840877880 - Control 1893693135 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4077954845">
+          <source>Payment in</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Income/Expense Acc. Card - Control paymentIn - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 840877880 - Control 1893693135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4077954845">
+          <source>Payment in</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Income/Expense Acc. Card - Control paymentIn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2671418276 - Field 744404386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 271515779">
+          <source>FSN Perception</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Icome/Expense Account - Field FSN Perception - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2671418276 - Field 1271574505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 271515779">
+          <source>FSN Retention</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Icome/Expense Account - Field FSN Retention - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2671418276 - Field 1556077063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 271515779">
+          <source>Locked in Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Icome/Expense Account - Field Locked in Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2671418276 - Field 1768687476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 271515779">
+          <source>Only Ticket</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Icome/Expense Account - Field Only Ticket - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2671418276 - Field 2022018951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 271515779">
+          <source>Payment in</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Icome/Expense Account - Field Payment in - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cantidad de lineas es %1, excede el limite de lineas que son %2 para Tipo documento %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GENERICO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - NamedType Text0001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 408891598 - Method 3498264137 - NamedType 2693346261" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede cambiar tipo Documento con cuenta ingreso gasto %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Procedure Giga Uno - Method ValInconExt - NamedType TEXTV000</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

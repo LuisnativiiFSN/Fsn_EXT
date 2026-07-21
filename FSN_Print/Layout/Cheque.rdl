@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+      <rd:DataSourceID>7c1d53ce-f070-4c4a-a42a-59e4336f6718</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <ReportItems>
+          <Textbox Name="CheckNoTextCaption">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=First(Fields!CheckNoTextCaption.Value, "DataSet_Result")</Value>
+                    <Style>
+                      <FontSize>12pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>CheckNoTextCaption</rd:DefaultName>
+            <Top>3.98833in</Top>
+            <Left>0.35292in</Left>
+            <Height>0.25in</Height>
+            <Width>1.28125in</Width>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="LineAmt">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=First(Fields!LineAmt.Value, "DataSet_Result")</Value>
+                    <Style>
+                      <FontSize>12pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>LineAmt</rd:DefaultName>
+            <Top>0.35292in</Top>
+            <Left>6.51958in</Left>
+            <Height>0.25in</Height>
+            <Width>1.28125in</Width>
+            <ZIndex>1</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="AmounTextL">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=First(Fields!AmounTextL.Value, "DataSet_Result")</Value>
+                    <Style>
+                      <FontSize>12pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>AmounTextL</rd:DefaultName>
+            <Top>1.405in</Top>
+            <Left>0.655in</Left>
+            <Height>0.25in</Height>
+            <Width>7.14583in</Width>
+            <ZIndex>2</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="CuentaText">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=First(Fields!CuentaText.Value, "DataSet_Result")</Value>
+                    <Style>
+                      <FontSize>11pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>CuentaText</rd:DefaultName>
+            <Top>2.83209in</Top>
+            <Left>0.655in</Left>
+            <Height>0.25in</Height>
+            <Width>7.14583in</Width>
+            <ZIndex>3</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="CuentaText2">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=First(Fields!CuentaText2.Value, "DataSet_Result")</Value>
+                    <Style>
+                      <FontSize>11pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>CuentaText2</rd:DefaultName>
+            <Top>3.2175in</Top>
+            <Left>0.655in</Left>
+            <Height>0.25in</Height>
+            <Width>7.14583in</Width>
+            <ZIndex>4</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="CheckDateTxt">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=First(Fields!CheckDateTxt.Value, "DataSet_Result")</Value>
+                    <Style>
+                      <FontSize>12pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>CheckDateTxt</rd:DefaultName>
+            <Top>0.35292in</Top>
+            <Left>0.655in</Left>
+            <Height>0.25in</Height>
+            <Width>5.39583in</Width>
+            <ZIndex>5</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="CheckNoTxt">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=First(Fields!CheckNoTxt.Value, "DataSet_Result")</Value>
+                    <Style>
+                      <FontSize>12pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>CheckNoTxt</rd:DefaultName>
+            <Top>3.98833in</Top>
+            <Left>1.85292in</Left>
+            <Height>0.25in</Height>
+            <Width>1in</Width>
+            <ZIndex>6</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Descripcion1">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=First(Fields!Descripcion1.Value, "DataSet_Result")</Value>
+                    <Style>
+                      <FontSize>12pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Descripcion1</rd:DefaultName>
+            <Top>0.94667in</Top>
+            <Left>1.07167in</Left>
+            <Height>0.25in</Height>
+            <Width>4.97916in</Width>
+            <ZIndex>7</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+        </ReportItems>
+        <Height>4.54167in</Height>
+        <Style />
+      </Body>
+      <Width>8.67708in</Width>
+      <Page>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="JnlTemplateName_GenJnlLine">
+          <DataField>JnlTemplateName_GenJnlLine</DataField>
+        </Field>
+        <Field Name="JnlBatchName_GenJnlLine">
+          <DataField>JnlBatchName_GenJnlLine</DataField>
+        </Field>
+        <Field Name="LineNo_GenJnlLine">
+          <DataField>LineNo_GenJnlLine</DataField>
+        </Field>
+        <Field Name="CheckToAddr1">
+          <DataField>CheckToAddr1</DataField>
+        </Field>
+        <Field Name="CuentaText">
+          <DataField>CuentaText</DataField>
+        </Field>
+        <Field Name="CuentaText2">
+          <DataField>CuentaText2</DataField>
+        </Field>
+        <Field Name="CheckDateTxt">
+          <DataField>CheckDateTxt</DataField>
+        </Field>
+        <Field Name="CheckNoTxt">
+          <DataField>CheckNoTxt</DataField>
+        </Field>
+        <Field Name="PreprintedStub">
+          <DataField>PreprintedStub</DataField>
+        </Field>
+        <Field Name="CheckNoTextCaption">
+          <DataField>CheckNoTextCaption</DataField>
+        </Field>
+        <Field Name="LineAmt">
+          <DataField>LineAmt</DataField>
+        </Field>
+        <Field Name="LineAmtFormat">
+          <DataField>LineAmtFormat</DataField>
+        </Field>
+        <Field Name="LineDisc">
+          <DataField>LineDisc</DataField>
+        </Field>
+        <Field Name="LineDiscFormat">
+          <DataField>LineDiscFormat</DataField>
+        </Field>
+        <Field Name="LineAmtLineDisc">
+          <DataField>LineAmtLineDisc</DataField>
+        </Field>
+        <Field Name="LineAmtLineDiscFormat">
+          <DataField>LineAmtLineDiscFormat</DataField>
+        </Field>
+        <Field Name="DocNo">
+          <DataField>DocNo</DataField>
+        </Field>
+        <Field Name="DocDate">
+          <DataField>DocDate</DataField>
+        </Field>
+        <Field Name="PostingDesc">
+          <DataField>PostingDesc</DataField>
+        </Field>
+        <Field Name="PageNo">
+          <DataField>PageNo</DataField>
+        </Field>
+        <Field Name="NetAmount">
+          <DataField>NetAmount</DataField>
+        </Field>
+        <Field Name="AmounTextL">
+          <DataField>AmounTextL</DataField>
+        </Field>
+        <Field Name="Descripcion1">
+          <DataField>Descripcion1</DataField>
+        </Field>
+        <Field Name="LineDiscountCaption">
+          <DataField>LineDiscountCaption</DataField>
+        </Field>
+        <Field Name="AmountCaption">
+          <DataField>AmountCaption</DataField>
+        </Field>
+        <Field Name="DocNoCaption">
+          <DataField>DocNoCaption</DataField>
+        </Field>
+        <Field Name="DocDateCaption">
+          <DataField>DocDateCaption</DataField>
+        </Field>
+        <Field Name="PostingDescriptionCaption">
+          <DataField>PostingDescriptionCaption</DataField>
+        </Field>
+        <Field Name="BankTransitNo">
+          <DataField>BankTransitNo</DataField>
+        </Field>
+        <Field Name="BankAccountNo">
+          <DataField>BankAccountNo</DataField>
+        </Field>
+        <Field Name="PrnChkCheckDateTextCheckStyleUS">
+          <DataField>PrnChkCheckDateTextCheckStyleUS</DataField>
+        </Field>
+        <Field Name="CommentLine1">
+          <DataField>CommentLine1</DataField>
+        </Field>
+        <Field Name="PrnChkCheckToAddrCheckStyleUS2">
+          <DataField>PrnChkCheckToAddrCheckStyleUS2</DataField>
+        </Field>
+        <Field Name="PrnChkCheckToAddrCheckStyleUS3">
+          <DataField>PrnChkCheckToAddrCheckStyleUS3</DataField>
+        </Field>
+        <Field Name="PrnChkCompanyAddrCheckStyleUS4">
+          <DataField>PrnChkCompanyAddrCheckStyleUS4</DataField>
+        </Field>
+        <Field Name="PrnChkCompanyAddrCheckStyleUS5">
+          <DataField>PrnChkCompanyAddrCheckStyleUS5</DataField>
+        </Field>
+        <Field Name="PrnChkCheckNoTextCheckStyleUS">
+          <DataField>PrnChkCheckNoTextCheckStyleUS</DataField>
+        </Field>
+        <Field Name="PrnChkCompanyAddrCheckStyleUS1">
+          <DataField>PrnChkCompanyAddrCheckStyleUS1</DataField>
+        </Field>
+        <Field Name="TotalLineAmount">
+          <DataField>TotalLineAmount</DataField>
+        </Field>
+        <Field Name="TotalLineAmountFormat">
+          <DataField>TotalLineAmountFormat</DataField>
+        </Field>
+        <Field Name="TotalTxt">
+          <DataField>TotalTxt</DataField>
+        </Field>
+        <Field Name="PrnChkCompanyAddrCheckStyleCA1">
+          <DataField>PrnChkCompanyAddrCheckStyleCA1</DataField>
+        </Field>
+        <Field Name="PrnChkCompanyAddrCheckStyleCA3">
+          <DataField>PrnChkCompanyAddrCheckStyleCA3</DataField>
+        </Field>
+        <Field Name="PrnChkCompanyAddrCheckStyleCA5">
+          <DataField>PrnChkCompanyAddrCheckStyleCA5</DataField>
+        </Field>
+        <Field Name="PrnChkCommentLineCheckStyleCA1">
+          <DataField>PrnChkCommentLineCheckStyleCA1</DataField>
+        </Field>
+        <Field Name="PrnChkCheckToAddrCheckStyleCA1">
+          <DataField>PrnChkCheckToAddrCheckStyleCA1</DataField>
+        </Field>
+        <Field Name="PrnChkCheckToAddrCheckStyleCA3">
+          <DataField>PrnChkCheckToAddrCheckStyleCA3</DataField>
+        </Field>
+        <Field Name="PrnChkCheckToAddrCheckStyleCA5">
+          <DataField>PrnChkCheckToAddrCheckStyleCA5</DataField>
+        </Field>
+        <Field Name="PrnChkDateIndicatorCheckStyleCA">
+          <DataField>PrnChkDateIndicatorCheckStyleCA</DataField>
+        </Field>
+        <Field Name="PrnChkVoidTxtCheckStyleCA">
+          <DataField>PrnChkVoidTxtCheckStyleCA</DataField>
+        </Field>
+        <Field Name="PrnChkCurrencyCodeCheckStyleUS">
+          <DataField>PrnChkCurrencyCodeCheckStyleUS</DataField>
+        </Field>
+        <Field Name="CompanyAddr1">
+          <DataField>CompanyAddr1</DataField>
+        </Field>
+        <Field Name="CompanyAddr2">
+          <DataField>CompanyAddr2</DataField>
+        </Field>
+        <Field Name="CompanyAddr3">
+          <DataField>CompanyAddr3</DataField>
+        </Field>
+        <Field Name="CompanyAddr4">
+          <DataField>CompanyAddr4</DataField>
+        </Field>
+        <Field Name="CompanyAddr5">
+          <DataField>CompanyAddr5</DataField>
+        </Field>
+        <Field Name="CompanyAddr6">
+          <DataField>CompanyAddr6</DataField>
+        </Field>
+        <Field Name="CheckNoText_PrintCheck">
+          <DataField>CheckNoText_PrintCheck</DataField>
+        </Field>
+        <Field Name="CheckDateTxt2">
+          <DataField>CheckDateTxt2</DataField>
+        </Field>
+        <Field Name="DateIndicator">
+          <DataField>DateIndicator</DataField>
+        </Field>
+        <Field Name="CommentLine11">
+          <DataField>CommentLine11</DataField>
+        </Field>
+        <Field Name="CommentLine21">
+          <DataField>CommentLine21</DataField>
+        </Field>
+        <Field Name="CheckAmtTxt">
+          <DataField>CheckAmtTxt</DataField>
+        </Field>
+        <Field Name="CurrencyCode">
+          <DataField>CurrencyCode</DataField>
+        </Field>
+        <Field Name="CheckToAddr01">
+          <DataField>CheckToAddr01</DataField>
+        </Field>
+        <Field Name="CheckToAddr2">
+          <DataField>CheckToAddr2</DataField>
+        </Field>
+        <Field Name="CheckToAddr3">
+          <DataField>CheckToAddr3</DataField>
+        </Field>
+        <Field Name="CheckToAddr4">
+          <DataField>CheckToAddr4</DataField>
+        </Field>
+        <Field Name="CheckToAddr5">
+          <DataField>CheckToAddr5</DataField>
+        </Field>
+        <Field Name="VoidTxt">
+          <DataField>VoidTxt</DataField>
+        </Field>
+        <Field Name="CheckStyleIndex">
+          <DataField>CheckStyleIndex</DataField>
+        </Field>
+        <Field Name="BankCurrencyCode">
+          <DataField>BankCurrencyCode</DataField>
+        </Field>
+        <Field Name="PageNo_PrintCheck">
+          <DataField>PageNo_PrintCheck</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

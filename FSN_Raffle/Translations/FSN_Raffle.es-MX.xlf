@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="FSN_Raffle.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 746836097 - Field 4092165491 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Codigo</source>
+          <target>Codigo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Raffle Codes - Field Codigo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746836097 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Raffle Codes - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746836097 - Field 1333289741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hours</source>
+          <target>Horas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Raffle Codes - Field Hours - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746836097 - Field 3012384415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NoRifa</source>
+          <target>NoRifa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Raffle Codes - Field NoRifa - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746836097 - Field 2269523043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No</source>
+          <target>POS Terminal No</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Raffle Codes - Field POS Terminal No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746836097 - Field 4110049903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No</source>
+          <target>Receipt No</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Raffle Codes - Field Receipt No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 746836097 - Field 3220827225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Used</source>
+          <target>Usado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Raffle Codes - Field Used - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3157542529 - Field 3665451763 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cust. Disc. Group Code</source>
+          <target>Cust. Disc. Group Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rif. Excl. Cust Disc Group - Field CustDiscGrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3157542529 - Field 1352584191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raffle Code</source>
+          <target>Codigo Rifa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rif. Excl. Cust Disc Group - Field RifaNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Method 2126873869 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El campo No. Series no puede estar vacío si el disparador es tipo Generador de Código</source>
+          <target>El campo No. Series no puede estar vacío si el disparador es tipo Generador de Código</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Method ValidateRecord - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Method 2126873869 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El campo Impresión Extra no puede estar vacío si el disparador es tipo Generador de Código</source>
+          <target>El campo Impresión Extra no puede estar vacío si el disparador es tipo Generador de Código</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Method ValidateRecord - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 513621334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attribute</source>
+          <target>Atributo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field CodAtributo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 482832262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Cond.</source>
+          <target>Min. Cond.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field CondMinimas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 3739412626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirmar participacion</source>
+          <target>Confirmar participacion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field ConfirmarParticipar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 1475260075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Descripcion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 378052804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <target>Fecha final</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field FechaFin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 2159682478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <target>Fecha inicial</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field FechaInicio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 893557383 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Hour</source>
+          <target>Hora Finalización</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field HoraFin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 4033583289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Hour</source>
+          <target>Hora Inicial</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field HoraInicio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 3853927675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image</source>
+          <target>Imagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Imagen - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 525666737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Raffle Conditions</source>
+          <target>Imprimir Condiciones de Rifa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field ImprimirCond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 3894204774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Missing Ticket</source>
+          <target>Print Missing Ticket</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field ImprimirTicketPierde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 1849722487 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Producto vinculado</source>
+          <target>No. Producto vinculado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field ItemLink - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 3369018548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cond. Line 10</source>
+          <target>Cond. Line 10</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea10Cond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 2841944012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cond. Line 1</source>
+          <target>Cond. Line 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea1Cond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 2772203673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Winner Line 1</source>
+          <target>Línea ganadora 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea1Gana - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 2055701563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Missed Line 1</source>
+          <target>Línea perdida 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea1Pierde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 689165333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cond. Line 2</source>
+          <target>Cond. Line 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea2Cond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 2120860272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Winner Line 2</source>
+          <target>Línea ganadora 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea2Gana - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 3200734422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Missed Line 2</source>
+          <target>Línea perdida 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea2Pierde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 1472447390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cond. Line 3</source>
+          <target>Cond. Line 3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea3Cond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 3858629895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Winner Line 3</source>
+          <target>Línea ganadora 3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea3Gana - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 1858697101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Missed Line 3</source>
+          <target>Línea perdida 3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea3Pierde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 305875167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cond. Line 4</source>
+          <target>Cond. Line 4</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea4Cond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 1142308520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cond. Line 5</source>
+          <target>Cond. Line 5</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea5Cond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 431844337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cond. Line 6</source>
+          <target>Cond. Line 6</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea6Cond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 4067779194 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cond. Line 7</source>
+          <target>Cond. Line 7</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea7Cond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 252301243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cond. Line 8</source>
+          <target>Cond. Line 8</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea8Cond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 3265464100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cond. Line 9</source>
+          <target>Cond. Line 9</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Linea9Cond - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 2560510864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MultiplicarImpresion</source>
+          <target>Multiplicar Impresion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field MultiplicarImpresion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 3012384415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rifas No.</source>
+          <target>Rifas No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field NoRifa - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 229271331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NoSerie</source>
+          <target>NoSerie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field NoSerie - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 21367707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Off Validate</source>
+          <target>Off Validate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field OffValidate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 1503696301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print. Setup Header</source>
+          <target>Print. Encabezado Configuración</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Print Extra - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 3083991368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Extra Perdedor</source>
+          <target>Print Extra Perdedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Print Extra Perdedor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 2883740582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Tipo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field Tipo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 1579832201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TipoDisparador</source>
+          <target>Tipo Disparador</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field TipoDisparador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 1579832201 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Code Generator</source>
+          <target> ,Code Generador"</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field TipoDisparador - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 1579832201 - Method 2126772001 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe especificar el No. Serie antes, Rifa tipo: Generador de código.</source>
+          <target>Debe especificar el No. Serie antes, Rifa tipo: Generador de código.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field TipoDisparador - Method OnValidate - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 2638265601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Amt.</source>
+          <target>Min. Amt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field ValorMinimo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2162075808 - Field 4182301777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VIP</source>
+          <target>VIP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Rifas - Field VIP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3653690591 - Field 1027507422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. Min.</source>
+          <target>Qty. Min</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasDetalle - Field CantMin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3653690591 - Field 513621334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cod. Att.</source>
+          <target>Cod. Att.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasDetalle - Field CodAtributo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3653690591 - Field 2895512991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Código</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasDetalle - Field CodSec - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3653690591 - Field 2404360667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ConvertirUnidades</source>
+          <target>Convertir Unidades</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasDetalle - Field ConvertirUnidades - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3653690591 - Field 1475260075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasDetalle - Field Descripcion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3653690591 - Field 3123372377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line</source>
+          <target>Línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasDetalle - Field Line No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3653690591 - Field 1880914591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cod Raffle</source>
+          <target>Codigo Rifa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasDetalle - Field No Rifa - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3653690591 - Field 2883740582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Tipo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasDetalle - Field Tipo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3653690591 - Field 2299790096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Amt.</source>
+          <target>Min. Amt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasDetalle - Field ValorMin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1688921095 - Field 1991915875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasHistorialF - Field Fecha - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1688921095 - Field 2293972340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Winner?</source>
+          <target>Winner?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasHistorialF - Field Ganador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1688921095 - Field 1309209233 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generated No.</source>
+          <target>Generated No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasHistorialF - Field NumGenerado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1688921095 - Field 41334883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Probability</source>
+          <target>Probabilidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasHistorialF - Field Probabilidad - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1688921095 - Field 4110049903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <target>Receipt No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasHistorialF - Field Receipt No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1688921095 - Field 2742725084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replication Counter</source>
+          <target>Replication Counter</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Contador replicación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasHistorialF - Field Replication Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1688921095 - Field 2262665895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raffle No.</source>
+          <target>No Rifa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasHistorialF - Field Rifa No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1688921095 - Field 2713967410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>No Tienda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasHistorialF - Field Store No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1930803021 - Field 1991915875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasParam - Field Fecha - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1930803021 - Field 378052804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FechaFin</source>
+          <target>Fecha Fin</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasParam - Field FechaFin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1930803021 - Field 1880914591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raffle No.</source>
+          <target>No Rifa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasParam - Field No Rifa - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1930803021 - Field 2587223345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prizes Granted</source>
+          <target>Premios Otorgados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasParam - Field PremiosOtorgados - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1930803021 - Field 3210125141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Prizes</source>
+          <target>Premios totales</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasParam - Field PremiosTotales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1930803021 - Field 2713967410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>No Tienda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasParam - Field Store No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2795643624 - Field 1880914591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raffle No.</source>
+          <target>No Rifa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasTiendas - Field No Rifa - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2795643624 - Field 714573597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Daily Parameters</source>
+          <target>Parámetros diarios</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasTiendas - Field ParametrosDiarios - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2795643624 - Field 2587223345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prizes Granted</source>
+          <target>Premios Otorgados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasTiendas - Field PremiosOtorgados - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2795643624 - Field 3210125141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Prizes</source>
+          <target>Premios totales</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasTiendas - Field PremiosTotales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2795643624 - Field 41334883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Probability</source>
+          <target>Probabilidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasTiendas - Field Probabilidad - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2795643624 - Field 2713967410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>No Tienda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN RifasTiendas - Field Store No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 2366472209 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TIPO DE CLIENTE %1 NO PARTICIPA EN RIFA %2</source>
+          <target>TIPO DE CLIENTE %1 NO PARTICIPA EN RIFA %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method CheckApplyPosTmp - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 2366472209 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CLIENTE NO POSEE NINGUNA MARCA</source>
+          <target>CLIENTE NO POSEE NINGUNA MARCA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method CheckApplyPosTmp - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 2366472209 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>REGISTRA A TU CLIENTE PARA QUE  PARTICIPE EN EL SORTEO DE PAVOS</source>
+          <target>REGISTRA A TU CLIENTE PARA QUE  PARTICIPE EN EL SORTEO DE PAVOS</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method CheckApplyPosTmp - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 2366472209 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A TU CLIENTE SOLO LE FALTA %1 MARCA(s) PARA PARTICIPAR EN EL SORTEO DE %2</source>
+          <target>A TU CLIENTE SOLO LE FALTA %1 MARCA(s) PARA PARTICIPAR EN EL SORTEO DE %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method CheckApplyPosTmp - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 2366472209 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A TU CLIENTE SOLO LE FALTAN $%1 (EN COMPRA) PARA PODER PARTICIPAR EN EL SORTEO DE %2</source>
+          <target>A TU CLIENTE SOLO LE FALTAN $%1 (EN COMPRA) PARA PODER PARTICIPAR EN EL SORTEO DE %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method CheckApplyPosTmp - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 2366472209 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>¡¡ TU CLIENTE PODRÁ PARTICIPAR EN EL SORTEO DE PAVOS, DESÉALE MUCHA SUERTE !!</source>
+          <target>¡¡ TU CLIENTE PODRÁ PARTICIPAR EN EL SORTEO DE PAVOS, DESÉALE MUCHA SUERTE !!</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method CheckApplyPosTmp - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 2366472209 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A TU CLIENTE SOLO LE FALTAN $%1 (EN MARCAS) PARA PODER PARTICIPAR EN EL SORTEO DE %2</source>
+          <target>A TU CLIENTE SOLO LE FALTAN $%1 (EN MARCAS) PARA PODER PARTICIPAR EN EL SORTEO DE %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method CheckApplyPosTmp - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 689077184 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El numero de autorizacion de la serie %1 debe tener al menos cuatro caracteres</source>
+          <target>El numero de autorizacion de la serie %1 debe tener al menos cuatro caracteres</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method CifrarCodigo - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 565051268 - NamedType 3584248220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recibo: </source>
+          <target>Recibo: </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method ExtPrint - NamedType ltext001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 565051268 - NamedType 4221944837" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tienda: </source>
+          <target>Tienda: </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method ExtPrint - NamedType ltext002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 565051268 - NamedType 564674158" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TPV: </source>
+          <target>TPV: </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method ExtPrint - NamedType ltext003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 565051268 - NamedType 395765135" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha: </source>
+          <target>Fecha: </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method ExtPrint - NamedType ltext004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 343637793 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se pudo obtener un numero de serie de: %1</source>
+          <target>No se pudo obtener un numero de serie de: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method GenerarCodigoParticipacion - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 343637793 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Felicidades esta participando en %1 , Se imprimira un codigo para el sorteo.</source>
+          <target>Felicidades esta participando en %1 , Se imprimira un codigo para el sorteo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method GenerarCodigoParticipacion - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 343637793 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El numero de serie que se quiere asignar ya fue usado para: %1</source>
+          <target>El numero de serie que se quiere asignar ya fue usado para: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method GenerarCodigoParticipacion - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 3727421209 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1%2%3%4%5</source>
+          <target>%1%2%3%4%5</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method GenerarHexadecimal - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 3727421209 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se puede sobrepasar el limite de serie 1000000.</source>
+          <target>No se puede sobrepasar el limite de serie 1000000.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method GenerarHexadecimal - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 2002542089 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se pudo imprimir el codigo de participacion %1</source>
+          <target>No se pudo imprimir el codigo de participacion %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method LSC POS Post Utility_OnAfterPostTransactionFiscalProcess - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1655900785 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No pudo evaluarse participación a Rifas. Servidor fuera de línea</source>
+          <target>No pudo evaluarse participación a Rifas. Servidor fuera de línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method LSC POS Transaction_OnBeforePostTransaction - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1655900785 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Favorecido en: </source>
+          <target>Favorecido en:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method LSC POS Transaction_OnBeforePostTransaction - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1655900785 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suerte para la proxima, No favorecido en: </source>
+          <target>Suerte para la proxima, No favorecido en: </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method LSC POS Transaction_OnBeforePostTransaction - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1655900785 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se pudo imprimir el codigo de participacion %1</source>
+          <target>No se pudo imprimir el codigo de participacion %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method LSC POS Transaction_OnBeforePostTransaction - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 2795459303 - NamedType 3584248220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recibo: </source>
+          <target>Recibo: </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintCodigoRifaGenerado - NamedType ltext001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 2795459303 - NamedType 4221944837" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tienda: </source>
+          <target>Tienda: </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintCodigoRifaGenerado - NamedType ltext002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 2795459303 - NamedType 564674158" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TPV: </source>
+          <target>TPV: </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintCodigoRifaGenerado - NamedType ltext003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 1893334486" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NRC</source>
+          <target>NRC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextNRC</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 2529288790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NIT</source>
+          <target>NIT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextRNC</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 3835546786" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GIRO</source>
+          <target>GIRO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextGIRO</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 1661302039" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CORRELATIVO:</source>
+          <target>CORRELATIVO:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextCorrelativo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 1215688770" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COD. TIENDA:</source>
+          <target>COD. TIENDA:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextCodTienda</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 883004440" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CAJA:</source>
+          <target>CAJA:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextCaja</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 88639339" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AUTORIZACION:</source>
+          <target>AUTORIZACION:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextAutorizacion</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 1247060067" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TICKET</source>
+          <target>TICKET</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextTicket</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 261895704" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FECHA:</source>
+          <target>FECHA:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextFecha</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 1253648579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HORA:</source>
+          <target>HORA:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextHora</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 1929368066" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NIT:</source>
+          <target>NIT:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextNIT</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 2378954879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DUI:</source>
+          <target>DUI:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextDUI</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 2351076312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FIRMA:</source>
+          <target>FIRMA:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextFirma</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 3473549730" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CANT.</source>
+          <target>CANT.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextUnidad</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 1990435216" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ARTICULO</source>
+          <target>ARTICULO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextCodigo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 1770469237" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRECIO</source>
+          <target>PRECIO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextValor</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 1520151713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SUBTOTAL</source>
+          <target>SUBTOTAL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType textTotal</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 693148626" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DUI/NIT:</source>
+          <target>DUI/NIT:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextDUINIT</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 4005194504" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NOMBRE:</source>
+          <target>NOMBRE:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextNombre</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 1035539102 - NamedType 782010915" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COD. CLIENTE: </source>
+          <target>COD. CLIENTE: </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method PrintRifaHeader - NamedType TextCodCliente</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - Method 4150767413 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COMODIN</source>
+          <target>COMODIN</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - Method VerificarCliente - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Node %1 not found in request</source>
+          <target>Request Node %1 not found in request</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid value %1 in Request Node %2</source>
+          <target>Valor no válido %1 en el nodo de solicitud %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Source %1 not found in xml setup</source>
+          <target>Fuente de solicitud %1 no encontrada en la configuración xml</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response Source %1 not found in xml setup</source>
+          <target>Fuente de respuesta %1 no encontrada en la configuración xml</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid Response Node List in xml setup</source>
+          <target>Lista de nodos de respuesta no válida en la configuración xml</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 3031896719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 no existe</source>
+          <target>%1 %2 no existe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text101</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 650019274" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 cannot be converted to %2 </source>
+          <target>%1 no se puede convertir a %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text102</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 12322657" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2</source>
+          <target>%1 %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text103</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 1925412508" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to update %1 %2</source>
+          <target>No se puede actualizar %1 %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text104</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 1287715891" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 is %3</source>
+          <target>%1 %2 is %3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text105</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 3200805742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record %1 already exists. Value %2</source>
+          <target>El registro %1 ya existe. Valor %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text106</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 2563109125" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data is empty</source>
+          <target>Los datos estan vacios</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text107</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - NamedType 181231680" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Length string is %1, must be %2</source>
+          <target>La cadena de longitud es %1, debe ser %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - NamedType Text108</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 4206586201 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method ActualizarDisponibilidad - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 4206586201 - NamedType 3161018329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <target>''</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method ActualizarDisponibilidad - NamedType lTextSimbol</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 3490813011 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method ActualizarDispParameter - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 3490813011 - NamedType 3161018329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <target>''</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method ActualizarDispParameter - NamedType lTextSimbol</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 2362423254 - NamedType 1692744520" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se pudo</source>
+          <target>No se pudo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method CheckRifaTransac - NamedType Resp</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 2362423254 - NamedType 3397655244" size-unit="char" translate="yes" xml:space="preserve">
+          <source>51</source>
+          <target>51</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method CheckRifaTransac - NamedType cod</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 1663743491 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method RifaParameterDay - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 1663743491 - NamedType 3161018329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <target>''</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method RifaParameterDay - NamedType lTextSimbol</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 1372617361 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method RifaTransactionCustomerExec - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 1372617361 - NamedType 3161018329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <target>''</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method RifaTransactionCustomerExec - NamedType lTextSimbol</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 1717705554 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method RifaTransactionDisp - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 843100604 - Method 1717705554 - NamedType 3161018329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <target>''</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Integration - Method RifaTransactionDisp - NamedType lTextSimbol</note>
+        </trans-unit>
+        <trans-unit id="Page 3019623186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raffles</source>
+          <target>Rifas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Rifas List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3019623186 - Control 21367707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Off Validate</source>
+          <target>Off Validate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Rifas List - Control OffValidate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3019623186 - Action 1416492542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define Filters</source>
+          <target>Definir filtros</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Rifas List - Action DefinirDetalle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3019623186 - Action 1691509718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excluded Cust. Disc. Groups</source>
+          <target>Cliente Excluido Desct. Grupos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Rifas List - Action Grupos Excluidos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3019623186 - Action 1415161545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raffles Log</source>
+          <target>Registro de Rifas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Rifas List - Action Historial - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3019623186 - Action 2656309909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dayly Parameters</source>
+          <target>Parámetros diarios</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Rifas List - Action Parametros Diarios - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3019623186 - Action 1652836107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raffle per Store</source>
+          <target>Rifas por Tienda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Rifas List - Action Tiendas Por Rifa - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 940421993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raffle Details</source>
+          <target>Detalles de la rifa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN RifasDetalle List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 114052529 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raffles Log</source>
+          <target>Registro de Rifas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN RifasHistorial ListF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 774578929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Raffle Parameters</source>
+          <target>Parámetros de la rifa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN RifasParam ListF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3697647558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rifas</source>
+          <target>Rifas </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN RifasTiendasF - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 941446193 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se pudo imprimir el codigo de participacion %1</source>
+          <target>No se pudo imprimir el codigo de participacion %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN RifasManagement - NamedType lText003</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,176 @@
+.background-primary {
+    background-color: #00B7C3;
+}
+
+.background-secondary {
+    background-color: #505C6D;
+}
+
+.background-standard {
+    background-color: #212121
+}
+
+.background-accent {
+    background-color: #00B7C3;
+}
+
+.background-strong {
+    background-color: #212121;
+}
+
+.background-favorable {
+    background-color: #35AB22;
+}
+
+.background-ambiguous {
+    background-color: #9F9700;
+}
+
+.background-unfavorable {
+    background-color: #EB6965;
+}
+
+.background-attention {
+    background-color: #EB6965;
+}
+
+.background-subordinate {
+    background-color: #A7ADB6;
+}
+
+.background-yellow {
+    background-color: #C9C472
+}
+
+.background-green {
+    background-color: #88CE81;
+}
+
+.background-red {
+    background-color: #E97768;
+}
+
+.background-blue {
+    background-color: #75B5E7;
+}
+
+.background-light-green {
+    background-color: #95CCB4;
+}
+
+.background-sky {
+    background-color: #75D8E7;
+}
+
+.background-egg {
+    background-color: #EEEA86;
+}
+
+.background-orange {
+    background-color: #E89E63;
+}
+
+.background-violet {
+    background-color: #DBBDEB;
+}
+
+.background-teal {
+    background-color: #39B294;
+}
+
+.background-grass {
+    background-color: #73BA5A;
+}
+
+.background-scarlet {
+    background-color: #E65E6D;
+}
+
+a,
+.text-color-primary {
+    color: #00B7C3;
+}
+
+.text-color-secondary {
+    color: #505C6D;
+}
+
+.text-color-standard {
+    color: #212121
+}
+
+.text-color-accent {
+    color: #00B7C3;
+}
+
+.text-color-strong {
+    color: #212121;
+}
+
+.text-color-favorable {
+    color: #35AB22;
+}
+
+.text-color-ambiguous {
+    color: #9F9700;
+}
+
+.text-color-unfavorable {
+    color: #EB6965;
+}
+
+.text-color-attention {
+    color: #EB6965;
+}
+
+.text-color-subordinate {
+    color: #A7ADB6;
+}
+
+.text-color-yellow {
+    color: #C9C472
+}
+
+.text-color-green {
+    color: #88CE81;
+}
+
+.text-color-red {
+    color: #E97768;
+}
+
+.text-color-blue {
+    color: #75B5E7;
+}
+
+.text-color-light-green {
+    color: #95CCB4;
+}
+
+.text-color-sky {
+    color: #75D8E7;
+}
+
+.text-color-egg {
+    color: #EEEA86;
+}
+
+.text-color-orange {
+    color: #E89E63;
+}
+
+.text-color-violet {
+    color: #DBBDEB;
+}
+
+.text-color-teal {
+    color: #39B294;
+}
+
+.text-color-grass {
+    color: #73BA5A;
+}
+
+.text-color-scarlet {
+    color: #E65E6D;
+}

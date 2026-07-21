@@ -1,0 +1,1834 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_POSExchange">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1123896531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN POS Exchange Item Link</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Item Link - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1123896531 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fields %1 , %2  or %3 cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Item Link - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Table 1123896531 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Item Link - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1123896531 - Field 1939242428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Exchange No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Item Link - Field POS Exchange No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1123896531 - Field 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Item Link - Field Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1123896531 - Field 212485179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Item Link - Field Use Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN POS Exchange Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be delete because Exchange Links exists. Value %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - NamedType 2397507036" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be modify because Exchange Links exists. Value %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - NamedType gText002</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - NamedType 1759810419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date and Ending Date is not coherent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - NamedType gText003</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3207683269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Authorization Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3207683269 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,Web Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Authorization Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3899905593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Control Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3899905593 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,Delivery To Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Control Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 2204248084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coupon</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Coupon - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 2985577277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cust. Disc. Group Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Cust. Disc. Group Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 458406397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Ending Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3016146544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Template</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Item Journal Template - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3317940915 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Official Page Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Official Page Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 2771870526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Exchange Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field POS Exchange Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3759591219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Require ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Print Require ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3039492173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Setup ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Print Setup ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3572233009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity Gift</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Quantity Gift - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 2501796380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity Sale</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Quantity Sale - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 460889064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 324034516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Transfer-to Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3772283861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type Recovery</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Type Recovery - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 3772283861 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreditNote,Product</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Type Recovery - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3148914301 - Field 212485179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Setup - Field Use Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN POS Exchange Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field %1 cant be emtpy.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - NamedType 2397507036" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fields %1, %2 or %3 cant be empty.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - NamedType gText002</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - NamedType 1759810419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup no exists. Value %1 %2 %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - NamedType gText003</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - NamedType 1122113802" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be modify in status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - NamedType gText004</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - NamedType 484417185" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value %1 not exists in Table %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - NamedType gText005</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - NamedType 4141687864" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of POS Exchange %1 is not valid. From %2 To %3 ...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - NamedType gText006</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - NamedType 3503991247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change only permited in "Status" and "External Document" </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - NamedType gText007</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - NamedType 184538614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange have document entry related. Cant be modify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - NamedType gText008</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Method 405186605 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location %2 %1 not exists.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Method PreValidationsStores - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Method 405186605 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store %2 %1 not exists.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Method PreValidationsStores - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Method 405186605 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location %2 %1 is not active for Transfering</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Method PreValidationsStores - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Method 405186605 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Origin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Method PreValidationsStores - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Method 405186605 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destiny</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Method PreValidationsStores - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 3995395341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Doc. Inc. VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Amount Doc. Inc. VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2989135064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attrib 1 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Attrib 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2602760917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Autorization Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Autorization Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2602760917 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,Web Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Autorization Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 993765549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Barcode No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 993765549 - Method 2126772001 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode %1 not exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Barcode No. - Method OnValidate - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 993765549 - Method 2126772001 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 of barcode %2 not exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Barcode No. - Method OnValidate - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 993765549 - Method 2126772001 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Setup for item %1 not found. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Barcode No. - Method OnValidate - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 993765549 - Method 2126772001 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange %1 apply only %2 %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Barcode No. - Method OnValidate - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2588201939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Complete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Complete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 1734061223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Sub Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Customer Sub Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2951858863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Receipt Key 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Document Receipt Key 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 569981418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Receipt Key 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Document Receipt Key 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 4030028453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Return Key 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Document Return Key 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 3392331836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Return Key 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Document Return Key 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2439464832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Origin Line Detected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Origin Line Detected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 1939242428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Exchange No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field POS Exchange No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2400744372 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Process Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2253333645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2742725084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replication Counter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Replication Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 3351914939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 3351914939 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,Delivery to Vendor,Delivered,Received by Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Request - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 1843801842 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Staff</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Sales Staff - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 3117446396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Select - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 3368806013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Staff ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open,Released,Send,Created Request,Confirmed Request,Exit Applied,Liquidate Product,Liquidate CreditNote,Void,Request Liquidate CN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 513339096 - Method 2126772001 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is not possible change Status %1 to %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Status - Method OnValidate - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 775380468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Transaction Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2123103222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Transfer Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 324034516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Transfer-to Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 381961415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 212485179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Use Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 3226020520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Vendor Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1678052132 - Field 2595395160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Authorization No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN POS Exchange Transaction - Field Web Authorization No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN POS Posted Exchange Trans.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field %1 cant be emtpy.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - NamedType 2397507036" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fields %1, %2 or %3 cant be empty.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - NamedType gText002</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - NamedType 1759810419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup no exists. Value %1 %2 %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - NamedType gText003</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - NamedType 1122113802" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be modify in status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - NamedType gText004</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - NamedType 484417185" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value %1 not exists in Table %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - NamedType gText005</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - NamedType 4141687864" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of POS Exchange %1 is not valid. From %2 To %3 ...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - NamedType gText006</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Method 1262666395 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be modify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Method OnModify - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Method 405186605 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location %2 %1 not exists.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Method PreValidationsStores - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Method 405186605 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store %2 %1 not exists.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Method PreValidationsStores - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Method 405186605 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location %2 %1 is not active for Transfering</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Method PreValidationsStores - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Method 405186605 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Origin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Method PreValidationsStores - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Method 405186605 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destiny</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Method PreValidationsStores - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 3995395341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Doc. Inc. VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Amount Doc. Inc. VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 2989135064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attrib 1 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Attrib 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 2602760917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Autorization Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Autorization Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 2602760917 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,Web</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Autorization Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 993765549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Barcode No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 993765549 - Method 2126772001 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode %1 not exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Barcode No. - Method OnValidate - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 993765549 - Method 2126772001 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 of barcode %2 not exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Barcode No. - Method OnValidate - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 993765549 - Method 2126772001 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Setup for item %1 not found. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Barcode No. - Method OnValidate - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 2588201939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Complete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Complete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 1734061223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Sub Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Customer Sub Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 2951858863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Receipt Key 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Document Receipt Key 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 569981418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Receipt Key 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Document Receipt Key 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 4030028453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Return Key 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Document Return Key 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 3392331836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Return Key 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Document Return Key 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Note/External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 2439464832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Origin Line Detected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Origin Line Detected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 1939242428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Exchange No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field POS Exchange No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 2400744372 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Process Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 2253333645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 3351914939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 3351914939 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,Delivery to Vendor,Delivered,Received by Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Request - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 1843801842 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Staff</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Sales Staff - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 3368806013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Staff ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open,Released,Send,Created Request,Confirmed Request,Exit Applied,Liquidated Product,Liquidated CreditNote,Void</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 775380468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Transaction Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 2123103222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Transfer Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 324034516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer-to Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Transfer-to Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 381961415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 212485179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Use Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 554133620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User NAV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field User NAV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 3226020520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Vendor Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1302180078 - Field 2595395160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Authorization No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table POS Posted Exchange Trans. - Field Web Authorization No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 2957357961 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location for use-In Transit not exists.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method InicializePOSExchRequests - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1025740961 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Template %1 not configured for products liquide</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method NegAdjTUseItemJrnTemplate - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1025740961 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Batch not found for liquide products</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method NegAdjTUseItemJrnTemplate - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1025740961 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal %1 is not type Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method NegAdjTUseItemJrnTemplate - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1025740961 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error setup Store -Location or Item Batch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method NegAdjTUseItemJrnTemplate - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1025740961 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is not possible liquidate credit note  in status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method NegAdjTUseItemJrnTemplate - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1025740961 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document and Total Amount Doc. cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method NegAdjTUseItemJrnTemplate - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1025740961 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Transfer Order No." or "Transfer-fo Code" cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method NegAdjTUseItemJrnTemplate - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1025740961 - NamedType 2348379739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is not complete Exit Applied Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method NegAdjTUseItemJrnTemplate - NamedType lText008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 929802772 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Template %1 not configured for products liquide</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTUseItemJrnTemplate - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 929802772 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Batch not found for liquide products</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTUseItemJrnTemplate - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 929802772 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal %1 is not type Transfer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTUseItemJrnTemplate - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 929802772 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error setup Store -Location or Item Batch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTUseItemJrnTemplate - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 929802772 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is not possible liquidate in status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTUseItemJrnTemplate - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 929802772 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document and Total Amount Doc. cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTUseItemJrnTemplate - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 929802772 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Transfer Order No." or "Transfer-fo Code" cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTUseItemJrnTemplate - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 929802772 - NamedType 2348379739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have pending Require: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTUseItemJrnTemplate - NamedType lText008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 929802772 - NamedType 2986076356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Receipt not exists! (From %1 to %2)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTUseItemJrnTemplate - NamedType lText009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 929802772 - NamedType 728973284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have pending Autorization  number type : %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTUseItemJrnTemplate - NamedType lText010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1564147372 - NamedType 1089555199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted sucessfull. %1 Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTWSUseItemJrnTem - NamedType lTxt1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1564147372 - NamedType 3002645050" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 transfered of %2, %3 lines. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTWSUseItemJrnTem - NamedType lTxt2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1564147372 - NamedType 2364948433" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 not exists %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTWSUseItemJrnTem - NamedType lTxt3</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1564147372 - NamedType 4278038284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Key transaction not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTWSUseItemJrnTem - NamedType lTxt4</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1564147372 - NamedType 3640341667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTWSUseItemJrnTem - NamedType lTxt5</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1564147372 - NamedType 1258464222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 is not valid. %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTWSUseItemJrnTem - NamedType lTxt6</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1564147372 - NamedType 620767605" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error %1 setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTWSUseItemJrnTem - NamedType lTxt7</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1564147372 - NamedType 2533857456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No inventory %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method POSTWSUseItemJrnTem - NamedType lTxt8</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 451740839 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 not found in Item Ledger Entry!. Try process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method TryLiquideExchange - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 451740839 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The transaction number cannot be zero</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method TryLiquideExchange - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 132575080 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Ledger not found! (%1 %2 %3)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method TryPostExchange - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 132575080 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The transaction number cannot be zero</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method TryPostExchange - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 3974817720 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory is not enough for item %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method ValidateInventory - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 3974817720 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Location is not correct</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method ValidateInventory - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 3974817720 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity base cant be Zero</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method ValidateInventory - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 2870766639 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory is not enough for item %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method ValidateInventoryExt - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 2870766639 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Location is not correct</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method ValidateInventoryExt - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 2870766639 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity base cant be Zero</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method ValidateInventoryExt - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1580240456 - Method 1622689630 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waiting replication transaction %1 %2 %3 ...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Internal Transfer Manager - Method ValidateTransaction - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3886762645 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comando no encontrado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Exch. Commands - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3886762645 - Method 2281303723 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Exchange have a record out Type Exchange Line %1 , Item %2. delete or modify record for continue.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Exch. Commands - Method ValidatePOSExchange - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3886762645 - Method 2281303723 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Exchange have Quantity Zero (0) in Line %1 , Item %2. Delete or modify record for continue.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Exch. Commands - Method ValidatePOSExchange - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3886762645 - Method 2281303723 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirm delivered the exchanges? \</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Exch. Commands - Method ValidatePOSExchange - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3886762645 - Method 2281303723 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete or modify record for continue. (Exchanges)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Exch. Commands - Method ValidatePOSExchange - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Liquidate Exchange Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Only. Apply transfer internal to store %1 upload inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purch. Invoice selected not contain Item %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is not possible apply in status %1, Receipt %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number Purchase Invoice cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Note / External Document o Amount cant be empty in Entry type %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Credit Note/External Document" or "description the other type document" cant be emtpy in Entry type %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Note/External Document and Amount is require for liquidate Purchase Receipt selected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type %1 \ -&gt; All items in this document \ -&gt; Inventory will be loaded in Store %2 \ Continue? </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type %1 \ -&gt; All items in this document \ -&gt; In this Type Inventory not adjusted \ Continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type %1 \ -&gt; All items in this document \ -&gt; In this Type Inventory not adjusted \ -&gt; Inventory was afected in Puchase Inv. Header %2 \Continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Must be assignt to one Store</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record already add.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>there is no product %1 pending of Liquidate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quanity (Base) Exchange (%1) to liquidate cant be higher in Purch. Invoice (%2). Item %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Liquidate product. Exchange</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Transac. %1 alrealy document Link Entry  No. %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor %1 is not permited liquidate tipo Credit Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text018</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have pending Require: %1 , Item %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item barcode %1 not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mode liquidate invalid.\ Product %1 \Recovery Mode Setup is %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 1783305261" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relation Hist. Invoice No. %1, Order No. %2, Vendor Invoice No. %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType _Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 2889789472" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType _Text006</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 1614396238" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document %1 alredy exists for vendor %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType _Text008</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 976699621" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Item setup %1, Unit Cost cant be zero.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType _Text009</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 3213014341" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Done!.Return To Vendor %1 registered.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType _Text010</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 3850710958" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There must be at least one record selected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType _Text011</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 1937621107" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 is no associate to vendor %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType _Text012</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - NamedType 2575317724" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User must be assignment to store %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - NamedType _Text013</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 3338792561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control DocumentData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 4019385726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount External Doc. Inc.VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control AmtExternalDoc_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 4237283545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control DocumentType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 4237283545 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item By Item,Credit Note,Purch Receipt,Other</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control DocumentType - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 3056584230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Note / External Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control ExternalDoc_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 3344797369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Other Description Doc. Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control OtherDescrDocType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 2224525586 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Purch Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control SearchPurchReceipt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 2224525586 - Method 1845446376 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store %1 or Location not exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control SearchPurchReceipt - Method OnDrillDown - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 3171619184 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VendorSelect</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control VendorSelect - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 1650050144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode Scan</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control Barcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 4112877437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemDescription</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control ItemDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Control 90423963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Control Selected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Liquidate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Method 1377591017 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relation Hist. Invoice No. %1, Order No. %2, Vendor Invoice No. %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Method OnAction - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Method 1377591017 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry item only. Without external document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Method OnAction - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Method 1377591017 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry item whit document type %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Method OnAction - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Method 1377591017 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error : %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Method OnAction - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Method 1377591017 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Liquidate sussesfull...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Method OnAction - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Method 1377591017 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor %1 is deny for liquidate Credit Note for user retail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Method OnAction - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Method 1377591017 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Vendor Invoice No." cant equal to "Credit Note / External Document"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Method OnAction - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Method 1377591017 - NamedType 285530720" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product by Product</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Method OnAction - NamedType TextType01</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Method 1377591017 - NamedType 923227337" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Method OnAction - NamedType TextType02</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Method 1377591017 - NamedType 1560923954" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Method OnAction - NamedType TextType03</note>
+        </trans-unit>
+        <trans-unit id="Page 821325684 - Action 4178713936 - Method 1377591017 - NamedType 2198620571" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Other Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Liquidate Exch. Document - Action Liquidate - Method OnAction - NamedType TextType04</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Control 1344576446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Control Code10_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Control 3726453891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StoreNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Control Code10_2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Control 3694028875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Control Code20_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Control 1617476135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Track</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Control Counter1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Control 3591880886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Control Date_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Control 331647706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Control GetItemDescriptionByUM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Control 3569900170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tienda Nombre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Control GetStoreName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Control 3008452543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Control Int_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Control 626575098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Control Int_2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Control 4283845777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Control Int_3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Action 1918983637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Relations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Action Search Relations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1322685654 - Action 1918983637 - Method 1377591017 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status is not "Exit Applied"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisis Track - Action Search Relations - Method OnAction - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN POS Exch. Analisys Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 4210914276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Bool_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 553643597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IsPartial</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Bool_2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 1344576446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Code10_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 3726453891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terminal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Code10_2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 69183212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UnitOfMeasure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Code10_3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 3694028875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Code20_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 1312151430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Code20_2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 1617476135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Track</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Counter1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 3591880886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Date_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 331647706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control GetItemDescriptionByUM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 3008452543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Int_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 626575098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Int_2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 4283845777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Int_3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 2728133716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Message Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3283710448 - Control 4162929669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Analisys Result - Control Text_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Exch. Delivery Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Appy document %1 to all selected?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No. cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery to Vendor. Exchanges</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No. cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document %1 alredy exists for vendor %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Item setup %1, Unit Cost cant be zero.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Done!.Return To Vendor %1 registered.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There must be at least one record selected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 is no associate to vendor %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User must be assignment to store %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - Control 1594611733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - Control DocumentDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - Control 456204477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Delivery Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - Control DocumentVendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - Control 819533251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VendorCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - Control VendorCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - Action 1216726603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery Vendor Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - Action DeliveryVendorRegister - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3786182025 - Action 1171718289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Delivery</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exch. Delivery Vendor - Action Process Delivery - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 884169001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN POS Exchange Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Links - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 884169001 - Control 3600312874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Links - Control GetExchDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 884169001 - Control 4112877437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Links - Control ItemDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 884169001 - Control 1939242428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Exchange No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Links - Control POS Exchange No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 884169001 - Control 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Links - Control Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 884169001 - Control 212485179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Links - Control Use Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 884169001 - Action 1432697640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Links - Action ExchangeSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Admin,Procesos,Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN POS Exchange Released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sure to liquidate product %1 ?. It will be charged to your inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - NamedType 1759810419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - NamedType gText003</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - NamedType 1122113802" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request must be Delivery To Vendor. Require actual: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - NamedType gText004</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - NamedType 484417185" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User must be assigned to Store %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - NamedType gText005</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - NamedType 4141687864" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action is not possible, request actual: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - NamedType gText006</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Control 3212189721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CostAmount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Control CostAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Control 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Control External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Control 880626359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Attribute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Control ItemAtribute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Control 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open,Released,Send,Created Request,Confirmed Request,Exit Applied,Liquidating Product...,Liquidating CreditNote...,Void,Request Liquidate CN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Control Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Control 3226020520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Control Vendor Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Control 779730061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Control VendorName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 1216726603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery Vendor Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action DeliveryVendorRegister - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3598296793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt From Vendor Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action ReceiptFromVendorRegister - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 366679324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery to Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Delivery Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 2038467237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Liquidate With Credit Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Liquidate With Credit Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 2038467237 - Method 1377591017 - NamedType 3546744096" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Only selected,&amp;All Status Credits Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Liquidate With Credit Note - Method OnAction - NamedType LSMenu</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 2038467237 - Method 1377591017 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Credits Note was liquidated</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Liquidate With Credit Note - Method OnAction - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 2038467237 - Method 1377591017 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Note No. %1 applied to product %2 en tienda %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Liquidate With Credit Note - Method OnAction - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 2038467237 - Method 1377591017 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Note Cant be liquidate in status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Liquidate With Credit Note - Method OnAction - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 2038467237 - Method 1377591017 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Credit Note %1 ?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Liquidate With Credit Note - Method OnAction - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 473013879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Liquidate With Product</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Liquidate With Product - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 473013879 - Method 1377591017 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Liquidation Successfull. Product %1 Location %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Liquidate With Product - Method OnAction - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 473013879 - Method 1377591017 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be liquidate in status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Liquidate With Product - Method OnAction - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3813009527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Anular Canje</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action NullChange - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Authorization Web</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Note: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Inc. VAT:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignement Credit Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Cant be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want apply credit note?\Store %5\No. %1\Amount $%2\Item %3\Qty. %4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 2348379739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record already document assigned No. %1 $%2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText008</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 2986076356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value cant by less than or equal Zero</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText009</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 728973284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization Web:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText010</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 91276667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Done!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText011</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 2004366518" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Athorization Web Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText012</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 1366669901" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want apply Athorization No. %1 ?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText013</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 3095695179 - Method 1377591017 - NamedType 2473154112" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No require authorization No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action SetAuthorization - Method OnAction - NamedType lText014</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 4087669629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Try Exit Apply</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Try Exit Apply - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 4087669629 - Method 1377591017 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status must be Released. Actual Status %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Try Exit Apply - Method OnAction - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 4087669629 - Method 1377591017 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exit Applied succesfull. Product %1 Location %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Try Exit Apply - Method OnAction - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 4087669629 - Method 1377591017 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction references is Void. Exchange was void in the history</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Try Exit Apply - Method OnAction - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Page 3984836139 - Action 4087669629 - Method 1377591017 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange is not require use inventory. Was register in history</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Released - Action Try Exit Apply - Method OnAction - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Page 98417807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Exchange Scann</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Scann - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 98417807 - Control 4112877437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Scann - Control ItemDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3148914301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN POS Exchange Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3148914301 - Control 212485179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Setup - Control Use Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3804295658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN POS Exchange Trans. Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Trans. Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3804295658 - NamedType 3035203653" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt references not exists!.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Trans. Line - NamedType gText001</note>
+        </trans-unit>
+        <trans-unit id="Page 3804295658 - NamedType 2397507036" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fields %1, %2 or %3 cant be empty.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Trans. Line - NamedType gText002</note>
+        </trans-unit>
+        <trans-unit id="Page 3804295658 - NamedType 1759810419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 is not configured for exchange.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Trans. Line - NamedType gText003</note>
+        </trans-unit>
+        <trans-unit id="Page 3804295658 - NamedType 1122113802" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction must have load Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Trans. Line - NamedType gText004</note>
+        </trans-unit>
+        <trans-unit id="Page 3804295658 - NamedType 484417185" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field %1 cant be empty, delete records for totalizer. Line %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Trans. Line - NamedType gText005</note>
+        </trans-unit>
+        <trans-unit id="Page 3804295658 - Control 993765549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Trans. Line - Control Barcode No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3804295658 - Control 3015522478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Exchange Trans. Line - Control ItemName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2089715868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Posted Exchange Transac.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Posted Exch. Transac. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2089715868 - Control 2534452095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AttribCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Posted Exch. Transac. - Control AttribCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2089715868 - Control 3212189721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CostAmount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Posted Exch. Transac. - Control CostAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2089715868 - Control 4112877437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Posted Exch. Transac. - Control ItemDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2089715868 - Control 779730061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Posted Exch. Transac. - Control VendorName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2089715868 - Action 1216726603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery Vendor Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN POS Posted Exch. Transac. - Action DeliveryVendorRegister - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2261525608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Return Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN Exchange Receipt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2560535634 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Return Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN Exchange Return Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1858160632 - NamedType 2657319458" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1858160632">
+          <source>Debe agregar numero de DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Canje Purch - NamedType Messag</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1820821150 - NamedType 2657319458" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1820821150">
+          <source>Debe agregar numero de DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Canje Purch line - NamedType Messag</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1133887958 - Method 3590428242 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1133887958">
+          <source>It is printed when products linked exists</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Documents Rcvd. Posted Ext - Method PrintDocument - NamedType Text000</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="FSN_InsurerCompany.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 906178838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Allow/Deny</source>
+          <target>Permitir/Denegar Articulo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type customer not used</source>
+          <target>Tipo Cliente no usado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dont have permission for item %1 .%2</source>
+          <target>No tiene permiso para producto %1 .%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - Field 2887529716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow/Deny</source>
+          <target>Permitir/Denegar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - Field Allow/Deny - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - Field 2887529716 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow,Deny(Exception)</source>
+          <target>Permitir,Denegar(Excepción)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - Field Allow/Deny - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target>Comentario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - Field 919372080 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entity No.</source>
+          <target>No. Entidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - Field Entity No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - Field 4093180191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Type</source>
+          <target>Tipo producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - Field Item Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - Field 4093180191 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All,Item,SpecialGroup,Division</source>
+          <target>Todo,Producto,Grupo Especial,División</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - Field Item Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - Field 158172202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Type</source>
+          <target>Tipo línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - Field Line Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - Field 158172202 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company,GroupCompany,Customer</source>
+          <target>Empresa,GrupoEmpresa,Cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - Field Line Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 906178838 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Allow/Deny Item Customer - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 19787071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Coinsurance</source>
+          <target>Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Coinsurance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 19787071 - Field 2532505008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Filter</source>
+          <target>Filtro cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Coinsurance - Field Customer Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 19787071 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Coinsurance - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 19787071 - Field 3157935129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mail Address</source>
+          <target>E-Mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Coinsurance - Field Mail Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 19787071 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nº</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Coinsurance - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 19787071 - Field 1594543144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Percent Benefit</source>
+          <target>Porcentaje Beneficiario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Coinsurance - Field Percent Benefit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2872823933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Company Group</source>
+          <target>Grupos Empresas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2872823933 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Group - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2872823933 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Group - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2872823933 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>Tienda No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Group - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Insurer</source>
+          <target>Empresa Aseguradora</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>\-%1</source>
+          <target>\-%1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If field "%1" is fill, field "%2" must be complete</source>
+          <target>Si campo "%1" es llenado, el campo "%2" tambien debe ser configurdo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field "%1" is empty</source>
+          <target>Campo "%1" esta vacío</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company "%1" is inactive</source>
+          <target>Empresa "%1" esta inactivo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If field "%1" is fill, field "%2" must be empty</source>
+          <target>Si campo "%1" es llenado, el campo "%2" debe estar vacío</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This company is assigned to store "%1"</source>
+          <target>La empresa esta asignada a tienda "%1"</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>If field "%1" is not fill, field "%2" must be complete</source>
+          <target>Si campo "%1" esta vacío, campo "%2" debe ser configurado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup company is not correct. %1</source>
+          <target>Configuracion empresa no es correcta."%1"</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 1107513082 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorize Require</source>
+          <target>Solicitar Autorización</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Authorize Require - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 1184656902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill Alone</source>
+          <target>Facturar Individual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Bill Alone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 1300198872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coinsurance Manual</source>
+          <target>Coaseguro Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Coinsurance Manual - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 4110513507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coinsurance No.</source>
+          <target>No. Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Coinsurance No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 525838286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coinsurance Text Add</source>
+          <target>Coaseguro Añadir Texto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Coinsurance Text Add - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 3317349180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comission</source>
+          <target>Comisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Comission - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 569954196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Group</source>
+          <target>Grupo Empresa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Company Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 2838451934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created by User</source>
+          <target>Creado por usuario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Created by User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>No. cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 2972662832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Created</source>
+          <target>Fecha creación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Date Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 500639457 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deductible Manual</source>
+          <target>Deducible Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Deductible Manual - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 525852245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inactive</source>
+          <target>Inactivo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Inactive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 4247258221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoiced In Status Released</source>
+          <target>Facturar en Estado Lanzado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Invoiced In Status Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 2793057968 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No. Coinsurance</source>
+          <target>No. Articulo Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Item No. Coinsurance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 362996486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No. Comission</source>
+          <target>No. Articulo Comisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Item No. Comission - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 3712891121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No. Deductible</source>
+          <target>No. Articulo Deducible</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Item No. Deductible - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 1819468016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lookup Coinsurance</source>
+          <target>LookUp Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Lookup Coinsurance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 2682135073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lookup Final Invoice</source>
+          <target>LookUp Facturación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Lookup Final Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 3157935129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mail Address</source>
+          <target>E-Mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Mail Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 3157935129 - Method 2126772001 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apparently the email address is not correct, try another or verify the account</source>
+          <target>Aparentemente el correo no es correcto, intente con otro, o verifique la dirección e-mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Mail Address - Method OnValidate - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 389910518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mail In Status</source>
+          <target>Correo en Estado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Mail In Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 389910518 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending,Released,Coinsurance Invoiced,Close,Voided</source>
+          <target>Pendiente,Lanzado,Coaseguro Facturado,Cerrado,Anulado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Mail In Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 1642458349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maximum Value</source>
+          <target>Valor Maximo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Maximum Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 531282063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Value</source>
+          <target>Valor Minimo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Minimum Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 371151164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Policy</source>
+          <target>Poliza</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Policy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 2180383891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pre Authorize Require</source>
+          <target>Solicita Pre Autorización</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Pre Authorize Require - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 1652491453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price Formula</source>
+          <target>Formula Precio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Price Formula - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 1652491453 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standar,RoundExcVAT</source>
+          <target>Estandar,Redondeo Exc.IVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Price Formula - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 2862651933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Date In Invoice</source>
+          <target>Imprimir fecha en Factura</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Print Date In Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 2247631324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Insured Links</source>
+          <target>Imprimir Asegurados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Print Insured Links - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 2247631324 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,ParentAndBeneficer</source>
+          <target>Ninguno,Titular y Beneficiario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Print Insured Links - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 3729522191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recipe By Line</source>
+          <target>Receta por Linea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Recipe By Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 3438874493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Require Attachment Document</source>
+          <target>Solicitar Doc. Adjunto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Require Attachment Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 3603635610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Secondary Customer</source>
+          <target>Cliente Secundario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Secondary Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 3128450979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Maill</source>
+          <target>Enviar Correo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Send Maill - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>No. Tienda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 3332943127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usar Remision</source>
+          <target>Usar Remissión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Usar Remision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 657986950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Filter Group for Cards</source>
+          <target>Usar Filtro Grupo para Tarjeta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field User Filter Group for Cards - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 1580089187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate Auth No.</source>
+          <target>No. Validacion Autorizacion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Validate Auth No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 822532938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate Recipe</source>
+          <target>Validar Receta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Validate Recipe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 304451860 - Field 4275366236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate Recipe (Days)</source>
+          <target>Validar Receta (Dias)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Company Insurer - Field Validate Recipe (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 no es asegurado Titular</source>
+          <target>%1 no es asegurado Titular</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In insured type %1, parent code cant be empty</source>
+          <target>En "Tipo asegurado" %1 Cód Titular no puede estar vacío</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fields %1 or %2 cant be empty</source>
+          <target>Campo %1 o %2 no puede estar vacío</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - Field 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <target>Ficha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - Field Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - Field 1551200516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company No.</source>
+          <target>Nº empresa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - Field Company No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - Field 2838451934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created by User</source>
+          <target>Creado por usuario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - Field Created by User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>Nº cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - Field 2972662832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Created</source>
+          <target>Fecha creación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - Field Date Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - Field 1285973296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target>Correo electrónico</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - Field Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - Field 525852245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inactive</source>
+          <target>Inactivo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - Field Inactive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - Field 4155479596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Card</source>
+          <target>Tarjeta Titular</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - Field Parent Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - Field 1856965130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relation</source>
+          <target>Relación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - Field Relation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2104722958 - Field 1856965130 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent,Beneficiary</source>
+          <target>Titular,Beneficiario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Insured Links - Field Relation - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission Header</source>
+          <target>Cabecera Remisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Not allowed modify in status %1</source>
+          <target>No permitido modifcar en estado %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Not allowed delete in status %1</source>
+          <target>No permitido eliminar en estado %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company undefined</source>
+          <target>Empresa no establecida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company %1 is not configured or be inactive</source>
+          <target>Empresa %1 no esta configurada o esta inactiva</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Can´t change Company because line details exists</source>
+          <target>No puede cambiar Empresa porque tiene lineas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deductible cant be Higher to $%1</source>
+          <target>Deducible no puede ser mayor a $%1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales staff %1 not exists</source>
+          <target>Vendedor %1 no existe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card %1 from Company %2 is inactive</source>
+          <target>Tarjeta %1 desde Empresa %2 esta inactivo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card %1 not exists</source>
+          <target>Tarjeta %1 no existe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Method 3747499581 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company %1 is not configured for %2</source>
+          <target>Empresa %1 no esta configurada para %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Method PostRemission - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Method 3747499581 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission cant be higher to $%1 . According Setup company</source>
+          <target>Remisión no puede ser mayor a $%1 deacuerdo a la configuración de Empresa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Method PostRemission - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Method 3747499581 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission cant be less to $%1. According setup Company</source>
+          <target>Remisión no puede ser menor a $%1 deacuerdo a la configuración de Empresa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Method PostRemission - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Importe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1650118938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Including VAT</source>
+          <target>Importe IVA incl.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Amount Including VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 660715861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>auth Number</source>
+          <target>Number Autorizacion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field auth Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1854249360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization No.</source>
+          <target>No. Autorización</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Authorization No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 4110513507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coinsurance No.</source>
+          <target>No. Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Coinsurance No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1014356327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coinsurance Percent</source>
+          <target>Porcentaje Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Coinsurance Percent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 2443667399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coinsurance Value</source>
+          <target>Valor Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Coinsurance Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 3317349180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comission</source>
+          <target>Comisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Comission - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1964781432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comission Apply</source>
+          <target>Aplica Comisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Comission Apply - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 3997336476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Name</source>
+          <target>Nombre empresa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Company Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1551200516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company No.</source>
+          <target>Nº empresa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Company No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 3688481986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create By User</source>
+          <target>Creado Por Usuario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Create By User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 496290540 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Date</source>
+          <target>Fecha Creación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Create Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 273731812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Disc. Group</source>
+          <target>Grupo dto. cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Customer Disc. Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>Nº cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 3511321475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deductible Amount</source>
+          <target>Monto Deducible</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Deductible Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 500639457 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deductible Manual</source>
+          <target>Deducible Manual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Deductible Manual - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1155599705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc. Amount</source>
+          <target>Monto Descuento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Disc. Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Fecha de documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 900555519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Total</source>
+          <target>Total Documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Document Total - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Tipo documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <target>Nº documento externo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 2670775324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter Card for Groups</source>
+          <target>Filtro Tarjeta para Grupos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Filter Card Groups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 699468377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Company No.</source>
+          <target>No. Grupo Empresa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Group Company No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1940989795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insured Card No.</source>
+          <target>No. Asegurado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Insured Card No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 3322080895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insured Name</source>
+          <target>Nombre Asegurado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Insured Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 2116512719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insured Parent Card No.</source>
+          <target>No. Asegurado Titular</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Insured Parent Card No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 3115702355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insured Parent Name</source>
+          <target>Nombre Asegurado Titular</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Insured Parent Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 3045457947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued Date</source>
+          <target>Fecha Emitida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Issued Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 2402029925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member Card No.</source>
+          <target>No. Tarjeta Miembro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Member Card No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nº</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>Nos. serie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <target>No. Terminal TPV</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 704168815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No. Closed</source>
+          <target>No. Terminal Cerrado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field POS Terminal No. Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1571197803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No. Coinsurance</source>
+          <target>No. Terminal Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field POS Terminal No. Coinsurance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Fecha registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 432604301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pre Authorization No.</source>
+          <target>No. Pre Autorización</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Pre Authorization No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 2243915294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price Group</source>
+          <target>Grupo Precio</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Price Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 2235816547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No. Closed</source>
+          <target>No. Recibo Cerrado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Receipt No. Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1237355703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No. Coinsurance</source>
+          <target>No. Recibo Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Receipt No. Coinsurance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 2006529864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recipe Date</source>
+          <target>Fecha Receta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Recipe Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1856965130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relation</source>
+          <target>Relación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Relation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1856965130 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent,Beneficiary</source>
+          <target>Titular,Beneficiario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Relation - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 2742725084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replication Counter</source>
+          <target>Contador Replicación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Replication Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1843801842 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Staff</source>
+          <target>Vendedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Sales Staff - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 208688332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scanned</source>
+          <target>Escanear</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Scanned - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Estado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending,Released,Coinsurance Invoiced,Close,Voided,Exclude</source>
+          <target>Pendiente,Lanzado,Coaseguro Facturado,Cerrado,Anulado,Exluido</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>Tienda No.</target>
+          <target>No. Tienda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1566666043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No. Closed</source>
+          <target>No. Transacción Cerrado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Transaction No. Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 3696403983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No. Coinsurance</source>
+          <target>No. Transacción Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field Transaction No. Coinsurance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2567865369 - Field 1108276017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Importe IVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Header - Field VAT Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission Line</source>
+          <target>Linea Remissión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be modify quantity type %1</source>
+          <target>No se puede modificar cantidad tipo "%1"</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header is status %1  line cant be delete</source>
+          <target>Cabecera estado %1 no se puede eliminar lineas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company %1 require Recipe by line</source>
+          <target>Empresas %1 requiere Receta por Linea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item block for sale on POS. Status: %1</source>
+          <target>Bloqueo de artículos para la venta en POS. Estado: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - NamedType 190822967" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prices including VAT cannot be calculated when </source>
+          <target>Los precios con IVA incluido no se pueden calcular</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - NamedType Text99001450</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - NamedType 828519584" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 is %2.</source>
+          <target>%1 es %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - NamedType Text99001451</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Importe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 1650118938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Including VAT</source>
+          <target>Importe IVA incl.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Amount Including VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 1650050144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode</source>
+          <target>Barra</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Barcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 3310956332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <target>% descuento</target>
+          <target>% Descuento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Discount % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 1267560475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Amount</source>
+          <target>Importe dto.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Discount Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Nº documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Tipo documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 1579714849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration Date</source>
+          <target>Fecha caducidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Expiration Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Nº línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 4220125277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No. Closed</source>
+          <target>No. Linea Cerrado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Line No. Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 4230226825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot</source>
+          <target>Lote</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Lot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>N.º</target>
+          <target>Nº</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 704168815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No. Closed</source>
+          <target>No. Terminal TPV Cerrado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field POS Terminal No. Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 1571197803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No. Coinsurance</source>
+          <target>No. Terminal Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field POS Terminal No. Coinsurance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 2690421318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. Per Unit of Measure</source>
+          <target>Cant. por Unidad de Medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Qty. Per Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Cantidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 2235816547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No. Closed</source>
+          <target>No. Recibo Cerrado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Receipt No. Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 1237355703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No. Coinsurance</source>
+          <target>No. Recibo Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Receipt No. Coinsurance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 459565732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recipe</source>
+          <target>Receta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Recipe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 2742725084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replication Counter</source>
+          <target>Contador Replicación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Replication Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 208688332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scanned</source>
+          <target>Escanear</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Scanned - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <target>Tienda No.</target>
+          <target>No. Tienda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 1566666043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No. Closed</source>
+          <target>No. Transacción Cerrado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Transaction No. Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 3696403983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No. Coinsurance</source>
+          <target>No. Transacción Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Transaction No. Coinsurance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Tipo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item,Coinsurance,Deductible,Comission</source>
+          <target>Producto,Coaseguro,Deducible,Comisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 68186622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Cost (LCY)</source>
+          <target>Costo unitario ($)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Unit Cost (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <target>Unidad de medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Precio unitario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 8113766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price Inc. VAT</source>
+          <target>Precio Unitario Inc. IVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field Unit Price Inc. VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4011253938 - Field 1108276017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Importe IVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN Remission Line - Field VAT Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 3482842363 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method GetRecetas - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 4052885420 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2</source>
+          <target>%1 %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method InsertRemissionCo - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 3803164535 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2</source>
+          <target>%1 %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method InsertRemissionInvoice - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 3112986063 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expire Date:</source>
+          <target>Fecha caducidad:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method LSC POS Transaction Events_OnAfterInsertItemLine - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 1020975623 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tiene lineas pendientes de cofirmar</source>
+          <target>Tiene lineas pendientes de cofirmar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method LSC POS Transaction Events_OnBeforeTotalExecuted - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 1020975623 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tiene que adjuntar receta para productos controlados</source>
+          <target>Tiene que adjuntar receta para productos controlados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method LSC POS Transaction Events_OnBeforeTotalExecuted - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 957315904 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant add item in transaction type Remission</source>
+          <target>No puede agregar producto a transacción tipo Remisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method POS Transaction Events_OnAfterValidateIncExpLine - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 2654973400 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant add item in transaction type Remission</source>
+          <target>No puede agregar Ingreso/Gasto a transacción tipo Remisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method POS Transaction_OnItemNoPressed - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 2185380891 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company %1 dont require Coinsurance.</source>
+          <target>Empresa %1 no requiere Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method RemissionCoPressed - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 2185380891 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dont have records. Company %1</source>
+          <target>No tiene registros. Empresa %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method RemissionCoPressed - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 2185380891 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction already lines Items or Income/Expense</source>
+          <target>La transacción ya tiene lineas de producto o ingreso/gasto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method RemissionCoPressed - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 1742347064 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dont have records. Company %1</source>
+          <target>No tiene registros. Empresa %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method RemissionInvoicePressed - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - Method 1742347064 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction already lines Items or Income/Expense</source>
+          <target>La transacción ya tiene lineas de producto o ingreso/gasto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - Method RemissionInvoicePressed - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be change status %1 to %2</source>
+          <target>No Puede cambiar estado %1 a %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is already Released. Actual Status %1</source>
+          <target>Ya fue lanzado. Estado actual %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 cant by empty</source>
+          <target>%1 no puede estar vacío</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 not exists. Value %2</source>
+          <target>%1 no existe. Valor %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company %1 is not configured for %2</source>
+          <target>Empresa %1 no esta configurada para %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is nothing to register</source>
+          <target>No hay nada que registrar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line quantity zero (0) exists. Item %1</source>
+          <target>Existe la cantidad de línea cero (0). Item %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Remission header cant be %1 in Action = Add</source>
+          <target>No. de Cabecera remisión no puede ser "%1" al Añadir</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant be create %1. Value %2</source>
+          <target>No se pudo crear %1. Valor %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 alredy exists. Values %2 %3 %4</source>
+          <target>%1 ya existe. Valores %2 %3 %4</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field %1 cant be empty</source>
+          <target>Campo %1 no puede estar vacío</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In status pending cant return status</source>
+          <target>NO puede revertir el estado, cuando es "Pendiente"</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff %1 not exists</source>
+          <target>Vendedor %1 no existe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission cant be higher to $%1 . According Setup company</source>
+          <target>Remisión no puede ser mayor a $%1 deacuerdo a la configuración de Empresa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission cant be less to $%1. According setup Company</source>
+          <target>Remisión no puede ser menor a $%1 deacuerdo a la configuración de Empresa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have a pending document due %1 create date %2</source>
+          <target>Tienes un documento pendiente vencido %1 fecha creado %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - Method 3252709381 - NamedType 4136213064" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission with serial number %1 not found</source>
+          <target>Remission with serial number %1 not found</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - Method getDatafromRemission - NamedType ERROR_MESSAGE</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4284854260 - Method 1928901703 - NamedType 4136213064" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission with serial number %1 not found</source>
+          <target>Remission with serial number %1 not found</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Remission Mgt. - Method SaveDTEInvoice - NamedType ERROR_MESSAGE</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3384102416 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid value %1 in Request Node %2</source>
+          <target>Valor no valido %1 en xml Nodo Soicitud %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Remss. Integration - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3384102416 - NamedType 3031896719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 no existe</source>
+          <target>%1 %2 no existe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Remss. Integration - NamedType Text101</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3384102416 - NamedType 12322657" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2</source>
+          <target>%1 %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN WS XML Remss. Integration - NamedType Text103</note>
+        </trans-unit>
+        <trans-unit id="Page 906178838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow/Deny Item Customer</source>
+          <target>Permitir/Denegar Producto a Cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Allow/Deny Item Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 19787071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coinsurance</source>
+          <target>Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Coinsurance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1254655828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Groups</source>
+          <target>Grupos Empresas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Company Groups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 761489202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company List</source>
+          <target>Lista Empresas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Company List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 761489202 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Successfull!</source>
+          <target>Finalizado!</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Company List - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Page 761489202 - Control 306306742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate for Store </source>
+          <target>Valido para Tienda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Company List - Control StoreCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 761489202 - Action 1173152085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Group</source>
+          <target>Grupo Empresa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Company List - Action Company Groups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 761489202 - Action 675390547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate Company</source>
+          <target>Validar Empresa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Company List - Action Validate Company - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2542652944 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha Expiración</source>
+          <target>Fecha Expiración</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN ExpireDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2542652944 - NamedType 30485672" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha no puede ser vacia</source>
+          <target>Fecha no puede ser vacia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN ExpireDate - NamedType ERRORDATE</note>
+        </trans-unit>
+        <trans-unit id="Page 2542652944 - Control 1048266404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha Expiración</source>
+          <target>Fecha Expiración</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN ExpireDate - Control month - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2886462983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insured Card</source>
+          <target>Ficha Asegurado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Insured Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4281005373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insured List</source>
+          <target>Lista Asegurados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Insured List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4281005373 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insured %1 %2 have a document pending</source>
+          <target>Asegurado %1 %2 tiene un documento pendiente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Insured List - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 4281005373 - Action 1996628149 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Document</source>
+          <target>Crear documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Insured List - Action CreateDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 349969973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission Authorization</source>
+          <target>Autorización Remisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Authorization - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 349969973 - Control 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Importe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Authorization - Control Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 349969973 - Control 1067826989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Inc. VAT</source>
+          <target>Monto Inc. IVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Authorization - Control AmountIncVAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 349969973 - Control 1365371103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Company Insure</source>
+          <target>Total Empresa Aseguradora</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Authorization - Control TotalCompany - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 349969973 - Control 3964450692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotalInsured</source>
+          <target>Total Asegrado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Authorization - Control TotalInsured - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1022218320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remissión Card</source>
+          <target>Ficha Remisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1022218320 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to void the document?</source>
+          <target>¿Quieres anular el documento?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Card - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 1022218320 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <target>Imprimir</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Card - Action Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1022218320 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <target>Lanzar</target>
+          <target>Liberar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Card - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1022218320 - Action 1624414840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Void</source>
+          <target>Anular</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Card - Action Void - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1770946870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission List</source>
+          <target>Lista Remisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1770946870 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New status:  %1</source>
+          <target>Nuevo Estado: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission List - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 1770946870 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to void the document?</source>
+          <target>¿Quieres anular el documento?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission List - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 1770946870 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want reverse status?</source>
+          <target>¿Quieres revertir el estado?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission List - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 1770946870 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <target>Imprimir</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission List - Action Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1770946870 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <target>Lanzar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission List - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1770946870 - Action 556878992 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reverse Status</source>
+          <target>Revertir Estado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission List - Action Reverse Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3450893678 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission Subform</source>
+          <target>Remisión Lineas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3450893678 - Control 1067826989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Inc. VAT</source>
+          <target>Monto Inc. IVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Subform - Control AmountIncVAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3450893678 - Control 2364635914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coinsurance</source>
+          <target>Coaseguro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Subform - Control Coinsurance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3450893678 - Control 3317349180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comission</source>
+          <target>Comisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Subform - Control Comission - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3450893678 - Control 588318770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount</source>
+          <target>Importe total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Subform - Control TotalAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3450893678 - Control 1105621749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Company Insure</source>
+          <target>Total Empresa Aseguradora</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Subform - Control TotalCompanyInsure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3450893678 - Control 3964450692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Insured</source>
+          <target>Total Asegurado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Subform - Control TotalInsured - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3450893678 - Control 2892191201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Importe IVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Subform - Control VATAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3450893678 - Action 247166185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Line</source>
+          <target>Borrar línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Remission Subform - Action DeleteLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2416067676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remission List</source>
+          <target>Lista Remisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Select Remission Tempory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2416067676 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>N° copago %1, desea continuar?</source>
+          <target>N° copago %1, desea continuar?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Select Remission Tempory - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 1971490212 - ReportDataItem 1388849941 - Method 3245603402 - NamedType 3732501733" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Staff: %1 - %2 %3</source>
+          <target>Vendedor: %1 - %2 %3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN Remission - ReportDataItem NotaRemisionHeader - Method OnAfterGetRecord - NamedType TextStaff</note>
+        </trans-unit>
+        <trans-unit id="Enum 3808940540 - EnumValue 1424583697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MiRed</source>
+          <target>MiRed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Validate Auth No Company - EnumValue MiRed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3808940540 - EnumValue 419456390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Validation</source>
+          <target>No Validation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Validate Auth No Company - EnumValue No Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tiene que adjuntar receta para productos controlados</source>
+          <target>Tiene que adjuntar receta para productos controlados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expire Date:</source>
+          <target>Fecha caducidad:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3558774372 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tiene lineas pendientes de cofirmar</source>
+          <target>Tiene lineas pendientes de cofirmar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN POS Remission Controller - NamedType lText000</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

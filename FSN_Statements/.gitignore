@@ -1,0 +1,6 @@
+#ingnore apps files
+*.app
+#ignore cache files
+.vscode/.alcache/*
+#ignore gradle files
+rad.json

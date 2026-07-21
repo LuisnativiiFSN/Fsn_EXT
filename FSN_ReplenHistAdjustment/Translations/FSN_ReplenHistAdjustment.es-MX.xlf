@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="FSN_ReplenHistAdjustment.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 1057955289 - Method 2050803184 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SalesAdjustment - Method GetInsertAndModifyHistReplen - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1057955289 - Method 2050803184 - NamedType 3161018329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <target>''</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SalesAdjustment - Method GetInsertAndModifyHistReplen - NamedType lTextSimbol</note>
+        </trans-unit>
+        <trans-unit id="Page 1372945790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Replen. Sales Hist. Adj. Lines</source>
+          <target>FSN Replen. Historial de ventas Adj. Líneas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Replen. Sales Hist. Adj. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1372945790 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode found\item not found =</source>
+          <target>Código de barras encontrado \ artículo no encontrado =</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Replen. Sales Hist. Adj. Lines - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 1372945790 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode not found</source>
+          <target>Código de barras no encontrado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Replen. Sales Hist. Adj. Lines - NamedType Text004</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_ReplicationVerify">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2839556462 - NamedType 4275046174" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Undefined</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replication server - NamedType Undefined</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2839556462 - Method 675749300 - NamedType 207451238" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EXEC [dbo].[sp_GetFasaniApps]</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replication server - Method AppsList - NamedType Qry</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2839556462 - Method 34862469 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº de Tienda: %1 ,Terminal: %2, Fecha: %3, Hora: %4 Insertados</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replication server - Method ReplicationVerify - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2839556462 - Method 34862469 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº de Tienda: %1 ,Terminal: %2, Fecha: %3, Hora: %4 ya existe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Replication server - Method ReplicationVerify - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Replication Verify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - NamedType 1479418047" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EXTENSIONES</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - NamedType string</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 4216102090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control DateApps - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1074243913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control Store - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 773924249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control TimeApps - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 237762718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3307844512 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DB_Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control DB_Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1644771034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DB_Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control DB_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 2608346374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DriveLetter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control DriveLetter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1857955172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DriveSpace</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control DriveSpace - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3937526983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FreeSpaceGB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control FreeSpaceGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1648266305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FreeSpaceMB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control FreeSpaceMB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 921571204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FreeSpacePercentage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control FreeSpacePercentage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 204519905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IpAddress</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control IpAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 4018244739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SizeDB_DataGB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control SizeDB_DataGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1754591373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SizeDB_DataMB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control SizeDB_DataMB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3102700367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SizeDB_LogGB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control SizeDB_LogGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 854217860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SizeDB_Log_MB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control SizeDB_Log_MB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 975887170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control StoreNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3522378736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terminal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control Terminal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1230148255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 1588191566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotalSizeGB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control TotalSizeGB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 3851844932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotalSizeMB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control TotalSizeMB - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Control 20940045 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UsedSpacePercentage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Control UsedSpacePercentage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Action 4284730079 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Apps</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Action insertApps - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Action 3608652083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Apps</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Action showApps - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1937627100 - Action 2636482010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Database</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replication Verify - Action showDatabase - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

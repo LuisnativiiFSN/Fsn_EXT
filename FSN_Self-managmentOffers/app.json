@@ -1,0 +1,49 @@
+{
+  "id": "962a6734-7917-4a9e-8a88-830e54ae5846",
+  "name": "FSN_SelfMgmtOffers",
+  "publisher": "FASANI",
+  "version": "1.0.0.27",
+  "target": "OnPrem",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "name": "LS Central",
+      "publisher": "LS Retail",
+      "version": "18.4.5.1000013"
+    },
+    {
+      "id": "a397324a-67fe-4557-aefb-aa375b30dbdf",
+      "name": "BCDAO",
+      "publisher": "FASANI",
+      "version": "1.0.0.23"
+    },
+    {
+      "id": "e7aa14cd-4ee8-4901-9cbd-fba2c27a5d22",
+      "name": "BCBLO",
+      "publisher": "FASANI",
+      "version": "1.0.0.14"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

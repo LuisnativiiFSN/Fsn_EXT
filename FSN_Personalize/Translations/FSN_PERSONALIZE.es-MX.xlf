@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="FSN_PERSONALIZE.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 335080772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3474369738">
+          <source>Customer Lookup_Ext</source>
+          <target>Buscar Cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer Lookup_Ext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3117240721 - Control 3131874250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1887905131">
+          <source>Comment</source>
+          <target>Comentario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Gen. Ledg. Entries - Control LSC Narration - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

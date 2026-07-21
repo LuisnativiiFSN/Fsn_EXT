@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="sv-MX" original="FSN_GLAcounting.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 4090603935 - Field 379607337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AmtBal</source>
+          <target>AmtBal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field AmtBal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 4054630257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AmtEnt</source>
+          <target>AmtEnt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field AmtEnt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 588085858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AmtSal</source>
+          <target>AmtSal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field AmtSal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 993765549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode No.</source>
+          <target>Barcode No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Barcode No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 2396126743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clave</source>
+          <target>Clave</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Clave - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 3712282036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Correlativo</source>
+          <target>Correlativo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Correlativo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 555940972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cost Amount (Actual)</source>
+          <target>Cost Amount (Actual)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Cost Amount (Actual) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 1418046212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cost Amount (Expected)</source>
+          <target>Cost Amount (Expected)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Cost Amount (Expected) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 3332425136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Costo</source>
+          <target>Costo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Costo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 284764054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country/Region Code</source>
+          <target>Country/Region Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Document Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 2363328873 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Sales Shipment,Sales Invoice,Sales Return Receipt,Sales Credit Memo,Purchase Receipt,Purchase Invoice,Purchase Return Shipment,Purchase Credit Memo,Transfer Shipment,Transfer Receipt,Service Shipment,Service Invoice,Service Credit Memo,Posted Assembly</source>
+          <target> ,Sales Shipment,Sales Invoice,Sales Return Receipt,Sales Credit Memo,Purchase Receipt,Purchase Invoice,Purchase Return Shipment,Purchase Credit Memo,Transfer Shipment,Transfer Receipt,Service Shipment,Service Invoice,Service Credit Memo,Posted Assembly</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Document Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 4000416260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documento</source>
+          <target>Documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Documento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Entry No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 149522872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type</source>
+          <target>Entry Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Entry Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 149522872 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase,Sale,Positive Adjmt.,Negative Adjmt.,Transfer,Consumption,Output, ,Assembly Consumption,Assembly Output</source>
+          <target>Purchase,Sale,Positive Adjmt.,Negative Adjmt.,Transfer,Consumption,Output, ,Assembly Consumption,Assembly Output</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Entry Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <target>External Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 1991915875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha</source>
+          <target>Fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Fecha - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 1852565758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha Vencimiento</source>
+          <target>Fecha Vencimiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Fecha Vencimiento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 3461254124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemUnitCost</source>
+          <target>ItemUnitCost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field ItemUnitCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <target>Location Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 1389265927 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lote No.</source>
+          <target>Lote No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Lote No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 3564016715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nacional</source>
+          <target>Nacional</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Nacional - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 1567443966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proveedor</source>
+          <target>Proveedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Proveedor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 2761848292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Amount (Actual)</source>
+          <target>Purchase Amount (Actual)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Purchase Amount (Actual) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 2989414293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QtyBal</source>
+          <target>QtyBal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field QtyBal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 809848829 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QtyEnt</source>
+          <target>QtyEnt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field QtyEnt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 854432334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>QtySal</source>
+          <target>QtySal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field QtySal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Quantity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 2980152637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Amount (Actual)</source>
+          <target>Sales Amount (Actual)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Sales Amount (Actual) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 3062592847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SalesPrice</source>
+          <target>SalesPrice</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field SalesPrice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 2883740582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo</source>
+          <target>Tipo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Tipo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 407745741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaccion</source>
+          <target>Transaccion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Transaccion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4090603935 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure Code</source>
+          <target>Unit of Measure Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN KardexRep - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 839911184 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Kardex Report</source>
+          <target>FSN Kardex Report</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN KardexReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 839911184 - Control 1650050144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Producto</source>
+          <target>Producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN KardexReport - Control Barcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 839911184 - Control 3592094765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hasta</source>
+          <target>Hasta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN KardexReport - Control EndingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 839911184 - Control 2327569919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sucursal</source>
+          <target>Sucursal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN KardexReport - Control Locat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 839911184 - Control 543275552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desde</source>
+          <target>Desde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN KardexReport - Control StartingDate - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

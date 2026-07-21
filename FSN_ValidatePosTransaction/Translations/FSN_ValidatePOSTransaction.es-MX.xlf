@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="FSN_ValidatePOSTransaction.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 588341055 - NamedType 1512566883" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CodeUnitID</source>
+          <target>CodeUnitID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - NamedType CODEUNIT_ID</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - NamedType 3223288379" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CURRENT_UOM</source>
+          <target>CURRENT_UOM</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - NamedType CURRENT_UOM</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - NamedType 2409329235" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PASS_ADMIN</source>
+          <target>PASS_ADMIN</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - NamedType PASS_ADMIN</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - NamedType 2181858018" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SET_UOM_VALUE</source>
+          <target>SET_UOM_VALUE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - NamedType SET_UOM_VALUE</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 777366865 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant permission for Edit Delivery Order</source>
+          <target>No tiene Permisos para editar orden de entrega</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method BlockEditDeliveryOrder - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2327845751 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RECETA: %1</source>
+          <target>RECETA: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method CheckInfocode - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2327845751 - NamedType 2327655551" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero de Receta es obligatorio para el producto %1, %2</source>
+          <target>Numero de Receta es obligatorio para el producto %1, %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method CheckInfocode - NamedType MessageLabel</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2327845751 - NamedType 3894112513" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reafirmación de numero de receta es obligatorio para el producto %1, %2</source>
+          <target>Reafirmación de numero de receta es obligatorio para el producto %1, %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method CheckInfocode - NamedType MessageLabel2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 334974613 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 - $%2 \</source>
+          <target>%1 - $%2 \</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method CheckTenderReturnSale - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 334974613 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tenders type not exists!</source>
+          <target>el tipo de licitación no existe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method CheckTenderReturnSale - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 334974613 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash + Check</source>
+          <target>Efectivo + cheque</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method CheckTenderReturnSale - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3984693563 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false;User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false;User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ConsultationGiftcard - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 4207109858 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method DeleteRecetas - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3302807022 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method GetReceta - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3482842363 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method GetRecetas - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 1192110810 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method getSQLInfo - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2649420432 - NamedType 1724931251" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table %1</source>
+          <target>Table %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method InsertTmpTrans - NamedType Text260</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 1126524786 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Las transacciones han sido cerradas para este dia. </source>
+          <target>Las transacciones han sido cerradas para este dia.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnBeforeRunPos - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 4260754582 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No tiene los permisos para anular pedios Call Center</source>
+          <target>No tiene los permisos para anular pedios Call Center</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnButtonPressed - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 979112443 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expire Date:</source>
+          <target>Fecha de expiración</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnCalendarResult - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 979112443 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La fecha es obligatoria, Producto %1</source>
+          <target>La fecha es obligatoria, Producto %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnCalendarResult - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2509803922 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>N° Lote es obligatorio, Producto %1</source>
+          <target>N° Lote es obligatorio, Producto %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnKeyboardResult - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2509803922 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>N° Gif Card es obligatorio.</source>
+          <target>N° Gif Card es obligatorio.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnKeyboardResult - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2509803922 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Saldo actual %1. Fecha Canducidad %2, Tipo de GiftCard %3</source>
+          <target>Saldo actual %1. Fecha Canducidad %2, Tipo de GiftCard %3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnKeyboardResult - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2509803922 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ingrese Numero de lote:</source>
+          <target>Ingrese Numero de lote:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnKeyboardResult - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2509803922 - NamedType 1807739289" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2</source>
+          <target>%1 %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnKeyboardResult - NamedType ProdDescription</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3814792146 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error in credentials %1</source>
+          <target>Error in credentials %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnModalPanelResult - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3814792146 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User %1 is not RETAIL MANAGER</source>
+          <target>usuario %1 no es MANAGER</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnModalPanelResult - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3814792146 - NamedType 1807739289" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2</source>
+          <target>%1 %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnModalPanelResult - NamedType ProdDescription</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3604453172 - NamedType 1991095002" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La cantidad no puede ser un valor decimal</source>
+          <target>La cantidad no puede ser un valor decimal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnNumpadResult - NamedType TextLbl01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 1183293579 - NamedType 2416870076" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No es permitido cambiar tipo de documento en devoluciones</source>
+          <target>No es permitido cambiar tipo de documento en devoluciones</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnPOSCommand - NamedType ERROR00</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2473622958 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RECETA: %1</source>
+          <target>RECETA: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Controller_OnPOSEvent - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2304128830 - NamedType 3699446230" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El saldo no es suficiente, el saldo actual es %1. Presione Atrás para cancelar</source>
+          <target>El saldo no es suficiente, el saldo actual es %1. Presione Atrás para cancelar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Infocode Utility_OnBeforeDataEntryCheckVoucherRemainingAmt - NamedType Text034</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 134193570 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change: $%1</source>
+          <target>Cambio: $%1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Post Utility_OnAfterPostTransaction - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2690800235 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Para media de pago %1</source>
+          <target>Para media de pago %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Print Utility_OnBeforePrintSalesSlip - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2690800235 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Verifique su Caja Para media de pago %1</source>
+          <target>Verifique su Caja Para media de pago %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Print Utility_OnBeforePrintSalesSlip - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3876483223 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se puede realizar la operación. La venta excede el limite de tiempo permitido para devolución</source>
+          <target>No se puede realizar la operación. La venta excede el limite de tiempo permitido para devolución</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Refund Mgt._OnBeforeCreateLinesToRefund - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3940268130 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Monto de %1 excede el balance total que es $ %2</source>
+          <target>Monto de %1 excede el balance total que es $ %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Trans. Line_OnBeforeInsertEvent - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 1162162307 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unidad de medida producto no encontrado.</source>
+          <target>Unidad de medida producto no encontrado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Transaction Events_ItemLineOnAfterItemGet - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 4188127836 - NamedType 1634543003" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Desea insertar mas de %1 lineas</source>
+          <target>Desea insertar mas de %1 lineas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Transaction Events_OnBeforeInsertItemLine - NamedType TexI01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3647435369 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Monto no puede ser negativo en ventas al credito</source>
+          <target>Monto no puede ser negativo en ventas al credito</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Transaction Events_OnBeforeInsertPaymentLine - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3647435369 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se puede agregar linea de pago, el monto es $0.00</source>
+          <target>No se puede agregar linea de pago, el monto es $0.00</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Transaction Events_OnBeforeInsertPaymentLine - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2963017280 - NamedType 309880927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se puede registrar venta con pago a $%1 en %2</source>
+          <target>No se puede registrar venta con pago a $%1 en %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Transaction Events_OnBeforePostPOSTransaction - NamedType Mens00</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 1020975623 - NamedType 1541774099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tiene lineas pendientes de cofirmar</source>
+          <target>Tiene lineas pendientes de cofirmar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Transaction Events_OnBeforeTotalExecuted - NamedType lText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 1020975623 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tiene que adjuntar receta para productos controlados</source>
+          <target>Tiene que adjuntar receta para productos controlados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method LSC POS Transaction Events_OnBeforeTotalExecuted - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 1191015726 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No es permitido seleccionar sala actual</source>
+          <target>No es permitido seleccionar sala actual</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method OnLookupResult - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 1191015726 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe Selecionar Sala</source>
+          <target>Debe Selecionar Sala</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method OnLookupResult - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2065738429 - NamedType 1807739289" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2</source>
+          <target>%1 %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ProcessGiftcardCC - NamedType ProdDescription</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2739826865 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No GiftCard:</source>
+          <target>No GiftCard:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method RunGiftcardBalance - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 257676538 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant to invoice because is typology 0</source>
+          <target>No puede facturar por que es tipologia 0</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method Tipologia0 - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 1552612716 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No GiftCard:</source>
+          <target>No GiftCard:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValGiftCardProcess - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2465388939 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede cambiar al cliente porque ya existe una media de pago definida.</source>
+          <target>No puede cambiar al cliente porque ya existe una media de pago definida.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateChangeCustomerORMember - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 474083750 - NamedType 4100752876" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connection to Transaction server failed.\Contact Manager.</source>
+          <target>Conexion on el servidor de transaccion fallo.\Contacte a superior</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateCustomer - NamedType Text058</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 474083750 - NamedType 2848705940" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer %1 is blocked</source>
+          <target>Cliente %1 esta bloqueado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateCustomer - NamedType Text049</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 474083750 - NamedType 612391220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El cliente %1 esta por encima del limite de crédito </source>
+          <target>El cliente %1 esta por encima del limite de crédito </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateCustomer - NamedType Text050</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 474083750 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El cliente %1 no posee crédito </source>
+          <target>El cliente %1 no posee crédito </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateCustomer - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 474083750 - NamedType 4269661899" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer %1 is over credit limit. Want to continue?</source>
+          <target>El Cliente %1 sobrepasa el limite de credito. Desea continuar?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateCustomer - NamedType Text051</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 447547939 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expire Date:</source>
+          <target>Fecha de expiración:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateExpireDate - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 447547939 - NamedType 800457296" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ingrese numero de Lote:</source>
+          <target>Ingrese numero de Lote:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateExpireDate - NamedType captionLote</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 447547939 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La fecha es obligatoria para N° Lote %1, Producto %2</source>
+          <target>La fecha es obligatoria para N° Lote %1, Producto %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateExpireDate - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 447547939 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>N° Lote es obligatorio, Producto %1</source>
+          <target>N° Lote es obligatorio, Producto %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateExpireDate - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3652598759 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cant add item %1 </source>
+          <target>No puede agregar el articulo %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateItemPendingScann - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3652598759 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se encontraron lineas pendientes</source>
+          <target>No se encontraron lineas pendientes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateItemPendingScann - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3652598759 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Lote:</source>
+          <target>No Lote:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateItemPendingScann - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 1592665326 - NamedType 728973284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ya existe una transacción valida con recibo %1, Anule y haga nueva transacción</source>
+          <target>Ya existe una transacción valida con recibo %1, Anule y haga nueva transacción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateRegTransaction - NamedType lText010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 4013216010 - NamedType 266380865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>\No. %1 , Monto: %2.</source>
+          <target>\No. %1 , Monto: %2.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateSaleIsReturnSale - NamedType lText006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 4013216010 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se retornara el saldo a GIFTCARD %1</source>
+          <target>Se retornara el saldo a GIFTCARD %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateSaleIsReturnSale - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 644247202 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Must be use tender CASH because date is old in Check</source>
+          <target>Esta por encima del limite de credito </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateTenderTypeAmount - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 644247202 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tender type %1 not exists for this transaction</source>
+          <target>Tipo de liquidacion %1 no existe para esta transaccion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateTenderTypeAmount - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 644247202 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment in tender type %1 is complete</source>
+          <target>Pago en tipo de liquidacion %1 esta completo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateTenderTypeAmount - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 644247202 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 not exists. Value %2, %3</source>
+          <target>%1 no existe. Valor %2, %3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateTenderTypeAmount - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 644247202 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount is not correct</source>
+          <target>Cantidad no es correcta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateTenderTypeAmount - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 644247202 - NamedType 904077482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Limit for amount is %1</source>
+          <target>Limite para cantidad es %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateTenderTypeAmount - NamedType lText007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 644247202 - NamedType 2348379739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order delivery already cancel. Must be use POST CALLCENTER</source>
+          <target>orden de entrega fue cancelada. Debe utilizar POST CALLCENTER</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValidateTenderTypeAmount - NamedType lText008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3072744539 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Media de pago %1 no es permitida con Cuenta Ingreso/Gasto %2.</source>
+          <target>Media de pago %1 no es permitida con Cuenta Ingreso/Gasto %2.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValIncomeExpenseAndPayment - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 3291763133 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expire Date:</source>
+          <target>Fecha de expiración:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValPosTransLineCC - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 682270791 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se puede mezclar %1 con media de pago %2</source>
+          <target>No se puede mezclar %1 con media de pago %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValTenderKCreditCustomer - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2731708660 - NamedType 845351578" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se permiten espacios ni caracteres especiales.</source>
+          <target>No se permiten espacios ni caracteres especiales.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValueFormatGiftCard - NamedType ValText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 2731708660 - NamedType 207654961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El valor debe tener más de 5 caracteres.</source>
+          <target>El valor debe tener más de 5 caracteres.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method ValueFormatGiftCard - NamedType ValText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 588341055 - Method 351060536 - NamedType 3894112513" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Se requiere la clave de supervisor para el producto %1, %2</source>
+          <target>Se requiere la clave de supervisor para el producto %1, %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Validate Pos Transaction - Method VerifyAuthorizeControler - NamedType MessageLabel2</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing</source>
+          <target>Procesamiento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Method 3482842363 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Method GetRecetas - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Method 1192110810 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Method getSQLInfo - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Method 1192110810 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se encontró al médico, agregue medico al registro!!!!</source>
+          <target>No se encontró al médico, agregue medico al registro!!!!</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Method getSQLInfo - NamedType Text0001</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Method 1310893599 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false;User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false;User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Method NewDoctor - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Method 4177352842 - NamedType 1769069492" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe agregar un medico a la receta</source>
+          <target>Debe agregar un medico a la receta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Method OnQueryClosePage - NamedType Messa01</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Method 4149417275 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Method Register - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Method 2741693809 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <target>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Method RegisterLine - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Control 3123527090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target>  </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Control Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Control 233361578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target>  </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Control Medic - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Control 2688379769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target>  </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Control NombreoMedico - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Control 1990538138 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Control NuevoMedico - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Control 3530735757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target>  </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Control Prov - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Control 3192785069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <target>  </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source contains only white-space, consider using 'Locked = true' to avoid translation of unnecessary texts. This note can be toggled with the setting 'NAB.PreferLockedTranslations'.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Control Registro - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Control 1368373035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receta</source>
+          <target>Receta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Control ItemPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Action 1541153962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Guardar Medico</source>
+          <target>Guardar Medico</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Action Guardar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Action 2864777531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Importar Receta</source>
+          <target>Importar Receta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Action ImportPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Action 2329231774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nuevo Medico</source>
+          <target>Nuevo Medico</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Action NuevoM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2464110393 - Action 1258667064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Volver</source>
+          <target>Volver</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Recetas - Action Volver - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

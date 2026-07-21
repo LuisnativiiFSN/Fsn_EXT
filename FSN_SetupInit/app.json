@@ -1,0 +1,69 @@
+{
+  "id": "3a01f34d-5de7-4ee8-9615-3c376b082144",
+  "name": "FSNSetupInit",
+  "publisher": "FASANI",
+  "version": "1.0.0.6",
+  "target": "OnPrem",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "publisher": "LS Retail",
+      "name": "LS Central",
+      "version": "18.4.0.0"
+    },
+    {
+      "id": "2a0547fa-f60f-401d-b1fe-c7c4be8fb230",
+      "publisher": "LS Retail",
+      "name": "LS Central System App",
+      "version": "18.4.0.0"
+    },
+    {
+      "id": "a397324a-67fe-4557-aefb-aa375b30dbdf",
+      "name": "BCDAO",
+      "publisher": "FASANI",
+      "version": "1.0.0.20"
+    },
+    {
+      "id": "70375071-ed72-4b1b-9736-cfe88bca6c83",
+      "name": "FSN_InsurerCompany",
+      "publisher": "FASANI",
+      "version": "1.0.0.11"
+    },
+    {
+      "id": "8b50383a-8345-4257-9e15-c96b764bf5c8",
+      "name": "FSN_Recargas",
+      "publisher": "FASANI",
+      "version": "1.0.0.12"
+    },
+    {
+      "id": "7afff456-522a-41d6-882a-187c69cc9836",
+      "name": "FSN_CallCenter",
+      "publisher": "FASANI",
+      "version": "1.0.0.13"
+    },
+    {
+      "id": "c2ec0fd9-a04f-49ff-8054-df8b17008af7",
+      "name": "IDS Localizacion",
+      "publisher": "IDS",
+      "version": "18.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0"
+}

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="FSN_TenderType.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2910537229 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Not exists, Value %2</source>
+          <target>%1 No existe, Valor %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vertify payments</source>
+          <target>Vertificar medios de pagos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check data card payments</source>
+          <target>Cheques de datos de pagos con tarjeta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member point %1 are not enough for payment %2</source>
+          <target>Los puntos de miembro %1 no son suficientes para el pago %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mixto</source>
+          <target>Mixto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Limit Amount for delivery is $%1</source>
+          <target>El monto límite para la entrega es de $%1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Limit Amount for delivery cross transaction is $%1</source>
+          <target>El importe límite para la transacción cruzada de entrega es de $%1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store delivery %1 and store Transac %2 no match</source>
+          <target>Tienda la entrega %1 y Tienda Transac %2 sin coincidencia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount in cross orders for contact ($ %1) is less to allowed $( %2)</source>
+          <target>La cantidad en órdenes cruzadas para contacto ($ %1) es menor a la permitida $( %2)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Changes in transaction require recalc payment</source>
+          <target>Los cambios en la transacción requieren el pago de recalculo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction have payments Online. %1</source>
+          <target>La transacción tiene pagos en línea. %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction have balance pending.</source>
+          <target>La transacción tiene saldo pendiente.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Entry linked to total discount not exists.</source>
+          <target>La entrada de datos vinculada al descuento total no existe.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Discount is %1 not match entry data amount %2</source>
+          <target>El descuento total es %1 no coincide con el importe de los datos de entrada %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PAY: %1 %2 %3</source>
+          <target>Pago: %1 %2 %3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change $%1 for $%2</source>
+          <target>Cambio $%1 para $%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Real value Vaucher is %1 and Payment line is %2</source>
+          <target>El valor real de Vaucher es %1 y la línea de pago es %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 2133688762 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change for:</source>
+          <target>Cambio para:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method InsertDelChangePayment - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 2133688762 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change $%1 for $%2</source>
+          <target>Cambio $%1 por $%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method InsertDelChangePayment - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 1955748017 - NamedType 3216065459" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error insert tipology, field was ocuped for %1</source>
+          <target>Error insertar tipología, el campo se ocupó para %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method POSNewLineFreeText - NamedType Text026</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 4101883346 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no Serial Code for %1</source>
+          <target>No hay código de serie para %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateSerie - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 806786006 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No esta permitido facturar en Credito fiscal a este cliente.</source>
+          <target>No esta permitido facturar en Credito fiscal a este cliente.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateTotalPressed - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 806786006 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El cliente es requerido para facturar en Credito fiscal.</source>
+          <target>El cliente es requerido para facturar en Credito fiscal.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateTotalPressed - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 806786006 - NamedType 3454863950" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El articulo %1 requiere una entrada de texto obligatoria. Anule la linea e intente de nuevo.</source>
+          <target>El articulo %1 requiere una entrada de texto obligatoria. Anule la linea e intente de nuevo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateTotalPressed - NamedType lText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 806786006 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La transaccion debe tener al menos un articulo</source>
+          <target>La transaccion debe tener al menos un articulo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateTotalPressed - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 806786006 - NamedType 3923651544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tiene articulos pendientes de confirmar escaneo.</source>
+          <target>Tiene articulos pendientes de confirmar escaneo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateTotalPressed - NamedType lText005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 806786006 - NamedType 2986076356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El pedido DELIVERY no esta asignado a un motorista \ ¿ Facturar de todas formas?</source>
+          <target>El pedido DELIVERY no esta asignado a un motorista \ ¿ Facturar de todas formas?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateTotalPressed - NamedType lText009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 806786006 - NamedType 517009381" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DELIVERY</source>
+          <target>DELIVERY</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateTotalPressed - NamedType DELIVERY_</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 806786006 - NamedType 728973284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ya existe una transacción valida con recibo %1, Anule y haga nueva transacción</source>
+          <target>Ya existe una transacción valida con recibo %1, Anule y haga nueva transacción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateTotalPressed - NamedType lText010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 806786006 - NamedType 91276667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No hay cupon aplicado, el Infocodigo requiere un Cupon aplicado en transaccción</source>
+          <target>No hay cupon aplicado, el Infocodigo requiere un Cupon aplicado en transaccción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateTotalPressed - NamedType lText011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 806786006 - NamedType 2004366518" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede ser Ticket cuando hay cupon en transacción</source>
+          <target>No puede ser Ticket cuando hay cupon en transacción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateTotalPressed - NamedType lText012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2910537229 - Method 806786006 - NamedType 1366669901" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aviso!\POS esta en modo %1</source>
+          <target>Aviso!\POS esta en modo %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Check Payments POS - Method ValidateTotalPressed - NamedType lText013</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,1094 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FSN_DTE">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3059060271 - Field 1283202311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creating Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field Creating Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 171455946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field DTE AuthNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 2708792608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE EnrolledTimeStamp</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field DTE EnrolledTimeStamp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 1123328280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field DTE Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 3873227874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE IssuedTimeStamp</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field DTE IssuedTimeStamp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 1098346073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS Terminal No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field POS Terminal No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 2253333645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipt No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field Receipt No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 2742725084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replication Counter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field Replication Counter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 2128094833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field Signature Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send,Anulled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 3019550948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field Store No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3059060271 - Field 3319631365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FSN DTE Transaction Header - Field Transaction No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 731675621" size-unit="char" translate="yes" xml:space="preserve">
+          <source>99</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType DEFAULT_UOM</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 1595343339" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call IT Support: \Item %1 need to have Unit of Measure asigned in your configuration.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 2233039956" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call IT Support: \Store %1 need to have "Responsability Center" asigned in your configuration.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 2870736573" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call IT Support: \Store %1 need to have Email and Phone No. asigned in your configuration.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 3508433190" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call IT Support: \establishment Type and both establishment Code are Required for Store %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 3339524167" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call IT Support: \TPV Code registed in MH is required for TPV %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 3977220784" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \Email Is required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 319950105" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \Name is Required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 957646722" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Clien Info: \Address is Required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 788737699" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \City and County are Required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 1426434316" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \Postal Code is Required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 1871875612" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call IT Support: \Fields "DTE District" and "DTE State" are required for Post Code %1, City %2, County %3.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 1234178995" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \Phone No. is Required for Customer %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 3147268846" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \"NRC" is Required for Customer %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 2509572229" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \Tax ID Type is Required for Customer %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl013</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 3616056440" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \Foreigner ID is Required for Customer %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl014</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 2978359823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \DUI is Required for Customer %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl015</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 596482378" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \NIT is Required for Customer %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl016</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 4253753057" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call IT Support: \name is Required for Company Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl017</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 2678481252" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call IT Support: \NRC is Required for Company Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl018</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 2040784635" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call IT Support: \NIT is Required for Company Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl019</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 1079863149" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE: “FSN NRC Descripción” de la empresa es requerido para Facturación electrónica MH, no puede ser vacío en ficha Información empresa</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl020</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 1717559766" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE: “DTE Active Code” de la empresa es requerido para Facturación electrónica MH, no puede ser vacío en ficha Información empresa</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl021</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 442166532" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \“DTE Active Code” is Required for Customer %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl023</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 2824043977" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Client Info: \“Secondary customer” is Required for Customer %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl024</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - NamedType 3461740594" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Correo electronico es requerido para el cliente o beneficiario</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - NamedType TEXTl025</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 3984792109 - NamedType 3436965444" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE: No se pudo crear Factura Compra electronica \%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTEcertify - NamedType MText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 3984792109 - NamedType 2799268827" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE: No se pudo crear Factura venta electronica \%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTEcertify - NamedType MText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 3984792109 - NamedType 417391382" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE: No se pudo crear Notas de Crédito de venta electronica \%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTEcertify - NamedType MText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 3984792109 - NamedType 4074662061" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE: No se pudo crear Notas de Crédito de compra electronica \%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTEcertify - NamedType MText003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2061559232 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error al generar Factura venta Electronica.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTESalesInvoice - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2061559232 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se encuentra numero de serie %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTESalesInvoice - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2061559232 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Procesando Factura Venta DTE, Espere.......</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTESalesInvoice - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2061559232 - NamedType 3886967436" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No existe parametro DTE_INVOICE, PURCHASE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTESalesInvoice - NamedType EText000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2061559232 - NamedType 795846467" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Serie es obligatorio para Sub Typo documento %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTESalesInvoice - NamedType Etext001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2061559232 - NamedType 2708936318" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se encontraron lineas que procesar para el documento de tipo %1 con el número %2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTESalesInvoice - NamedType Etext002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2061559232 - NamedType 2071239701" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actividad Economica es obligatoria para el cliente %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTESalesInvoice - NamedType Etext003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2061559232 - NamedType 3177723912" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe especificar Cod Almacen</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTESalesInvoice - NamedType Etext004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2061559232 - NamedType 2540027295" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No hay Lín. venta dentro del filtro. Filltros: Nº documento: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method DTESalesInvoice - NamedType Etext005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2621206395 - NamedType 2468768840" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El %1 %2 Ya fue registrado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method FSN Utility_OnInvokeGlobalChannelEvent - NamedType lTex001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 105877948 - NamedType 2623664455" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede eliminar Cola de proyecto ya certificada</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method Job Queue Entry_OnBeforeDeleteEvent - NamedType Errortext</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2509803922 - NamedType 4000568837" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El correo "%1" no tiene un formato válido.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method LSC POS Controller_OnKeyboardResult - NamedType InfoText</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2473622958 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ingrese correo del beneficiario</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method LSC POS Controller_OnPOSEvent - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2473622958 - NamedType 3396843775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>D: El cliente %1 no esta permitido para ingresar correo electronico.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method LSC POS Controller_OnPOSEvent - NamedType TEXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 1776840000 - NamedType 579003056" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede agregar mas producto, Transferencia %1 ya certificada</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method LSC Retail TO. tb. Picked Sub._OnInsertRecordEvent - NamedType ErrorTExt01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 11768475 - NamedType 3285954927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La transaccion debe tener al menos un articulo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method OnButtonPressed - NamedType lText004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 3224548131 - NamedType 3152858700" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede eliminar lineas de documento tipo Dev Consumidor Final</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method Sales Cr. Memo Subform_OnDeleteRecordEvent - NamedType TXT000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 673395951 - NamedType 3930129576" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede modificar N° Documento Externo con sub tipo documento activo para DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method Sales Invoice_OnBeforeValidateEvent_[content / General] - External Document No. - NamedType ERR001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2139356582 - NamedType 2468768840" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El %1 %2 Ya fue registrado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method Sales-Post_OnBeforePostSalesDoc - NamedType lTex001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 325169379 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error al generar remision electronica.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method SendDTE - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 325169379 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se encuentra numero de serie %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method SendDTE - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 325169379 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Procesando DTE, Espere.......</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method SendDTE - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 1677929177 - NamedType 579003056" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede agregar mas producto, Transferencia %1 ya certificada</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method Transfer Order Subform_OnInsertRecordEvent - NamedType ErrorTExt01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 1381212494 - NamedType 444346352" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede modificar documento externo.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method Transfer Order_OnModifyRecordEvent - NamedType ERRORD</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 1660946126 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se encuentra numero de serie %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method TransferOrder-Post Shipment_OnBeforeTransferOrderPostShipment - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 1647899388 - NamedType 3589472337" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Failed to generate invoice Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method UpdateInvoice - NamedType text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 704791260 - NamedType 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ingrese correo del beneficiario</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValBeneficiary - NamedType caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2312522778 - NamedType 2214066860" size-unit="char" translate="yes" xml:space="preserve">
+          <source>N° documento %1 no se encuentra certificado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValDocumentRegistCreditNo - NamedType TEXTM000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 2909594491 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se puede procesar 2 tipos de documentos diferentes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValidateTypeDocument - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 1280334350 - NamedType 3443671915" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventatio insuficiente para el producto %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValInventoryTransfer - NamedType ERROR001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 1280334350 - NamedType 1061794470" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dispone cantidad insuficiente del producto %1 en inventario.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValInventoryTransfer - NamedType ERROR002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 1280334350 - NamedType 424097853" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN No puedes recibir más de %1 unidades.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValInventoryTransfer - NamedType ERROR003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 1280334350 - NamedType 1530582064" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Actualmente no hay artículos en tránsito.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValInventoryTransfer - NamedType ERROR004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 1280334350 - NamedType 892885447" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No hay lineas que certificar.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValInventoryTransfer - NamedType ERROR005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 4035525370 - NamedType 2314079103" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se puede procesar, faltan lineas de produtos para la Factura %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValReturnFacSalesExist - NamedType text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 1306444611 - NamedType 4136213064" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No se puede realizar una devolucion de mas de %1 dias</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method verifyReturnDate - NamedType ERROR_MESSAGE</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3145597052 - Method 1457284082 - NamedType 2528306372" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN DTE Regist - Method generateTerminalNo - NamedType prefix</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - NamedType 48805331" size-unit="char" translate="yes" xml:space="preserve">
+          <source>sannsicolas@gmail.com</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - NamedType BASIC_EMAIL</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - NamedType 3448258569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>46491</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - NamedType companyActivityCode</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - NamedType 1019821557" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Venta de productos farmacéuticos y medicinales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - NamedType companyActivityDesc</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - NamedType 3530071698" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parameters for DTE API connection not configured</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - NamedType PARAMETER_ERROR</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - NamedType 2951775720" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issuing Electronic Invoice...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - NamedType text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - NamedType 3589472337" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Failed to generate invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - NamedType text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3058300703 - NamedType 2811926182" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method CreateInvoice - NamedType PAYMENT_METHOD_KEY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3058300703 - NamedType 1908375084" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Holder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method CreateInvoice - NamedType HOLDER_KEY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3058300703 - NamedType 479511021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beneficiary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method CreateInvoice - NamedType BENEFICIARY_KEY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3058300703 - NamedType 2078358541" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seller code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method CreateInvoice - NamedType SELLER_CODE_KEY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3058300703 - NamedType 1343662191" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cashier code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method CreateInvoice - NamedType CASHIER_CODE_KEY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3058300703 - NamedType 3449796623" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method CreateInvoice - NamedType CODE_KEY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3058300703 - NamedType 1052847361" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Signature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method CreateInvoice - NamedType SIG_CODE_KEY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3058300703 - NamedType 993543648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Headline</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method CreateInvoice - NamedType HEADLINE_CODE_KEY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3058300703 - NamedType 1415914190" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorizer Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method CreateInvoice - NamedType AUTH_CODE_KEY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3058300703 - NamedType 849449206" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method CreateInvoice - NamedType GIFTCARD_CODE_KEY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3058300703 - NamedType 1297899704" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ACTIONADD</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method CreateInvoice - NamedType RPN_KEY</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 1708482932 - NamedType 1141098572" size-unit="char" translate="yes" xml:space="preserve">
+          <source>D:\Soporte\DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method createLog - NamedType localpath</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3811094739 - NamedType 3363737216" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method FSN Remission Header_OnAfterModifyEvent - NamedType COMPANY_NOT_FOUND</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 3811094739 - NamedType 520393769" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Not certificate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method FSN Remission Header_OnAfterModifyEvent - NamedType NOT_CERTIFICATE</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 2293372938 - NamedType 717777889" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pa$$w0rd</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method getCredentials - NamedType PASSWORD</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 4150647966 - NamedType 3179177485" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Series not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method getRemissionSequence - NamedType SERIE_NOT_FOUND</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2802150540 - Method 11768475 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contingencia activada</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FSN Electronic Invoice - Method OnButtonPressed - NamedType Text0001</note>
+        </trans-unit>
+        <trans-unit id="Page 2369550467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN DTE Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Invoice Without Certification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - NamedType 1924387780" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date out of range</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - NamedType OUT_OF_RANGE</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Method 2731533800 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Method ConSQl - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Method 2731533800 - NamedType 3161018329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Method ConSQl - NamedType lTextSimbol</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Method 394471478 - NamedType 4228993887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Source=%1;Initial Catalog=%2;Integrated Security=false; User ID=%3;Password=%4;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Method ConSQlCont - NamedType lTextConn</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Method 394471478 - NamedType 3161018329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>''</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Method ConSQlCont - NamedType lTextSimbol</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Method 394471478 - NamedType 3080618677" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Certificación Realizada!!!!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Method ConSQlCont - NamedType Message</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Method 394471478 - NamedType 3548723355" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Factura Pendiente de certificar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Method ConSQlCont - NamedType Error1</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Method 3948130201 - NamedType 1696782380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>D:\Soporte\DTE\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Method MessageLog - NamedType localPath</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 139820113 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CERTIFICAR TODOS DOCUMENTO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action CERTIFICAR All DOCUMENTO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 1473443770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CERTIFICAR DOCUMENTO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action CERTIFICAR DOCUMENTO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 3742474397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CONTINGENCIA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action CONTINGENCIA DTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 494876617 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>send to contingency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action Contingency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 4086892735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cargar Sello</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action DTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 4086892735 - Method 1377591017 - NamedType 3232931064" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No log found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action DTE - Method OnAction - NamedType NOT_FOUND</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 4086892735 - Method 1377591017 - NamedType 1303908749" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message: \%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action DTE - Method OnAction - NamedType DEFAULT</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 574935307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action View Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 1452106773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Secondary Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action View Secondary Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 4000661843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action ViewLog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 4000661843 - Method 1377591017 - NamedType 3232931064" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No log found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action ViewLog - Method OnAction - NamedType NOT_FOUND</note>
+        </trans-unit>
+        <trans-unit id="Page 152574927 - Action 4000661843 - Method 1377591017 - NamedType 1303908749" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message: \%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DTE Transaction Temp - Action ViewLog - Method OnAction - NamedType DEFAULT</note>
+        </trans-unit>
+        <trans-unit id="Page 2632164628 - Control 746890495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Correction DTE - Control Dte - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632164628 - Control 4105363884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Correction DTE - Control Set Current-Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632164628 - Control 539212206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Codigo Generacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Correction DTE - Control Current-Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632164628 - Control 4132828004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sello Validacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Correction DTE - Control Current-Description2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632164628 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ajuste DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Correction DTE - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632164628 - Control 827934522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. :</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Correction DTE - Control Menu ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632164628 - Control 3758099827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo Movimiento:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Correction DTE - Control Post Parameter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632164628 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modificar DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Correction DTE - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3059060271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN DTE Transaction Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN DTE Transaction Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3516122247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Get Post Doc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2787962478 - Control 766246189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3869210377">
+          <source>Certificar DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Document Type Card PageExt - Control DTE Certify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2787962478 - Control 3206351104 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3869210377">
+          <source>Serie DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Document Type Card PageExt - Control DTE Serie No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1909232497 - Control 3386214097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3491148509">
+          <source>DTE Active Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN DTE CustomerCardExt - Control DTE Active Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1909232497 - Control 2660525303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3491148509">
+          <source>DTE Activity Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN DTE CustomerCardExt - Control DTE Activity Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1909232497 - Control 2928371823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3491148509">
+          <source>DTE Tax ID Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN DTE CustomerCardExt - Control DTE Tax ID Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4150415221 - Control 2130578943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1257057922">
+          <source>FSN Bienes Afectos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Post Sales Cr. Mem Subform - Control FSN Base Affect - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 761628333 - Action 4086892735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2854365759">
+          <source>Ajustar DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Posted P. Credit Memo - Action DTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3561707831 - Action 4086892735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4048657685">
+          <source>Ajustar DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Posted P. Invoice - Action DTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1706593893 - Action 4086892735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2220841496">
+          <source>Ajustar DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Retail P. Sales Invoice - Action DTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 517634384 - Control 2130578943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1056066689">
+          <source>FSN Bienes Afectos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Cr. Memo Subform - Control FSN Base Affect - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1407610560 - NamedType 591702370" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1407610560">
+          <source>Numero de documento %1 es Credito Fiscal, cambie el sub tipo documento a Nota de Credito</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Credit Memo - NamedType TXTV000</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1407610560 - NamedType 4248973049" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1407610560">
+          <source>Numero de documento %1 es Factura Consumidor Final, cambie el sub tipo documento, no puede ser tipo Nota de Credito</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Credit Memo - NamedType TXTV001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1407610560 - NamedType 3611276432" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1407610560">
+          <source>El Numero de documento %1 no se encuentra certificado en DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Credit Memo - NamedType TXTV002</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1407610560 - Action 1139653482 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1708100201">
+          <source>Revertir Factura</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Credit Memo - Action TEST - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1407610560 - Action 1139653482 - Method 1377591017 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1407610560">
+          <source>¿Desea continuar con la carga del documento N.º %1?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Credit Memo - Action TEST - Method OnAction - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1407610560 - Action 1139653482 - Method 1377591017 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1407610560">
+          <source>ya se encuentra un documento cargado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Credit Memo - Action TEST - Method OnAction - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1407610560 - Action 1139653482 - Method 1377591017 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1407610560">
+          <source>Tipo documento no esta configurado para certifcar DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Credit Memo - Action TEST - Method OnAction - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1407610560 - Control 171455946 - Method 2126772001 - NamedType 3486465621" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1407610560">
+          <source>No puede modificar el documento con Sub tipo activo para DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Credit Memo - Control DTE AuthNumber - Method OnValidate - NamedType TEXTV00</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1407610560 - Control 1123328280 - Method 2126772001 - NamedType 3486465621" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1407610560">
+          <source>No puede modificar el documento con Sub tipo activo para DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Credit Memo - Control DTE Invoice - Method OnValidate - NamedType TEXTV00</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1407610560 - Control 2128094833 - Method 2126772001 - NamedType 3486465621" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1407610560">
+          <source>No puede modificar el documento con Sub tipo activo para DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Credit Memo - Control Signature Validation - Method OnValidate - NamedType TEXTV00</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1330255766 - Control 39415292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source>Cod. Almacen</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN Sales Invoice - Control LocationCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3613627471 - Action 1449394399 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3911391378">
+          <source>Generate VAT Ledger</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN VAT Ledger - Action GenerateVATLedger - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3613627471 - Action 1449394399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3911391378">
+          <source>FSN Generate VAT Ledger</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN VAT Ledger - Action GenerateVATLedger - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3613627471 - Control 171455946 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3911391378">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN VAT Ledger - Control DTE AuthNumber - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3613627471 - Control 171455946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3911391378">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN VAT Ledger - Control DTE AuthNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3613627471 - Control 1123328280 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3911391378">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN VAT Ledger - Control DTE Invoice - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3613627471 - Control 1123328280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3911391378">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN VAT Ledger - Control DTE Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3613627471 - Control 2128094833 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3911391378">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN VAT Ledger - Control Signature Validation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3613627471 - Control 2128094833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3911391378">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN VAT Ledger - Control Signature Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3613627471 - Control 3522378736 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3911391378">
+          <source>Terminal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN VAT Ledger - Control Terminal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3613627471 - Control 3522378736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3911391378">
+          <source>Terminal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FSN VAT Ledger - Control Terminal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2716593954 - Action 4086892735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2716593954">
+          <source>Ajustar DTE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Posted Sales Credit Memo - Action DTE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2481844657 - Method 4006290696 - NamedType 4034540392" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2481844657">
+          <source>Error al generar remision electronica.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Posted Transfer Receipt Ext - Method SendDTEReception - NamedType TEXT001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2481844657 - Method 4006290696 - NamedType 377269713" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2481844657">
+          <source>No se encuentra numero de serie %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Posted Transfer Receipt Ext - Method SendDTEReception - NamedType TEXT002</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2481844657 - Method 4006290696 - NamedType 1014966330" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2481844657">
+          <source>Procesando DTE, Espere.......</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Posted Transfer Receipt Ext - Method SendDTEReception - NamedType TEXT003</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2481844657 - Method 4006290696 - NamedType 1652662947" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2481844657">
+          <source>Recepcion transferencia %1 Certificada</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Posted Transfer Receipt Ext - Method SendDTEReception - NamedType TEXT004</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2481844657 - Method 4006290696 - NamedType 2290359564" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2481844657">
+          <source>Configuracion DTE Store y DTE Terminal no existe para la tienda %1 en FSN FASANI Setup \ \ Transferencia %2 No Certificada.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Posted Transfer Receipt Ext - Method SendDTEReception - NamedType TEXT005</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2481844657 - Method 4006290696 - NamedType 2928056181" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2481844657">
+          <source>Configuracion DTE no existe para la tienda %1 en FSN FASANI Setup \ \ Transferencia %2 No Certificada.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Posted Transfer Receipt Ext - Method SendDTEReception - NamedType TEXT006</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2481844657 - Action 2913496515 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2714855698">
+          <source>FSN Certificar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Posted Transfer Receipt Ext - Action CertifitTransfer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2481844657 - Action 2913496515 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2714855698">
+          <source>FSN Certificar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Posted Transfer Receipt Ext - Action CertifitTransfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2481844657 - Control 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2714855698">
+          <source>Nº documento externo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Posted Transfer Receipt Ext - Control External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2481844657 - Control 2982506555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2714855698">
+          <source>Estado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Posted Transfer Receipt Ext - Control StatusCertificate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2613322947 - Field 766246189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4194062213">
+          <source>DTE Certify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Document Tpe TableExt - Field DTE Certify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2613322947 - Field 3206351104 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4194062213">
+          <source>DTE Serie No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Document Tpe TableExt - Field DTE Serie No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3731584097 - Field 2017959478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 73420866">
+          <source>DTE Store</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Fasani Setup Ext - Field DTE Store - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3731584097 - Field 3425100291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 73420866">
+          <source>DTE Terminal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Fasani Setup Ext - Field DTE Terminal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3151486059 - Field 171455946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 370652142">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Legal Ledger Entry - Field DTE AuthNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3151486059 - Field 1123328280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 370652142">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Legal Ledger Entry - Field DTE Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3151486059 - Field 2128094833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 370652142">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Legal Ledger Entry - Field Signature Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1689913255 - Field 171455946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Cr.Memo Header - Field DTE AuthNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1689913255 - Field 1123328280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Cr.Memo Header - Field DTE Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1689913255 - Field 119551825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953">
+          <source>FSN Withholding Tax Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Cr.Memo Header - Field FSN Withholding Tax Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1689913255 - Field 2128094833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Cr.Memo Header - Field Signature Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1497179963 - Field 171455946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Inv Header - Field DTE AuthNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1497179963 - Field 1123328280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Inv Header - Field DTE Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1497179963 - Field 119551825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974">
+          <source>FSN Withholding Tax Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Inv Header - Field FSN Withholding Tax Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1497179963 - Field 2128094833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Inv Header - Field Signature Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1280071664 - Field 171455946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1052755578">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Receipt Header - Field DTE AuthNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1280071664 - Field 1123328280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1052755578">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Receipt Header - Field DTE Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1280071664 - Field 119551825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1052755578">
+          <source>FSN Withholding Tax Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Receipt Header - Field FSN Withholding Tax Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1280071664 - Field 2522112012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1052755578">
+          <source>No. Credit Memo Associated</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Receipt Header - Field No. Credit Memo Associated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1280071664 - Field 2128094833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1052755578">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Purch Receipt Header - Field Signature Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2952277627 - Field 171455946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Cr.Memo Header - Field DTE AuthNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2952277627 - Field 1123328280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Cr.Memo Header - Field DTE Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2952277627 - Field 2128094833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Cr.Memo Header - Field Signature Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2005982836 - Field 2130578943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>FSN Base Affect</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Cr.Memo Line - Field FSN Base Affect - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2973294008 - Field 171455946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Header - Field DTE AuthNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2973294008 - Field 1123328280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Header - Field DTE Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2973294008 - Field 1521604501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>FSN Internal Control</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Header - Field FSN Internal Control - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2973294008 - Field 2128094833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Header - Field Signature Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 831389047 - Field 171455946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Invoice Header - Field DTE AuthNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 831389047 - Field 1123328280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Invoice Header - Field DTE Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 831389047 - Field 1521604501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>FSN Internal Control</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Invoice Header - Field FSN Internal Control - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 831389047 - Field 2128094833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Invoice Header - Field Signature Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 921900031 - Field 2130578943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>FSN Base Affect</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Line - Field FSN Base Affect - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 921900031 - Field 2130578943 - Method 2126772001 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 921900031">
+          <source>El Sub Tipo no esta creado en FSN parametro</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Line - Field FSN Base Affect - Method OnValidate - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 921900031 - Field 2695963746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>FSN fac No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Line - Field FSN fac No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 921900031 - Field 956580064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>FSN Line No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN Sales Line - Field FSN Line No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3613627471 - Field 171455946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3911391378">
+          <source>DTE AuthNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN VAT Ledger - Field DTE AuthNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3613627471 - Field 1123328280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3911391378">
+          <source>DTE Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN VAT Ledger - Field DTE Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3613627471 - Field 2128094833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3911391378">
+          <source>Signature Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FSN VAT Ledger - Field Signature Validation - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
