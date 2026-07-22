@@ -1,10 +1,10 @@
-report 50005 "FSN Full Replen. By Location"
+report 50051 "FSN Full Replen. By Loc. Sala"
 {
     ApplicationArea = All;
     UsageCategory = Administration;
     DefaultLayout = RDLC;
-    Caption = 'FSN Full Replen. By Location';
-    RDLCLayout = 'src\Report\Layout\ReplenishmentQtyByLocation.rdl';
+    Caption = 'FSN Full Replen. By Location Sala';
+    RDLCLayout = 'src\Report\Layout\ReplenishmentQtyByLocationSala.rdl';
     PreviewMode = Normal;
 
     dataset
@@ -115,7 +115,7 @@ report 50005 "FSN Full Replen. By Location"
                         if IsRobotItem then begin
                             QuantityOut := QuantityPurch;
                             UnitCostOut := UnitCost;
-                            CostAmountOut := JrnLine."Cost Amount";
+                            CostAmountOut := QuantityPurch * UnitCost;
                         end else begin
                             QuantityOut := 0;
                             UnitCostOut := 0;
@@ -131,7 +131,7 @@ report 50005 "FSN Full Replen. By Location"
                         end else begin
                             QuantityOut := QuantityPurch;
                             UnitCostOut := UnitCost;
-                            CostAmountOut := JrnLine."Cost Amount";
+                            CostAmountOut := QuantityPurch * UnitCost;
                         end;
                     end;
                 end;
@@ -173,11 +173,11 @@ report 50005 "FSN Full Replen. By Location"
                 //Replen_Jrnl_Details.Quantity := Replen_Jrnl_Details.Quantity * itemUOM."Qty. per Unit of Measure";
 
 
-                IF Consolidated_No = '' THEN BEGIN
-                    if ReplenTemp_g.Get(Replen_Jrnl_Details."Replenishment Template Code") then
+                if ReplenTemp_g.Get(Replen_Jrnl_Details."Replenishment Template Code") then
+                    IF Consolidated_No = '' THEN
                         if ReplenTemp_g."FSN Consolidate No." <> '' then
                             Consolidated_No := ReplenTemp_g."FSN Consolidate No.";
-                END;
+
                 ItemVend.Reset();
                 ItemVend.SetRange("Item No.", Replen_Jrnl_Details."Item No.");
                 ItemVend.SetRange("Vendor No.", JrnLine."Vendor No.");

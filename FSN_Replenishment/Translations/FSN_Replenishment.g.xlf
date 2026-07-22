@@ -953,6 +953,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page FSN Replen. Template List - Action Delete Zero Lines - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 1890787480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Full Replen. By Location Sala</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FSN Full Replen. By Loc. Sala - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Report 102856628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>FSN Full Replen. By Location</source>
           <note from="Developer" annotates="general" priority="2"></note>
