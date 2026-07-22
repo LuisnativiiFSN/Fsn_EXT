@@ -130,7 +130,7 @@ page 50119 "FSN Correction DTE"
     var
         myInt: Integer;
     begin
-        Rec := GPosMenuLine;
+            
         Rec.Insert();
     end;
 
