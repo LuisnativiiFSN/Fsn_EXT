@@ -117,10 +117,15 @@ page 50044 "FSN Replen. By Location"
                     trigger OnAction()
                     var
                         ReportJrnDetails: Record "LSC Replen. Jrnl. Details";
+                        ReplenTemplate: Record "LSC Replen. Template";
                     begin
                         ReportJrnDetails.RESET;
                         ReportJrnDetails.SETRANGE("Replenishment Template Code", "Replenishment Template Code");
-                        REPORT.RUNMODAL(50005, TRUE, FALSE, ReportJrnDetails);
+                        ReplenTemplate.Get("Replenishment Template Code");
+                        if IsSalaReplenReport(ReplenTemplate) then
+                            REPORT.RUNMODAL(REPORT::"FSN Full Replen. By Loc. Sala", TRUE, FALSE, ReportJrnDetails)
+                        else
+                            REPORT.RUNMODAL(REPORT::"FSN Full Replen. By Location", TRUE, FALSE, ReportJrnDetails);
                         //ShowFilters
                     end;
                 }
@@ -272,6 +277,14 @@ page 50044 "FSN Replen. By Location"
 
         CurrPage.MatrixSubPage.PAGE.Load(MATRIX_CaptionSet, MatrixRecords, MatrixRecord);
         CurrPage.UPDATE;
+    end;
+
+    local procedure IsSalaReplenReport(ReplenTemplate: Record "LSC Replen. Template"): Boolean
+    begin
+        exit(
+            (UpperCase(ReplenTemplate."Location Code") <> 'CD') and
+            (ReplenTemplate."Replenishment Type" = ReplenTemplate."Replenishment Type"::Purchase) and
+            (ReplenTemplate."Purchase Order Type" = ReplenTemplate."Purchase Order Type"::"Purchase Orders for Receiving Locations"));
     end;
 
     procedure CustomGenerateMatrixData(var RecRef: RecordRef; SetWanted: Option Initial,Previous,Same,Next,PreviousColumn,NextColumn; MaximumSetLength: Integer; CaptionFieldNo: Integer; var PKFirstRecInCurrSet: Text[1024]; var CaptionSet: array[32] of Text[1024]; var CaptionRange: Text[1024]; var CurrSetLength: Integer)
