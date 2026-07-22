@@ -2144,15 +2144,17 @@ codeunit 50051 "DTE Validate Transaction"
     begin
         if (SalesCrMemoHeader.Get(Rec."Document No.")) then begin
             if Parameter.Get('SUBTYPE', SalesCrMemoHeader."Sub Type") THEN BEGIN
-                BaseAff := 0;
-                SalesCrMemoLine.Reset();
-                SalesCrMemoLine.SetCurrentKey("Document No.", "Line No.");
-                SalesCrMemoLine.SetRange("Document No.", Rec."Document No.");
-                if SalesCrMemoLine.Find('-') then
-                    repeat
-                        BaseAff := BaseAff + SalesCrMemoLine."FSN Base Affect";
-                    until SalesCrMemoLine.Next() = 0;
-                Rec."Base Affect Goods" := BaseAff;
+                IF Parameter.Activo THEN BEGIN
+                    BaseAff := 0;
+                    SalesCrMemoLine.Reset();
+                    SalesCrMemoLine.SetCurrentKey("Document No.", "Line No.");
+                    SalesCrMemoLine.SetRange("Document No.", Rec."Document No.");
+                    if SalesCrMemoLine.Find('-') then
+                        repeat
+                            BaseAff := BaseAff + SalesCrMemoLine."FSN Base Affect";
+                        until SalesCrMemoLine.Next() = 0;
+                    Rec."Base Affect Goods" := BaseAff;
+                END;
             END;
         end;
     end;
@@ -2167,11 +2169,19 @@ codeunit 50051 "DTE Validate Transaction"
     var
         SalesLine: Record "Sales Line";
         Parameter: Record "FSN Parameter";
+        POSSESSION: Codeunit "LSC POS Session";
     begin
+
+        IF POSSESSION.GetValue('FSNPREVIEW') = 'FALSE' THEN BEGIN
+            POSSESSION.SetValue('FSNPREVIEW', '');
+            EXIT;
+        END;
+
         Parameter.Reset();
         Parameter.SetCurrentKey(Grupo, Codigo);
         Parameter.SetRange(Grupo, 'SUBTYPE');
         Parameter.SetRange(Codigo, Rec."Sub Type");
+        Parameter.SetRange(Activo, true);
         IF not Parameter.FindFirst() then begin
             SalesLine.Reset();
             SalesLine.SetRange("Document No.", Rec."No.");
@@ -2183,6 +2193,16 @@ codeunit 50051 "DTE Validate Transaction"
                 until SalesLine.Next() = 0;
         end;
     end;
+
+
+    [EventSubscriber(ObjectType::Page, Page::"Sales Invoice", 'OnBeforeShowPreview', '', true, true)]
+    local procedure "Sales Invoice_OnBeforeShowPreview"(var SalesHeader: Record "Sales Header")
+    var
+        POSSESSION: Codeunit "LSC POS Session";
+    begin
+        POSSESSION.SetValue('FSNPREVIEW', 'FALSE');
+    end;
+
 
     procedure ValBeneficiary(posTransac: Record "LSC POS Transaction")
     var
