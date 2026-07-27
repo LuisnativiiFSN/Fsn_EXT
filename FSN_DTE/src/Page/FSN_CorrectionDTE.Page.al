@@ -362,52 +362,140 @@ page 50119 "FSN Correction DTE"
     local procedure ModifySalesCreditMemo()
     var
         SalesCrMemoHeader: Record "Sales Cr.Memo Header";
+        DTEFieldsChanged: Boolean;
+        NewExternalDocNo: Code[35];
     begin
         if SalesCrMemoHeader.Get(Rec."Menu ID") then begin
             if ValSalesCred() then
                 exit;
+
+            DTEFieldsChanged :=
+                (SalesCrMemoHeader."DTE Invoice" <> Rec."Set Current-Input") or
+                (SalesCrMemoHeader."DTE AuthNumber" <> Rec."Current-Description") or
+                (SalesCrMemoHeader."Signature Validation" <> Rec."Current-Description2");
+
             SalesCrMemoHeader.Validate("DTE Invoice", Rec."Set Current-Input");
             SalesCrMemoHeader.Validate("DTE AuthNumber", Rec."Current-Description");
             SalesCrMemoHeader.Validate("Signature Validation", Rec."Current-Description2");
-            SalesCrMemoHeader."External Document No." := Rec."Set Current-Input";
+
+            if DTEFieldsChanged then begin
+                NewExternalDocNo := GetUniqueSalesCrMemoExternalDocNo(Rec."Set Current-Input", SalesCrMemoHeader."Posting Date", SalesCrMemoHeader."No.");
+                SalesCrMemoHeader.Validate("External Document No.", NewExternalDocNo);
+                UpdateSalesCrMemoRelatedExternalDocNo(SalesCrMemoHeader."No.", NewExternalDocNo);
+                Message(
+                    'DTE abreviado actualizado en External Document No. Documento=%1, nuevo valor=%2.',
+                    SalesCrMemoHeader."No.",
+                    NewExternalDocNo);
+            end else
+                Message('DTE abreviado no se actualizo porque no hubo cambios en DTE Invoice, Codigo Generacion ni Sello Validacion.');
+
             SalesCrMemoHeader.Modify();
-            Message('DTE de Nota de Crédito de Venta actualizado correctamente.');
+            Message('DTE de Nota de Credito de Venta actualizado correctamente.');
         end else
-            Error('No se encontró la Nota de Crédito de Venta con No. %1', Rec."Menu ID");
+            Error('No se encontro la Nota de Credito de Venta con No. %1', Rec."Menu ID");
     end;
 
     local procedure ValSalesCred(): Boolean
     var
+        SalesCrMemoHeader: Record "Sales Cr.Memo Header";
+        CurrentSalesCrMemoHeader: Record "Sales Cr.Memo Header";
         DTEInvoce: Boolean;
         DTEAuthNum: Boolean;
         SigVal: Boolean;
-        SalesCrMemoHeader: Record "Sales Cr.Memo Header";
+        SuggestedExternalDocNo: Code[35];
     begin
+        if not CurrentSalesCrMemoHeader.Get(Rec."Menu ID") then begin
+            Message('DEBUG NC Venta: no se encontro la nota de credito actual %1 para validar.', Rec."Menu ID");
+            exit(true);
+        end;
+
+        Message(
+            'DEBUG NC Venta: Documento=%1, Fecha registro=%2, External Document No. actual=%3.',
+            Rec."Menu ID",
+            CurrentSalesCrMemoHeader."Posting Date",
+            CurrentSalesCrMemoHeader."External Document No.");
+
+        Message(
+            'DATOS ACTUALES: DTE Invoice=%1, Codigo Generacion=%2, Sello Validacion=%3.',
+            CurrentSalesCrMemoHeader."DTE Invoice",
+            CurrentSalesCrMemoHeader."DTE AuthNumber",
+            CurrentSalesCrMemoHeader."Signature Validation");
+
+        Message(
+            'DATOS INGRESADOS: DTE Invoice=%1, Codigo Generacion=%2, Sello Validacion=%3.',
+            Rec."Set Current-Input",
+            Rec."Current-Description",
+            Rec."Current-Description2");
+
+        if (CurrentSalesCrMemoHeader."DTE Invoice" = Rec."Set Current-Input") and
+           (CurrentSalesCrMemoHeader."DTE AuthNumber" = Rec."Current-Description") and
+           (CurrentSalesCrMemoHeader."Signature Validation" = Rec."Current-Description2")
+        then
+            Message('INFO: los datos ingresados son iguales a los datos actuales de la nota de credito de venta %1.', Rec."Menu ID");
+
         SalesCrMemoHeader.Reset();
-        SalesCrMemoHeader.SetRange("DTE Invoice", Rec."Set Current-Input");
-        if SalesCrMemoHeader.FindFirst() then begin
-            if SalesCrMemoHeader."No." <> Rec."Menu ID" then begin
+        if Rec."Set Current-Input" <> '' then begin
+            SalesCrMemoHeader.SetRange("DTE Invoice", Rec."Set Current-Input");
+            SalesCrMemoHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+            if SalesCrMemoHeader.FindFirst() then begin
                 DTEInvoce := true;
-                Message('El DTE Invoice %1 ya existe en la Nota de Crédito de Venta No. %2', Rec."Set Current-Input", SalesCrMemoHeader."No.");
-            end;
-        end;
+                Message(
+                    'VALIDACION FALLIDA: el DTE Invoice %1 ya existe en la Nota de Credito de Venta No. %2.',
+                    Rec."Set Current-Input",
+                    SalesCrMemoHeader."No.");
+            end else
+                Message('VALIDACION OK: no existe otro DTE Invoice %1 en notas de credito de venta.', Rec."Set Current-Input");
+        end else
+            Message('VALIDACION OMITIDA: DTE Invoice viene vacio.');
+
         SalesCrMemoHeader.Reset();
-        SalesCrMemoHeader.SetRange("DTE AuthNumber", Rec."Current-Description");
-        if SalesCrMemoHeader.FindFirst() then begin
-            if SalesCrMemoHeader."No." <> Rec."Menu ID" then begin
+        if Rec."Current-Description" <> '' then begin
+            SalesCrMemoHeader.SetRange("DTE AuthNumber", Rec."Current-Description");
+            SalesCrMemoHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+            if SalesCrMemoHeader.FindFirst() then begin
                 DTEAuthNum := true;
-                Message('El DTE AuthNumber %1 ya existe en la Nota de Crédito de Venta No. %2', Rec."Current-Description", SalesCrMemoHeader."No.");
-            end;
-        end;
+                Message(
+                    'VALIDACION FALLIDA: el Codigo Generacion %1 ya existe en la Nota de Credito de Venta No. %2.',
+                    Rec."Current-Description",
+                    SalesCrMemoHeader."No.");
+            end else
+                Message('VALIDACION OK: no existe otro Codigo Generacion %1 en notas de credito de venta.', Rec."Current-Description");
+        end else
+            Message('VALIDACION OMITIDA: Codigo Generacion viene vacio.');
+
         SalesCrMemoHeader.Reset();
-        SalesCrMemoHeader.SetRange("Signature Validation", Rec."Current-Description2");
-        if SalesCrMemoHeader.FindFirst() then begin
-            if SalesCrMemoHeader."No." <> Rec."Menu ID" then begin
+        if Rec."Current-Description2" <> '' then begin
+            SalesCrMemoHeader.SetRange("Signature Validation", Rec."Current-Description2");
+            SalesCrMemoHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+            if SalesCrMemoHeader.FindFirst() then begin
                 SigVal := true;
-                Message('El Signature Validation %1 ya existe en la Nota de Crédito de Venta No. %2', Rec."Current-Description2", SalesCrMemoHeader."No.");
-            end;
+                Message(
+                    'VALIDACION FALLIDA: el Sello Validacion %1 ya existe en la Nota de Credito de Venta No. %2.',
+                    Rec."Current-Description2",
+                    SalesCrMemoHeader."No.");
+            end else
+                Message('VALIDACION OK: no existe otro Sello Validacion %1 en notas de credito de venta.', Rec."Current-Description2");
+        end else
+            Message('VALIDACION OMITIDA: Sello Validacion viene vacio.');
+
+        if DTEInvoce or DTEAuthNum or SigVal then begin
+            Message(
+                'RESULTADO VALIDACION: NO se puede modificar. DTE Invoice duplicado=%1, Codigo Generacion duplicado=%2, Sello Validacion duplicado=%3.',
+                DTEInvoce,
+                DTEAuthNum,
+                SigVal);
+            exit(true);
         end;
-        exit(DTEInvoce or DTEAuthNum or SigVal);
+
+        Message('RESULTADO VALIDACION: OK, se puede modificar la Nota de Credito de Venta %1.', Rec."Menu ID");
+
+        SuggestedExternalDocNo := GetUniqueSalesCrMemoExternalDocNo(Rec."Set Current-Input", CurrentSalesCrMemoHeader."Posting Date", CurrentSalesCrMemoHeader."No.");
+        Message(
+            'DEBUG External Document No.: DTE Invoice nuevo=%1, abreviado unico sugerido=%2.',
+            Rec."Set Current-Input",
+            SuggestedExternalDocNo);
+
+        exit(false);
     end;
 
     // Update Purchase Credit Memo DTE fields
@@ -714,6 +802,123 @@ page 50119 "FSN Correction DTE"
         if CurrentDocumentNo <> '' then
             PurchInvHeader.SetFilter("No.", '<>%1', CurrentDocumentNo);
         exit(PurchInvHeader.FindFirst());
+    end;
+
+    local procedure GetUniqueSalesCrMemoExternalDocNo(DTEInvoice: Code[31]; ReferenceDate: Date; CurrentDocumentNo: Code[20]): Code[35]
+    var
+        ExternalDocNo: Code[35];
+        DTEType: Text[10];
+        ConsecutiveNo: Text[30];
+        ReferenceYear: Text[4];
+        FirstHyphenPos: Integer;
+        RelativeSecondHyphenPos: Integer;
+        SecondHyphenPos: Integer;
+        LastHyphenPos: Integer;
+    begin
+        if DTEInvoice = '' then
+            exit('');
+
+        FirstHyphenPos := StrPos(DTEInvoice, '-');
+        if FirstHyphenPos = 0 then
+            exit(CopyStr(DTEInvoice, 1, MaxStrLen(ExternalDocNo)));
+
+        RelativeSecondHyphenPos := StrPos(CopyStr(DTEInvoice, FirstHyphenPos + 1), '-');
+        if RelativeSecondHyphenPos = 0 then
+            exit(CopyStr(DTEInvoice, 1, MaxStrLen(ExternalDocNo)));
+
+        SecondHyphenPos := FirstHyphenPos + RelativeSecondHyphenPos;
+        LastHyphenPos := FindLastCharacterPosition(DTEInvoice, '-');
+        if LastHyphenPos = 0 then
+            exit(CopyStr(DTEInvoice, 1, MaxStrLen(ExternalDocNo)));
+
+        DTEType := DelChr(CopyStr(DTEInvoice, FirstHyphenPos + 1, SecondHyphenPos - FirstHyphenPos - 1), '<', '0');
+        if DTEType = '' then
+            DTEType := '0';
+
+        ConsecutiveNo := DelChr(CopyStr(DTEInvoice, LastHyphenPos + 1), '<', '0');
+        if ConsecutiveNo = '' then
+            ConsecutiveNo := '0';
+
+        if ReferenceDate = 0D then
+            ReferenceDate := WorkDate();
+
+        ReferenceYear := Format(Date2DMY(ReferenceDate, 3));
+        ExternalDocNo := CopyStr('DTE' + DTEType + '-' + CopyStr(ReferenceYear, 3, 2) + ConsecutiveNo, 1, MaxStrLen(ExternalDocNo));
+
+        Message('DEBUG External Document No. abreviado NC Venta: valor inicial generado=%1.', ExternalDocNo);
+
+        while SalesCrMemoExternalDocumentNoExists(ExternalDocNo, CurrentDocumentNo) do begin
+            Message('DEBUG External Document No. abreviado NC Venta: %1 ya existe. Se agregara un punto.', ExternalDocNo);
+
+            if StrLen(ExternalDocNo) >= MaxStrLen(ExternalDocNo) then
+                Error('No se pudo generar un External Document No. unico para %1 porque %2 ya alcanzo el largo maximo.', DTEInvoice, ExternalDocNo);
+
+            ExternalDocNo := CopyStr(ExternalDocNo + '.', 1, MaxStrLen(ExternalDocNo));
+        end;
+
+        Message('DEBUG External Document No. abreviado NC Venta: valor final unico=%1.', ExternalDocNo);
+
+        exit(ExternalDocNo);
+    end;
+
+    local procedure SalesCrMemoExternalDocumentNoExists(ExternalDocNo: Code[35]; CurrentDocumentNo: Code[20]): Boolean
+    var
+        SalesCrMemoHeader: Record "Sales Cr.Memo Header";
+    begin
+        SalesCrMemoHeader.Reset();
+        SalesCrMemoHeader.SetRange("External Document No.", ExternalDocNo);
+        if CurrentDocumentNo <> '' then
+            SalesCrMemoHeader.SetFilter("No.", '<>%1', CurrentDocumentNo);
+        exit(SalesCrMemoHeader.FindFirst());
+    end;
+
+    local procedure UpdateSalesCrMemoRelatedExternalDocNo(DocumentNo: Code[20]; NewExternalDocNo: Code[35])
+    var
+        CustLedgerEntry: Record "Cust. Ledger Entry";
+        GLEntry: Record "G/L Entry";
+        LegalLedgerEntry: Record "Legal Ledger Entry";
+        CustLedgerCount: Integer;
+        GLEntryCount: Integer;
+        LegalLedgerCount: Integer;
+    begin
+        CustLedgerEntry.Reset();
+        CustLedgerEntry.SetRange("Document Type", CustLedgerEntry."Document Type"::"Credit Memo");
+        CustLedgerEntry.SetRange("Document No.", DocumentNo);
+        if CustLedgerEntry.FindSet() then
+            repeat
+                CustLedgerEntry.Validate("External Document No.", NewExternalDocNo);
+                CustLedgerEntry.Modify();
+                CustLedgerCount += 1;
+            until CustLedgerEntry.Next() = 0;
+
+        GLEntry.Reset();
+        GLEntry.SetRange("Document Type", GLEntry."Document Type"::"Credit Memo");
+        GLEntry.SetRange("Source Code", 'VENTAS');
+        GLEntry.SetRange("Document No.", DocumentNo);
+        if GLEntry.FindSet() then
+            repeat
+                GLEntry.Validate("External Document No.", NewExternalDocNo);
+                GLEntry.Modify();
+                GLEntryCount += 1;
+            until GLEntry.Next() = 0;
+
+        LegalLedgerEntry.Reset();
+        LegalLedgerEntry.SetRange("Sub Type", 'NC-V');
+        LegalLedgerEntry.SetRange("No.", DocumentNo);
+        if LegalLedgerEntry.FindSet() then
+            repeat
+                LegalLedgerEntry.Validate("External Document No.", NewExternalDocNo);
+                LegalLedgerEntry.Modify();
+                LegalLedgerCount += 1;
+            until LegalLedgerEntry.Next() = 0;
+
+        Message(
+            'Tablas relacionadas actualizadas para %1 con External Document No.=%2. Cust. Ledger Entry=%3, G/L Entry=%4, Legal Ledger Entry=%5.',
+            DocumentNo,
+            NewExternalDocNo,
+            CustLedgerCount,
+            GLEntryCount,
+            LegalLedgerCount);
     end;
 
     local procedure FindLastCharacterPosition(Value: Text; Character: Text[1]): Integer
