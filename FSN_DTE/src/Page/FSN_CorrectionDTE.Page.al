@@ -194,10 +194,17 @@ page 50119 "FSN Correction DTE"
     var
         PurchInvHeader: Record "Purch. Inv. Header";
         PurchRecHeader: Record "Purch. Rcpt. Header";
+        DTEFieldsChanged: Boolean;
+        NewVendorInvoiceNo: Code[35];
     begin
         if PurchInvHeader.Get(Rec."Menu ID") then begin
             if ValPurchaseInvoice() then
                 exit;
+
+            DTEFieldsChanged :=
+                (PurchInvHeader."DTE Invoice" <> Rec."Set Current-Input") or
+                (PurchInvHeader."DTE AuthNumber" <> Rec."Current-Description") or
+                (PurchInvHeader."Signature Validation" <> Rec."Current-Description2");
 
             PurchRecHeader.Reset();
             PurchRecHeader.SetRange("DTE AuthNumber", PurchInvHeader."DTE AuthNumber");
@@ -211,47 +218,144 @@ page 50119 "FSN Correction DTE"
             PurchInvHeader.Validate("DTE Invoice", Rec."Set Current-Input");
             PurchInvHeader.Validate("DTE AuthNumber", Rec."Current-Description");
             PurchInvHeader.Validate("Signature Validation", Rec."Current-Description2");
-            PurchInvHeader."Vendor Invoice No." := Rec."Set Current-Input";
-            PurchInvHeader.Modify();
-            // Update related Receipt Header if exists
 
+            if DTEFieldsChanged then begin
+                NewVendorInvoiceNo := GetUniquePurchInvVendorInvoiceNo(Rec."Set Current-Input", PurchInvHeader."Posting Date", PurchInvHeader."Buy-from Vendor No.", PurchInvHeader."No.");
+                PurchInvHeader.Validate("Vendor Invoice No.", NewVendorInvoiceNo);
+                Message(
+                    'DTE abreviado actualizado en Vendor Invoice No. Documento=%1, nuevo valor=%2.',
+                    PurchInvHeader."No.",
+                    NewVendorInvoiceNo);
+            end else
+                Message('DTE abreviado no se actualizo porque no hubo cambios en DTE Invoice, Codigo Generacion ni Sello Validacion.');
+
+            PurchInvHeader.Modify();
             Message('DTE de Factura de Compra actualizado correctamente.');
         end else
-            Error('No se encontró la Factura de Compra con No. %1', Rec."Menu ID");
+            Error('No se encontro la Factura de Compra con No. %1', Rec."Menu ID");
     end;
 
     local procedure ValPurchaseInvoice(): Boolean
     var
         PurchInvHeader: Record "Purch. Inv. Header";
+        CurrentPurchInvHeader: Record "Purch. Inv. Header";
         DTEInvoce: Boolean;
         DTEAuthNum: Boolean;
         SigVal: Boolean;
+        PostingYear: Integer;
+        YearStart: Date;
+        YearEnd: Date;
+        SuggestedVendorInvoiceNo: Code[35];
     begin
+        if not CurrentPurchInvHeader.Get(Rec."Menu ID") then begin
+            Message('DEBUG Factura Compra: no se encontro la factura actual %1 para validar.', Rec."Menu ID");
+            exit(true);
+        end;
+
+        PostingYear := Date2DMY(CurrentPurchInvHeader."Posting Date", 3);
+        YearStart := DMY2Date(1, 1, PostingYear);
+        YearEnd := DMY2Date(31, 12, PostingYear);
+
+        Message(
+            'DEBUG Factura Compra: Documento=%1, Proveedor=%2, Fecha registro=%3, Anio=%4, Vendor Invoice No. actual=%5.',
+            Rec."Menu ID",
+            CurrentPurchInvHeader."Buy-from Vendor No.",
+            CurrentPurchInvHeader."Posting Date",
+            PostingYear,
+            CurrentPurchInvHeader."Vendor Invoice No.");
+
+        Message(
+            'DATOS ACTUALES: DTE Invoice=%1, Codigo Generacion=%2, Sello Validacion=%3.',
+            CurrentPurchInvHeader."DTE Invoice",
+            CurrentPurchInvHeader."DTE AuthNumber",
+            CurrentPurchInvHeader."Signature Validation");
+
+        Message(
+            'DATOS INGRESADOS: DTE Invoice=%1, Codigo Generacion=%2, Sello Validacion=%3.',
+            Rec."Set Current-Input",
+            Rec."Current-Description",
+            Rec."Current-Description2");
+
+        if (CurrentPurchInvHeader."DTE Invoice" = Rec."Set Current-Input") and
+           (CurrentPurchInvHeader."DTE AuthNumber" = Rec."Current-Description") and
+           (CurrentPurchInvHeader."Signature Validation" = Rec."Current-Description2")
+        then
+            Message('INFO: los datos ingresados son iguales a los datos actuales de la factura %1.', Rec."Menu ID");
+
         PurchInvHeader.Reset();
-        PurchInvHeader.SetRange("DTE Invoice", Rec."Set Current-Input");
-        if PurchInvHeader.FindFirst() then begin
-            if PurchInvHeader."No." <> Rec."Menu ID" then begin
+        if Rec."Set Current-Input" <> '' then begin
+            PurchInvHeader.SetRange("DTE Invoice", Rec."Set Current-Input");
+            PurchInvHeader.SetRange("Buy-from Vendor No.", CurrentPurchInvHeader."Buy-from Vendor No.");
+            PurchInvHeader.SetRange("Posting Date", YearStart, YearEnd);
+            PurchInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+            if PurchInvHeader.FindFirst() then begin
                 DTEInvoce := true;
-                Message('El DTE Invoice %1 ya existe en la Factura de Compra No. %2', Rec."Set Current-Input", PurchInvHeader."No.");
-            end;
-        end;
+                Message(
+                    'VALIDACION FALLIDA: el DTE Invoice %1 ya existe para el proveedor %2 en el anio %3. Factura encontrada=%4, Vendor Invoice No.=%5, Fecha registro=%6.',
+                    Rec."Set Current-Input",
+                    CurrentPurchInvHeader."Buy-from Vendor No.",
+                    PostingYear,
+                    PurchInvHeader."No.",
+                    PurchInvHeader."Vendor Invoice No.",
+                    PurchInvHeader."Posting Date");
+            end else
+                Message(
+                    'VALIDACION OK: no existe otro DTE Invoice %1 para el proveedor %2 entre %3 y %4.',
+                    Rec."Set Current-Input",
+                    CurrentPurchInvHeader."Buy-from Vendor No.",
+                    YearStart,
+                    YearEnd);
+        end else
+            Message('VALIDACION OMITIDA: DTE Invoice viene vacio.');
+
         PurchInvHeader.Reset();
-        PurchInvHeader.SetRange("DTE AuthNumber", Rec."Current-Description");
-        if PurchInvHeader.FindFirst() then begin
-            if PurchInvHeader."No." <> Rec."Menu ID" then begin
+        if Rec."Current-Description" <> '' then begin
+            PurchInvHeader.SetRange("DTE AuthNumber", Rec."Current-Description");
+            PurchInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+            if PurchInvHeader.FindFirst() then begin
                 DTEAuthNum := true;
-                Message('El DTE AuthNumber %1 ya existe en la Factura de Compra No. %2', Rec."Current-Description", PurchInvHeader."No.");
-            end;
-        end;
+                Message(
+                    'VALIDACION FALLIDA: el Codigo Generacion %1 ya existe en la Factura de Compra No. %2.',
+                    Rec."Current-Description",
+                    PurchInvHeader."No.");
+            end else
+                Message('VALIDACION OK: no existe otro Codigo Generacion %1 en facturas de compra.', Rec."Current-Description");
+        end else
+            Message('VALIDACION OMITIDA: Codigo Generacion viene vacio.');
+
         PurchInvHeader.Reset();
-        PurchInvHeader.SetRange("Signature Validation", Rec."Current-Description2");
-        if PurchInvHeader.FindFirst() then begin
-            if PurchInvHeader."No." <> Rec."Menu ID" then begin
+        if Rec."Current-Description2" <> '' then begin
+            PurchInvHeader.SetRange("Signature Validation", Rec."Current-Description2");
+            PurchInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+            if PurchInvHeader.FindFirst() then begin
                 SigVal := true;
-                Message('El Signature Validation %1 ya existe en la Factura de Compra No. %2', Rec."Current-Description2", PurchInvHeader."No.");
-            end;
+                Message(
+                    'VALIDACION FALLIDA: el Sello Validacion %1 ya existe en la Factura de Compra No. %2.',
+                    Rec."Current-Description2",
+                    PurchInvHeader."No.");
+            end else
+                Message('VALIDACION OK: no existe otro Sello Validacion %1 en facturas de compra.', Rec."Current-Description2");
+        end else
+            Message('VALIDACION OMITIDA: Sello Validacion viene vacio.');
+
+        if DTEInvoce or DTEAuthNum or SigVal then begin
+            Message(
+                'RESULTADO VALIDACION: NO se puede modificar. DTE Invoice duplicado=%1, Codigo Generacion duplicado=%2, Sello Validacion duplicado=%3.',
+                DTEInvoce,
+                DTEAuthNum,
+                SigVal);
+            exit(true);
         end;
-        exit(DTEInvoce or DTEAuthNum or SigVal);
+
+        Message('RESULTADO VALIDACION: OK, se puede modificar la Factura de Compra %1.', Rec."Menu ID");
+
+        SuggestedVendorInvoiceNo := GetUniquePurchInvVendorInvoiceNo(Rec."Set Current-Input", CurrentPurchInvHeader."Posting Date", CurrentPurchInvHeader."Buy-from Vendor No.", CurrentPurchInvHeader."No.");
+        Message(
+            'DEBUG Vendor Invoice No.: DTE Invoice nuevo=%1, abreviado unico sugerido=%2.',
+            Rec."Set Current-Input",
+            SuggestedVendorInvoiceNo);
+
+        exit(false);
     end;
 
     // Update Sales Credit Memo DTE fields
@@ -541,6 +645,75 @@ page 50119 "FSN Correction DTE"
         VendorLedgerEntry.Reset();
         VendorLedgerEntry.SetRange("External Document No.", ExternalDocNo);
         exit(VendorLedgerEntry.FindFirst());
+    end;
+
+    local procedure GetUniquePurchInvVendorInvoiceNo(DTEInvoice: Code[31]; ReferenceDate: Date; VendorNo: Code[20]; CurrentDocumentNo: Code[20]): Code[35]
+    var
+        VendorInvoiceNo: Code[35];
+        DTEType: Text[10];
+        ConsecutiveNo: Text[30];
+        ReferenceYear: Text[4];
+        FirstHyphenPos: Integer;
+        RelativeSecondHyphenPos: Integer;
+        SecondHyphenPos: Integer;
+        LastHyphenPos: Integer;
+    begin
+        if DTEInvoice = '' then
+            exit('');
+
+        FirstHyphenPos := StrPos(DTEInvoice, '-');
+        if FirstHyphenPos = 0 then
+            exit(CopyStr(DTEInvoice, 1, MaxStrLen(VendorInvoiceNo)));
+
+        RelativeSecondHyphenPos := StrPos(CopyStr(DTEInvoice, FirstHyphenPos + 1), '-');
+        if RelativeSecondHyphenPos = 0 then
+            exit(CopyStr(DTEInvoice, 1, MaxStrLen(VendorInvoiceNo)));
+
+        SecondHyphenPos := FirstHyphenPos + RelativeSecondHyphenPos;
+        LastHyphenPos := FindLastCharacterPosition(DTEInvoice, '-');
+        if LastHyphenPos = 0 then
+            exit(CopyStr(DTEInvoice, 1, MaxStrLen(VendorInvoiceNo)));
+
+        DTEType := DelChr(CopyStr(DTEInvoice, FirstHyphenPos + 1, SecondHyphenPos - FirstHyphenPos - 1), '<', '0');
+        if DTEType = '' then
+            DTEType := '0';
+
+        ConsecutiveNo := DelChr(CopyStr(DTEInvoice, LastHyphenPos + 1), '<', '0');
+        if ConsecutiveNo = '' then
+            ConsecutiveNo := '0';
+
+        if ReferenceDate = 0D then
+            ReferenceDate := WorkDate();
+
+        ReferenceYear := Format(Date2DMY(ReferenceDate, 3));
+        VendorInvoiceNo := CopyStr('DTE' + DTEType + '-' + CopyStr(ReferenceYear, 3, 2) + ConsecutiveNo, 1, MaxStrLen(VendorInvoiceNo));
+
+        Message('DEBUG Vendor Invoice No. abreviado: valor inicial generado=%1.', VendorInvoiceNo);
+
+        while PurchInvVendorInvoiceNoExists(VendorInvoiceNo, VendorNo, CurrentDocumentNo) do begin
+            Message('DEBUG Vendor Invoice No. abreviado: %1 ya existe para el proveedor %2. Se agregara un punto.', VendorInvoiceNo, VendorNo);
+
+            if StrLen(VendorInvoiceNo) >= MaxStrLen(VendorInvoiceNo) then
+                Error('No se pudo generar un Vendor Invoice No. unico para %1 porque %2 ya alcanzo el largo maximo.', DTEInvoice, VendorInvoiceNo);
+
+            VendorInvoiceNo := CopyStr(VendorInvoiceNo + '.', 1, MaxStrLen(VendorInvoiceNo));
+        end;
+
+        Message('DEBUG Vendor Invoice No. abreviado: valor final unico=%1.', VendorInvoiceNo);
+
+        exit(VendorInvoiceNo);
+    end;
+
+    local procedure PurchInvVendorInvoiceNoExists(VendorInvoiceNo: Code[35]; VendorNo: Code[20]; CurrentDocumentNo: Code[20]): Boolean
+    var
+        PurchInvHeader: Record "Purch. Inv. Header";
+    begin
+        PurchInvHeader.Reset();
+        PurchInvHeader.SetRange("Vendor Invoice No.", VendorInvoiceNo);
+        PurchInvHeader.SetRange("Buy-from Vendor No.", VendorNo);
+        if CurrentDocumentNo <> '' then
+            PurchInvHeader.SetFilter("No.", '<>%1', CurrentDocumentNo);
+        exit(PurchInvHeader.FindFirst());
     end;
 
     local procedure FindLastCharacterPosition(Value: Text; Character: Text[1]): Integer
