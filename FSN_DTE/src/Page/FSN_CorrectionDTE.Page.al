@@ -138,15 +138,33 @@ page 50119 "FSN Correction DTE"
     var
         myInt: Integer;
         SalesInvHeader: Record "Sales Invoice Header";
+        DTEInvoiceChanged: Boolean;
+        DTEAuthChanged: Boolean;
+        SigValChanged: Boolean;
     begin
         if SalesInvHeader.Get(Rec."Menu ID") then begin
 
             if ValRegSalesInvoice() then
                 exit;
-            SalesInvHeader.Validate("DTE Invoice", Rec."Set Current-Input");
-            SalesInvHeader.Validate("DTE AuthNumber", Rec."Current-Description");
-            SalesInvHeader.Validate("Signature Validation", Rec."Current-Description2");
-            SalesInvHeader."External Document No." := Rec."Set Current-Input";
+
+            DTEInvoiceChanged := SalesInvHeader."DTE Invoice" <> Rec."Set Current-Input";
+            DTEAuthChanged := SalesInvHeader."DTE AuthNumber" <> Rec."Current-Description";
+            SigValChanged := SalesInvHeader."Signature Validation" <> Rec."Current-Description2";
+
+            if not (DTEInvoiceChanged or DTEAuthChanged or SigValChanged) then begin
+                Message('No hay cambios para modificar en la Factura de Venta %1.', SalesInvHeader."No.");
+                exit;
+            end;
+
+            if DTEInvoiceChanged then begin
+                SalesInvHeader.Validate("DTE Invoice", Rec."Set Current-Input");
+                SalesInvHeader."External Document No." := Rec."Set Current-Input";
+            end;
+            if DTEAuthChanged then
+                SalesInvHeader.Validate("DTE AuthNumber", Rec."Current-Description");
+            if SigValChanged then
+                SalesInvHeader.Validate("Signature Validation", Rec."Current-Description2");
+
             SalesInvHeader.Modify();
             Message('DTE de Factura de Venta actualizado correctamente.');
         end else
@@ -156,36 +174,65 @@ page 50119 "FSN Correction DTE"
     procedure ValRegSalesInvoice(): Boolean
     var
         SalesInvHeader: Record "Sales Invoice Header";
+        CurrentSalesInvHeader: Record "Sales Invoice Header";
         DTEInvoce: Boolean;
         DTEAuthNum: Boolean;
         SigVal: Boolean;
+        DTEInvoiceChanged: Boolean;
+        DTEAuthChanged: Boolean;
+        SigValChanged: Boolean;
     begin
-        SalesInvHeader.Reset();
-        SalesInvHeader.SetRange("DTE Invoice", Rec."Set Current-Input");
-        if SalesInvHeader.FindFirst() then begin
-            if SalesInvHeader."No." <> Rec."Menu ID" then begin
-                DTEInvoce := true;
-                Message('El DTE Invoice %1 ya existe en la Factura de Venta No. %2', Rec."Set Current-Input", SalesInvHeader."No.");
-            end;
+        if not CurrentSalesInvHeader.Get(Rec."Menu ID") then begin
+            Message('DEBUG Factura Venta: no se encontro la factura actual %1 para validar.', Rec."Menu ID");
+            exit(true);
         end;
 
-        SalesInvHeader.Reset();
-        SalesInvHeader.SetRange("DTE AuthNumber", Rec."Current-Description");
-        if SalesInvHeader.FindFirst() then begin
-            if SalesInvHeader."No." <> Rec."Menu ID" then begin
-                DTEAuthNum := true;
-                Message('El DTE AuthNumber %1 ya existe en la Factura de Venta No. %2', Rec."Current-Description", SalesInvHeader."No.");
-            end;
-        end;
+        DTEInvoiceChanged := CurrentSalesInvHeader."DTE Invoice" <> Rec."Set Current-Input";
+        DTEAuthChanged := CurrentSalesInvHeader."DTE AuthNumber" <> Rec."Current-Description";
+        SigValChanged := CurrentSalesInvHeader."Signature Validation" <> Rec."Current-Description2";
 
-        SalesInvHeader.Reset();
-        SalesInvHeader.SetRange("Signature Validation", Rec."Current-Description2");
-        if SalesInvHeader.FindFirst() then begin
-            if SalesInvHeader."No." <> Rec."Menu ID" then begin
-                SigVal := true;
-                Message('El Signature Validation %1 ya existe en la Factura de Venta No. %2', Rec."Current-Description2", SalesInvHeader."No.");
+        if DTEInvoiceChanged then begin
+            SalesInvHeader.Reset();
+            if Rec."Set Current-Input" <> '' then begin
+                SalesInvHeader.SetRange("DTE Invoice", Rec."Set Current-Input");
+                SalesInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if SalesInvHeader.FindFirst() then begin
+                    DTEInvoce := true;
+                    Message('El DTE Invoice %1 ya existe en la Factura de Venta No. %2', Rec."Set Current-Input", SalesInvHeader."No.");
+                end;
+            end else
+                Message('VALIDACION OMITIDA: DTE Invoice cambio a vacio.');
+        end else
+            Message('VALIDACION OMITIDA: DTE Invoice no cambio.');
+
+        if DTEAuthChanged then begin
+            SalesInvHeader.Reset();
+            if Rec."Current-Description" <> '' then begin
+                SalesInvHeader.SetRange("DTE AuthNumber", Rec."Current-Description");
+                SalesInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if SalesInvHeader.FindFirst() then begin
+                    DTEAuthNum := true;
+                    Message('El DTE AuthNumber %1 ya existe en la Factura de Venta No. %2', Rec."Current-Description", SalesInvHeader."No.");
+                end;
+            end else
+                Message('VALIDACION OMITIDA: Codigo Generacion cambio a vacio.');
+        end else
+            Message('VALIDACION OMITIDA: Codigo Generacion no cambio.');
+
+        if SigValChanged then begin
+            SalesInvHeader.Reset();
+            if Rec."Current-Description2" <> '' then begin
+                SalesInvHeader.SetRange("Signature Validation", Rec."Current-Description2");
+                SalesInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if SalesInvHeader.FindFirst() then begin
+                    SigVal := true;
+                    Message('El Signature Validation %1 ya existe en la Factura de Venta No. %2', Rec."Current-Description2", SalesInvHeader."No.");
+                end;
+            end else begin
+                Message('VALIDACION OMITIDA: Sello Validacion cambio a vacio.');
             end;
-        end;
+        end else
+            Message('VALIDACION OMITIDA: Sello Validacion no cambio.');
 
         exit(DTEInvoce or DTEAuthNum or SigVal);
     end;
@@ -194,32 +241,44 @@ page 50119 "FSN Correction DTE"
     var
         PurchInvHeader: Record "Purch. Inv. Header";
         PurchRecHeader: Record "Purch. Rcpt. Header";
-        DTEFieldsChanged: Boolean;
+        DTEInvoiceChanged: Boolean;
+        DTEAuthChanged: Boolean;
+        SigValChanged: Boolean;
         NewVendorInvoiceNo: Code[35];
     begin
         if PurchInvHeader.Get(Rec."Menu ID") then begin
             if ValPurchaseInvoice() then
                 exit;
 
-            DTEFieldsChanged :=
-                (PurchInvHeader."DTE Invoice" <> Rec."Set Current-Input") or
-                (PurchInvHeader."DTE AuthNumber" <> Rec."Current-Description") or
-                (PurchInvHeader."Signature Validation" <> Rec."Current-Description2");
+            DTEInvoiceChanged := PurchInvHeader."DTE Invoice" <> Rec."Set Current-Input";
+            DTEAuthChanged := PurchInvHeader."DTE AuthNumber" <> Rec."Current-Description";
+            SigValChanged := PurchInvHeader."Signature Validation" <> Rec."Current-Description2";
+
+            if not (DTEInvoiceChanged or DTEAuthChanged or SigValChanged) then begin
+                Message('No hay cambios para modificar en la Factura de Compra %1.', PurchInvHeader."No.");
+                exit;
+            end;
 
             PurchRecHeader.Reset();
             PurchRecHeader.SetRange("DTE AuthNumber", PurchInvHeader."DTE AuthNumber");
             if PurchRecHeader.FindFirst() then begin
-                PurchRecHeader.Validate("DTE Invoice", Rec."Set Current-Input");
-                PurchRecHeader.Validate("DTE AuthNumber", Rec."Current-Description");
-                PurchRecHeader.Validate("Signature Validation", Rec."Current-Description2");
+                if DTEInvoiceChanged then
+                    PurchRecHeader.Validate("DTE Invoice", Rec."Set Current-Input");
+                if DTEAuthChanged then
+                    PurchRecHeader.Validate("DTE AuthNumber", Rec."Current-Description");
+                if SigValChanged then
+                    PurchRecHeader.Validate("Signature Validation", Rec."Current-Description2");
                 PurchRecHeader.Modify();
             end;
 
-            PurchInvHeader.Validate("DTE Invoice", Rec."Set Current-Input");
-            PurchInvHeader.Validate("DTE AuthNumber", Rec."Current-Description");
-            PurchInvHeader.Validate("Signature Validation", Rec."Current-Description2");
+            if DTEInvoiceChanged then
+                PurchInvHeader.Validate("DTE Invoice", Rec."Set Current-Input");
+            if DTEAuthChanged then
+                PurchInvHeader.Validate("DTE AuthNumber", Rec."Current-Description");
+            if SigValChanged then
+                PurchInvHeader.Validate("Signature Validation", Rec."Current-Description2");
 
-            if DTEFieldsChanged then begin
+            if DTEInvoiceChanged then begin
                 NewVendorInvoiceNo := GetUniquePurchInvVendorInvoiceNo(Rec."Set Current-Input", PurchInvHeader."Posting Date", PurchInvHeader."Buy-from Vendor No.", PurchInvHeader."No.");
                 PurchInvHeader.Validate("Vendor Invoice No.", NewVendorInvoiceNo);
                 Message(
@@ -227,7 +286,7 @@ page 50119 "FSN Correction DTE"
                     PurchInvHeader."No.",
                     NewVendorInvoiceNo);
             end else
-                Message('DTE abreviado no se actualizo porque no hubo cambios en DTE Invoice, Codigo Generacion ni Sello Validacion.');
+                Message('DTE abreviado no se actualizo porque no cambio el DTE Invoice.');
 
             PurchInvHeader.Modify();
             Message('DTE de Factura de Compra actualizado correctamente.');
@@ -246,11 +305,18 @@ page 50119 "FSN Correction DTE"
         YearStart: Date;
         YearEnd: Date;
         SuggestedVendorInvoiceNo: Code[35];
+        DTEInvoiceChanged: Boolean;
+        DTEAuthChanged: Boolean;
+        SigValChanged: Boolean;
     begin
         if not CurrentPurchInvHeader.Get(Rec."Menu ID") then begin
             Message('DEBUG Factura Compra: no se encontro la factura actual %1 para validar.', Rec."Menu ID");
             exit(true);
         end;
+
+        DTEInvoiceChanged := CurrentPurchInvHeader."DTE Invoice" <> Rec."Set Current-Input";
+        DTEAuthChanged := CurrentPurchInvHeader."DTE AuthNumber" <> Rec."Current-Description";
+        SigValChanged := CurrentPurchInvHeader."Signature Validation" <> Rec."Current-Description2";
 
         PostingYear := Date2DMY(CurrentPurchInvHeader."Posting Date", 3);
         YearStart := DMY2Date(1, 1, PostingYear);
@@ -283,60 +349,69 @@ page 50119 "FSN Correction DTE"
             Message('INFO: los datos ingresados son iguales a los datos actuales de la factura %1.', Rec."Menu ID");
 
         PurchInvHeader.Reset();
-        if Rec."Set Current-Input" <> '' then begin
-            PurchInvHeader.SetRange("DTE Invoice", Rec."Set Current-Input");
-            PurchInvHeader.SetRange("Buy-from Vendor No.", CurrentPurchInvHeader."Buy-from Vendor No.");
-            PurchInvHeader.SetRange("Posting Date", YearStart, YearEnd);
-            PurchInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
-            if PurchInvHeader.FindFirst() then begin
-                DTEInvoce := true;
-                Message(
-                    'VALIDACION FALLIDA: el DTE Invoice %1 ya existe para el proveedor %2 en el anio %3. Factura encontrada=%4, Vendor Invoice No.=%5, Fecha registro=%6.',
-                    Rec."Set Current-Input",
-                    CurrentPurchInvHeader."Buy-from Vendor No.",
-                    PostingYear,
-                    PurchInvHeader."No.",
-                    PurchInvHeader."Vendor Invoice No.",
-                    PurchInvHeader."Posting Date");
+        if DTEInvoiceChanged then begin
+            if Rec."Set Current-Input" <> '' then begin
+                PurchInvHeader.SetRange("DTE Invoice", Rec."Set Current-Input");
+                PurchInvHeader.SetRange("Buy-from Vendor No.", CurrentPurchInvHeader."Buy-from Vendor No.");
+                PurchInvHeader.SetRange("Posting Date", YearStart, YearEnd);
+                PurchInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if PurchInvHeader.FindFirst() then begin
+                    DTEInvoce := true;
+                    Message(
+                        'VALIDACION FALLIDA: el DTE Invoice %1 ya existe para el proveedor %2 en el anio %3. Factura encontrada=%4, Vendor Invoice No.=%5, Fecha registro=%6.',
+                        Rec."Set Current-Input",
+                        CurrentPurchInvHeader."Buy-from Vendor No.",
+                        PostingYear,
+                        PurchInvHeader."No.",
+                        PurchInvHeader."Vendor Invoice No.",
+                        PurchInvHeader."Posting Date");
+                end else
+                    Message(
+                        'VALIDACION OK: no existe otro DTE Invoice %1 para el proveedor %2 entre %3 y %4.',
+                        Rec."Set Current-Input",
+                        CurrentPurchInvHeader."Buy-from Vendor No.",
+                        YearStart,
+                        YearEnd);
             end else
-                Message(
-                    'VALIDACION OK: no existe otro DTE Invoice %1 para el proveedor %2 entre %3 y %4.',
-                    Rec."Set Current-Input",
-                    CurrentPurchInvHeader."Buy-from Vendor No.",
-                    YearStart,
-                    YearEnd);
+                Message('VALIDACION OMITIDA: DTE Invoice cambio a vacio.');
         end else
-            Message('VALIDACION OMITIDA: DTE Invoice viene vacio.');
+            Message('VALIDACION OMITIDA: DTE Invoice no cambio.');
 
         PurchInvHeader.Reset();
-        if Rec."Current-Description" <> '' then begin
-            PurchInvHeader.SetRange("DTE AuthNumber", Rec."Current-Description");
-            PurchInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
-            if PurchInvHeader.FindFirst() then begin
-                DTEAuthNum := true;
-                Message(
-                    'VALIDACION FALLIDA: el Codigo Generacion %1 ya existe en la Factura de Compra No. %2.',
-                    Rec."Current-Description",
-                    PurchInvHeader."No.");
+        if DTEAuthChanged then begin
+            if Rec."Current-Description" <> '' then begin
+                PurchInvHeader.SetRange("DTE AuthNumber", Rec."Current-Description");
+                PurchInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if PurchInvHeader.FindFirst() then begin
+                    DTEAuthNum := true;
+                    Message(
+                        'VALIDACION FALLIDA: el Codigo Generacion %1 ya existe en la Factura de Compra No. %2.',
+                        Rec."Current-Description",
+                        PurchInvHeader."No.");
+                end else
+                    Message('VALIDACION OK: no existe otro Codigo Generacion %1 en facturas de compra.', Rec."Current-Description");
             end else
-                Message('VALIDACION OK: no existe otro Codigo Generacion %1 en facturas de compra.', Rec."Current-Description");
+                Message('VALIDACION OMITIDA: Codigo Generacion cambio a vacio.');
         end else
-            Message('VALIDACION OMITIDA: Codigo Generacion viene vacio.');
+            Message('VALIDACION OMITIDA: Codigo Generacion no cambio.');
 
         PurchInvHeader.Reset();
-        if Rec."Current-Description2" <> '' then begin
-            PurchInvHeader.SetRange("Signature Validation", Rec."Current-Description2");
-            PurchInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
-            if PurchInvHeader.FindFirst() then begin
-                SigVal := true;
-                Message(
-                    'VALIDACION FALLIDA: el Sello Validacion %1 ya existe en la Factura de Compra No. %2.',
-                    Rec."Current-Description2",
-                    PurchInvHeader."No.");
+        if SigValChanged then begin
+            if Rec."Current-Description2" <> '' then begin
+                PurchInvHeader.SetRange("Signature Validation", Rec."Current-Description2");
+                PurchInvHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if PurchInvHeader.FindFirst() then begin
+                    SigVal := true;
+                    Message(
+                        'VALIDACION FALLIDA: el Sello Validacion %1 ya existe en la Factura de Compra No. %2.',
+                        Rec."Current-Description2",
+                        PurchInvHeader."No.");
+                end else
+                    Message('VALIDACION OK: no existe otro Sello Validacion %1 en facturas de compra.', Rec."Current-Description2");
             end else
-                Message('VALIDACION OK: no existe otro Sello Validacion %1 en facturas de compra.', Rec."Current-Description2");
+                Message('VALIDACION OMITIDA: Sello Validacion cambio a vacio.');
         end else
-            Message('VALIDACION OMITIDA: Sello Validacion viene vacio.');
+            Message('VALIDACION OMITIDA: Sello Validacion no cambio.');
 
         if DTEInvoce or DTEAuthNum or SigVal then begin
             Message(
@@ -349,11 +424,13 @@ page 50119 "FSN Correction DTE"
 
         Message('RESULTADO VALIDACION: OK, se puede modificar la Factura de Compra %1.', Rec."Menu ID");
 
-        SuggestedVendorInvoiceNo := GetUniquePurchInvVendorInvoiceNo(Rec."Set Current-Input", CurrentPurchInvHeader."Posting Date", CurrentPurchInvHeader."Buy-from Vendor No.", CurrentPurchInvHeader."No.");
-        Message(
-            'DEBUG Vendor Invoice No.: DTE Invoice nuevo=%1, abreviado unico sugerido=%2.',
-            Rec."Set Current-Input",
-            SuggestedVendorInvoiceNo);
+        if DTEInvoiceChanged then begin
+            SuggestedVendorInvoiceNo := GetUniquePurchInvVendorInvoiceNo(Rec."Set Current-Input", CurrentPurchInvHeader."Posting Date", CurrentPurchInvHeader."Buy-from Vendor No.", CurrentPurchInvHeader."No.");
+            Message(
+                'DEBUG Vendor Invoice No.: DTE Invoice nuevo=%1, abreviado unico sugerido=%2.',
+                Rec."Set Current-Input",
+                SuggestedVendorInvoiceNo);
+        end;
 
         exit(false);
     end;
@@ -362,23 +439,32 @@ page 50119 "FSN Correction DTE"
     local procedure ModifySalesCreditMemo()
     var
         SalesCrMemoHeader: Record "Sales Cr.Memo Header";
-        DTEFieldsChanged: Boolean;
+        DTEInvoiceChanged: Boolean;
+        DTEAuthChanged: Boolean;
+        SigValChanged: Boolean;
         NewExternalDocNo: Code[35];
     begin
         if SalesCrMemoHeader.Get(Rec."Menu ID") then begin
             if ValSalesCred() then
                 exit;
 
-            DTEFieldsChanged :=
-                (SalesCrMemoHeader."DTE Invoice" <> Rec."Set Current-Input") or
-                (SalesCrMemoHeader."DTE AuthNumber" <> Rec."Current-Description") or
-                (SalesCrMemoHeader."Signature Validation" <> Rec."Current-Description2");
+            DTEInvoiceChanged := SalesCrMemoHeader."DTE Invoice" <> Rec."Set Current-Input";
+            DTEAuthChanged := SalesCrMemoHeader."DTE AuthNumber" <> Rec."Current-Description";
+            SigValChanged := SalesCrMemoHeader."Signature Validation" <> Rec."Current-Description2";
 
-            SalesCrMemoHeader.Validate("DTE Invoice", Rec."Set Current-Input");
-            SalesCrMemoHeader.Validate("DTE AuthNumber", Rec."Current-Description");
-            SalesCrMemoHeader.Validate("Signature Validation", Rec."Current-Description2");
+            if not (DTEInvoiceChanged or DTEAuthChanged or SigValChanged) then begin
+                Message('No hay cambios para modificar en la Nota de Credito de Venta %1.', SalesCrMemoHeader."No.");
+                exit;
+            end;
 
-            if DTEFieldsChanged then begin
+            if DTEInvoiceChanged then
+                SalesCrMemoHeader.Validate("DTE Invoice", Rec."Set Current-Input");
+            if DTEAuthChanged then
+                SalesCrMemoHeader.Validate("DTE AuthNumber", Rec."Current-Description");
+            if SigValChanged then
+                SalesCrMemoHeader.Validate("Signature Validation", Rec."Current-Description2");
+
+            if DTEInvoiceChanged then begin
                 NewExternalDocNo := GetUniqueSalesCrMemoExternalDocNo(Rec."Set Current-Input", SalesCrMemoHeader."Posting Date", SalesCrMemoHeader."No.");
                 SalesCrMemoHeader.Validate("External Document No.", NewExternalDocNo);
                 UpdateSalesCrMemoRelatedExternalDocNo(SalesCrMemoHeader."No.", NewExternalDocNo);
@@ -387,7 +473,7 @@ page 50119 "FSN Correction DTE"
                     SalesCrMemoHeader."No.",
                     NewExternalDocNo);
             end else
-                Message('DTE abreviado no se actualizo porque no hubo cambios en DTE Invoice, Codigo Generacion ni Sello Validacion.');
+                Message('DTE abreviado no se actualizo porque no cambio el DTE Invoice.');
 
             SalesCrMemoHeader.Modify();
             Message('DTE de Nota de Credito de Venta actualizado correctamente.');
@@ -403,11 +489,18 @@ page 50119 "FSN Correction DTE"
         DTEAuthNum: Boolean;
         SigVal: Boolean;
         SuggestedExternalDocNo: Code[35];
+        DTEInvoiceChanged: Boolean;
+        DTEAuthChanged: Boolean;
+        SigValChanged: Boolean;
     begin
         if not CurrentSalesCrMemoHeader.Get(Rec."Menu ID") then begin
             Message('DEBUG NC Venta: no se encontro la nota de credito actual %1 para validar.', Rec."Menu ID");
             exit(true);
         end;
+
+        DTEInvoiceChanged := CurrentSalesCrMemoHeader."DTE Invoice" <> Rec."Set Current-Input";
+        DTEAuthChanged := CurrentSalesCrMemoHeader."DTE AuthNumber" <> Rec."Current-Description";
+        SigValChanged := CurrentSalesCrMemoHeader."Signature Validation" <> Rec."Current-Description2";
 
         Message(
             'DEBUG NC Venta: Documento=%1, Fecha registro=%2, External Document No. actual=%3.',
@@ -434,49 +527,58 @@ page 50119 "FSN Correction DTE"
             Message('INFO: los datos ingresados son iguales a los datos actuales de la nota de credito de venta %1.', Rec."Menu ID");
 
         SalesCrMemoHeader.Reset();
-        if Rec."Set Current-Input" <> '' then begin
-            SalesCrMemoHeader.SetRange("DTE Invoice", Rec."Set Current-Input");
-            SalesCrMemoHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
-            if SalesCrMemoHeader.FindFirst() then begin
-                DTEInvoce := true;
-                Message(
-                    'VALIDACION FALLIDA: el DTE Invoice %1 ya existe en la Nota de Credito de Venta No. %2.',
-                    Rec."Set Current-Input",
-                    SalesCrMemoHeader."No.");
+        if DTEInvoiceChanged then begin
+            if Rec."Set Current-Input" <> '' then begin
+                SalesCrMemoHeader.SetRange("DTE Invoice", Rec."Set Current-Input");
+                SalesCrMemoHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if SalesCrMemoHeader.FindFirst() then begin
+                    DTEInvoce := true;
+                    Message(
+                        'VALIDACION FALLIDA: el DTE Invoice %1 ya existe en la Nota de Credito de Venta No. %2.',
+                        Rec."Set Current-Input",
+                        SalesCrMemoHeader."No.");
+                end else
+                    Message('VALIDACION OK: no existe otro DTE Invoice %1 en notas de credito de venta.', Rec."Set Current-Input");
             end else
-                Message('VALIDACION OK: no existe otro DTE Invoice %1 en notas de credito de venta.', Rec."Set Current-Input");
+                Message('VALIDACION OMITIDA: DTE Invoice cambio a vacio.');
         end else
-            Message('VALIDACION OMITIDA: DTE Invoice viene vacio.');
+            Message('VALIDACION OMITIDA: DTE Invoice no cambio.');
 
         SalesCrMemoHeader.Reset();
-        if Rec."Current-Description" <> '' then begin
-            SalesCrMemoHeader.SetRange("DTE AuthNumber", Rec."Current-Description");
-            SalesCrMemoHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
-            if SalesCrMemoHeader.FindFirst() then begin
-                DTEAuthNum := true;
-                Message(
-                    'VALIDACION FALLIDA: el Codigo Generacion %1 ya existe en la Nota de Credito de Venta No. %2.',
-                    Rec."Current-Description",
-                    SalesCrMemoHeader."No.");
+        if DTEAuthChanged then begin
+            if Rec."Current-Description" <> '' then begin
+                SalesCrMemoHeader.SetRange("DTE AuthNumber", Rec."Current-Description");
+                SalesCrMemoHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if SalesCrMemoHeader.FindFirst() then begin
+                    DTEAuthNum := true;
+                    Message(
+                        'VALIDACION FALLIDA: el Codigo Generacion %1 ya existe en la Nota de Credito de Venta No. %2.',
+                        Rec."Current-Description",
+                        SalesCrMemoHeader."No.");
+                end else
+                    Message('VALIDACION OK: no existe otro Codigo Generacion %1 en notas de credito de venta.', Rec."Current-Description");
             end else
-                Message('VALIDACION OK: no existe otro Codigo Generacion %1 en notas de credito de venta.', Rec."Current-Description");
+                Message('VALIDACION OMITIDA: Codigo Generacion cambio a vacio.');
         end else
-            Message('VALIDACION OMITIDA: Codigo Generacion viene vacio.');
+            Message('VALIDACION OMITIDA: Codigo Generacion no cambio.');
 
         SalesCrMemoHeader.Reset();
-        if Rec."Current-Description2" <> '' then begin
-            SalesCrMemoHeader.SetRange("Signature Validation", Rec."Current-Description2");
-            SalesCrMemoHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
-            if SalesCrMemoHeader.FindFirst() then begin
-                SigVal := true;
-                Message(
-                    'VALIDACION FALLIDA: el Sello Validacion %1 ya existe en la Nota de Credito de Venta No. %2.',
-                    Rec."Current-Description2",
-                    SalesCrMemoHeader."No.");
+        if SigValChanged then begin
+            if Rec."Current-Description2" <> '' then begin
+                SalesCrMemoHeader.SetRange("Signature Validation", Rec."Current-Description2");
+                SalesCrMemoHeader.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if SalesCrMemoHeader.FindFirst() then begin
+                    SigVal := true;
+                    Message(
+                        'VALIDACION FALLIDA: el Sello Validacion %1 ya existe en la Nota de Credito de Venta No. %2.',
+                        Rec."Current-Description2",
+                        SalesCrMemoHeader."No.");
+                end else
+                    Message('VALIDACION OK: no existe otro Sello Validacion %1 en notas de credito de venta.', Rec."Current-Description2");
             end else
-                Message('VALIDACION OK: no existe otro Sello Validacion %1 en notas de credito de venta.', Rec."Current-Description2");
+                Message('VALIDACION OMITIDA: Sello Validacion cambio a vacio.');
         end else
-            Message('VALIDACION OMITIDA: Sello Validacion viene vacio.');
+            Message('VALIDACION OMITIDA: Sello Validacion no cambio.');
 
         if DTEInvoce or DTEAuthNum or SigVal then begin
             Message(
@@ -489,11 +591,13 @@ page 50119 "FSN Correction DTE"
 
         Message('RESULTADO VALIDACION: OK, se puede modificar la Nota de Credito de Venta %1.', Rec."Menu ID");
 
-        SuggestedExternalDocNo := GetUniqueSalesCrMemoExternalDocNo(Rec."Set Current-Input", CurrentSalesCrMemoHeader."Posting Date", CurrentSalesCrMemoHeader."No.");
-        Message(
-            'DEBUG External Document No.: DTE Invoice nuevo=%1, abreviado unico sugerido=%2.',
-            Rec."Set Current-Input",
-            SuggestedExternalDocNo);
+        if DTEInvoiceChanged then begin
+            SuggestedExternalDocNo := GetUniqueSalesCrMemoExternalDocNo(Rec."Set Current-Input", CurrentSalesCrMemoHeader."Posting Date", CurrentSalesCrMemoHeader."No.");
+            Message(
+                'DEBUG External Document No.: DTE Invoice nuevo=%1, abreviado unico sugerido=%2.',
+                Rec."Set Current-Input",
+                SuggestedExternalDocNo);
+        end;
 
         exit(false);
     end;
@@ -502,28 +606,41 @@ page 50119 "FSN Correction DTE"
     local procedure ModifyPurchCrMemoHdr()
     var
         PurchCrMemoHdr: Record "Purch. Cr. Memo Hdr.";
-        DTEFieldsChanged: Boolean;
+        DTEInvoiceChanged: Boolean;
+        DTEAuthChanged: Boolean;
+        SigValChanged: Boolean;
         NewExternalDocNo: Code[35];
     begin
         if PurchCrMemoHdr.Get(Rec."Menu ID") then begin
             if ValPurchaseMemo() then
                 exit;
-            DTEFieldsChanged :=
-                (PurchCrMemoHdr."DTE Invoice" <> Rec."Set Current-Input") or
-                (PurchCrMemoHdr."DTE AuthNumber" <> Rec."Current-Description") or
-                (PurchCrMemoHdr."Signature Validation" <> Rec."Current-Description2");
-            PurchCrMemoHdr.Validate("DTE Invoice", Rec."Set Current-Input");
-            PurchCrMemoHdr.Validate("DTE AuthNumber", Rec."Current-Description");
-            PurchCrMemoHdr.Validate("Signature Validation", Rec."Current-Description2");
-            if DTEFieldsChanged then begin
+
+            DTEInvoiceChanged := PurchCrMemoHdr."DTE Invoice" <> Rec."Set Current-Input";
+            DTEAuthChanged := PurchCrMemoHdr."DTE AuthNumber" <> Rec."Current-Description";
+            SigValChanged := PurchCrMemoHdr."Signature Validation" <> Rec."Current-Description2";
+
+            if not (DTEInvoiceChanged or DTEAuthChanged or SigValChanged) then begin
+                Message('No hay cambios para modificar en la Nota de Credito de Compra %1.', PurchCrMemoHdr."No.");
+                exit;
+            end;
+
+            if DTEInvoiceChanged then
+                PurchCrMemoHdr.Validate("DTE Invoice", Rec."Set Current-Input");
+            if DTEAuthChanged then
+                PurchCrMemoHdr.Validate("DTE AuthNumber", Rec."Current-Description");
+            if SigValChanged then
+                PurchCrMemoHdr.Validate("Signature Validation", Rec."Current-Description2");
+
+            if DTEInvoiceChanged then begin
                 NewExternalDocNo := GetUniqueExternalDocumentNo(Rec."Set Current-Input", PurchCrMemoHdr."Posting Date");
                 PurchCrMemoHdr.Validate("Vendor Cr. Memo No.", NewExternalDocNo);
+                UpdatePurchCrMemoRelatedExternalDocNo(PurchCrMemoHdr."No.", NewExternalDocNo);
                 Message(
                     'DTE abreviado actualizado en Vendor Cr. Memo No. Documento=%1, nuevo valor=%2.',
                     PurchCrMemoHdr."No.",
                     NewExternalDocNo);
             end else
-                Message('DTE abreviado no se actualizo porque no hubo cambios en DTE Invoice, Codigo Generacion ni Sello Validacion.');
+                Message('DTE abreviado no se actualizo porque no cambio el DTE Invoice.');
             PurchCrMemoHdr.Modify();
             Message('DTE de Nota de Crédito de Compra actualizado correctamente.');
         end else
@@ -542,11 +659,18 @@ page 50119 "FSN Correction DTE"
         YearStart: Date;
         YearEnd: Date;
         SuggestedExternalDocNo: Code[35];
+        DTEInvoiceChanged: Boolean;
+        DTEAuthChanged: Boolean;
+        SigValChanged: Boolean;
     begin
         if not CurrentPurchCrMemoHdr.Get(Rec."Menu ID") then begin
             Message('DEBUG NC Compra: no se encontro la nota de credito actual %1 para validar.', Rec."Menu ID");
             exit(true);
         end;
+
+        DTEInvoiceChanged := CurrentPurchCrMemoHdr."DTE Invoice" <> Rec."Set Current-Input";
+        DTEAuthChanged := CurrentPurchCrMemoHdr."DTE AuthNumber" <> Rec."Current-Description";
+        SigValChanged := CurrentPurchCrMemoHdr."Signature Validation" <> Rec."Current-Description2";
 
         PostingYear := Date2DMY(CurrentPurchCrMemoHdr."Posting Date", 3);
         YearStart := DMY2Date(1, 1, PostingYear);
@@ -582,60 +706,69 @@ page 50119 "FSN Correction DTE"
             Message('INFO: los datos ingresados son iguales a los datos actuales de la nota %1.', Rec."Menu ID");
 
         PurchCrMemoHdr.Reset();
-        if Rec."Set Current-Input" <> '' then begin
-            PurchCrMemoHdr.SetRange("DTE Invoice", Rec."Set Current-Input");
-            PurchCrMemoHdr.SetRange("Buy-from Vendor No.", CurrentPurchCrMemoHdr."Buy-from Vendor No.");
-            PurchCrMemoHdr.SetRange("Posting Date", YearStart, YearEnd);
-            PurchCrMemoHdr.SetFilter("No.", '<>%1', Rec."Menu ID");
-            if PurchCrMemoHdr.FindFirst() then begin
-                DTEInvoce := true;
-                Message(
-                    'VALIDACION FALLIDA: el DTE Invoice %1 ya existe para el proveedor %2 en el anio %3. Nota encontrada=%4, Vendor Cr. Memo No.=%5, Fecha registro=%6.',
-                    Rec."Set Current-Input",
-                    CurrentPurchCrMemoHdr."Buy-from Vendor No.",
-                    PostingYear,
-                    PurchCrMemoHdr."No.",
-                    PurchCrMemoHdr."Vendor Cr. Memo No.",
-                    PurchCrMemoHdr."Posting Date");
+        if DTEInvoiceChanged then begin
+            if Rec."Set Current-Input" <> '' then begin
+                PurchCrMemoHdr.SetRange("DTE Invoice", Rec."Set Current-Input");
+                PurchCrMemoHdr.SetRange("Buy-from Vendor No.", CurrentPurchCrMemoHdr."Buy-from Vendor No.");
+                PurchCrMemoHdr.SetRange("Posting Date", YearStart, YearEnd);
+                PurchCrMemoHdr.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if PurchCrMemoHdr.FindFirst() then begin
+                    DTEInvoce := true;
+                    Message(
+                        'VALIDACION FALLIDA: el DTE Invoice %1 ya existe para el proveedor %2 en el anio %3. Nota encontrada=%4, Vendor Cr. Memo No.=%5, Fecha registro=%6.',
+                        Rec."Set Current-Input",
+                        CurrentPurchCrMemoHdr."Buy-from Vendor No.",
+                        PostingYear,
+                        PurchCrMemoHdr."No.",
+                        PurchCrMemoHdr."Vendor Cr. Memo No.",
+                        PurchCrMemoHdr."Posting Date");
+                end else
+                    Message(
+                        'VALIDACION OK: no existe otro DTE Invoice %1 para el proveedor %2 entre %3 y %4.',
+                        Rec."Set Current-Input",
+                        CurrentPurchCrMemoHdr."Buy-from Vendor No.",
+                        YearStart,
+                        YearEnd);
             end else
-                Message(
-                    'VALIDACION OK: no existe otro DTE Invoice %1 para el proveedor %2 entre %3 y %4.',
-                    Rec."Set Current-Input",
-                    CurrentPurchCrMemoHdr."Buy-from Vendor No.",
-                    YearStart,
-                    YearEnd);
+                Message('VALIDACION OMITIDA: DTE Invoice cambio a vacio.');
         end else
-            Message('VALIDACION OMITIDA: DTE Invoice viene vacio.');
+            Message('VALIDACION OMITIDA: DTE Invoice no cambio.');
 
         PurchCrMemoHdr.Reset();
-        if Rec."Current-Description" <> '' then begin
-            PurchCrMemoHdr.SetRange("DTE AuthNumber", Rec."Current-Description");
-            PurchCrMemoHdr.SetFilter("No.", '<>%1', Rec."Menu ID");
-            if PurchCrMemoHdr.FindFirst() then begin
-                DTEAuthNum := true;
-                Message(
-                    'VALIDACION FALLIDA: el Codigo Generacion %1 ya existe en la Nota de Credito de Compra No. %2.',
-                    Rec."Current-Description",
-                    PurchCrMemoHdr."No.");
+        if DTEAuthChanged then begin
+            if Rec."Current-Description" <> '' then begin
+                PurchCrMemoHdr.SetRange("DTE AuthNumber", Rec."Current-Description");
+                PurchCrMemoHdr.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if PurchCrMemoHdr.FindFirst() then begin
+                    DTEAuthNum := true;
+                    Message(
+                        'VALIDACION FALLIDA: el Codigo Generacion %1 ya existe en la Nota de Credito de Compra No. %2.',
+                        Rec."Current-Description",
+                        PurchCrMemoHdr."No.");
+                end else
+                    Message('VALIDACION OK: no existe otro Codigo Generacion %1 en notas de credito de compra.', Rec."Current-Description");
             end else
-                Message('VALIDACION OK: no existe otro Codigo Generacion %1 en notas de credito de compra.', Rec."Current-Description");
+                Message('VALIDACION OMITIDA: Codigo Generacion cambio a vacio.');
         end else
-            Message('VALIDACION OMITIDA: Codigo Generacion viene vacio.');
+            Message('VALIDACION OMITIDA: Codigo Generacion no cambio.');
 
         PurchCrMemoHdr.Reset();
-        if Rec."Current-Description2" <> '' then begin
-            PurchCrMemoHdr.SetRange("Signature Validation", Rec."Current-Description2");
-            PurchCrMemoHdr.SetFilter("No.", '<>%1', Rec."Menu ID");
-            if PurchCrMemoHdr.FindFirst() then begin
-                SigVal := true;
-                Message(
-                    'VALIDACION FALLIDA: el Sello Validacion %1 ya existe en la Nota de Credito de Compra No. %2.',
-                    Rec."Current-Description2",
-                    PurchCrMemoHdr."No.");
+        if SigValChanged then begin
+            if Rec."Current-Description2" <> '' then begin
+                PurchCrMemoHdr.SetRange("Signature Validation", Rec."Current-Description2");
+                PurchCrMemoHdr.SetFilter("No.", '<>%1', Rec."Menu ID");
+                if PurchCrMemoHdr.FindFirst() then begin
+                    SigVal := true;
+                    Message(
+                        'VALIDACION FALLIDA: el Sello Validacion %1 ya existe en la Nota de Credito de Compra No. %2.',
+                        Rec."Current-Description2",
+                        PurchCrMemoHdr."No.");
+                end else
+                    Message('VALIDACION OK: no existe otro Sello Validacion %1 en notas de credito de compra.', Rec."Current-Description2");
             end else
-                Message('VALIDACION OK: no existe otro Sello Validacion %1 en notas de credito de compra.', Rec."Current-Description2");
+                Message('VALIDACION OMITIDA: Sello Validacion cambio a vacio.');
         end else
-            Message('VALIDACION OMITIDA: Sello Validacion viene vacio.');
+            Message('VALIDACION OMITIDA: Sello Validacion no cambio.');
 
         if DTEInvoce or DTEAuthNum or SigVal then begin
             Message(
@@ -648,23 +781,24 @@ page 50119 "FSN Correction DTE"
 
         Message('RESULTADO VALIDACION: OK, se puede modificar la Nota de Credito de Compra %1.', Rec."Menu ID");
 
-        VendorLedgerEntry.Reset();
-        if CurrentPurchCrMemoHdr."Vendor Cr. Memo No." <> '' then begin
-            VendorLedgerEntry.SetRange("External Document No.", CurrentPurchCrMemoHdr."Vendor Cr. Memo No.");
-            if VendorLedgerEntry.FindFirst() then begin
-                Message(
-                    'External Document No. actual %1 ya existe en Vendor Ledger Entry. Se generara un nuevo abreviado desde el DTE Invoice nuevo %2.',
-                    CurrentPurchCrMemoHdr."Vendor Cr. Memo No.",
-                    Rec."Set Current-Input");
-                SuggestedExternalDocNo := GetUniqueExternalDocumentNo(Rec."Set Current-Input", CurrentPurchCrMemoHdr."Posting Date");
-                Message(
-                    'External Document No. actual %1 ya existe en Vendor Ledger Entry. Se debe usar el DTE abreviado unico %2.',
-                    CurrentPurchCrMemoHdr."Vendor Cr. Memo No.",
-                    SuggestedExternalDocNo);
+        if DTEInvoiceChanged then begin
+            VendorLedgerEntry.Reset();
+            if CurrentPurchCrMemoHdr."Vendor Cr. Memo No." <> '' then begin
+                VendorLedgerEntry.SetRange("External Document No.", CurrentPurchCrMemoHdr."Vendor Cr. Memo No.");
+                if VendorLedgerEntry.FindFirst() then begin
+                    Message(
+                        'External Document No. actual %1 existe en Vendor Ledger Entry. Se generara un nuevo abreviado desde el DTE Invoice nuevo %2.',
+                        CurrentPurchCrMemoHdr."Vendor Cr. Memo No.",
+                        Rec."Set Current-Input");
+                    SuggestedExternalDocNo := GetUniqueExternalDocumentNo(Rec."Set Current-Input", CurrentPurchCrMemoHdr."Posting Date");
+                    Message(
+                        'DTE abreviado unico sugerido=%1.',
+                        SuggestedExternalDocNo);
+                end else
+                    Message('External Document No. actual %1 no existe en Vendor Ledger Entry. Igual se generara abreviado porque cambio el DTE Invoice.', CurrentPurchCrMemoHdr."Vendor Cr. Memo No.");
             end else
-                Message('External Document No. actual %1 no existe en Vendor Ledger Entry. Se mantiene ese valor.', CurrentPurchCrMemoHdr."Vendor Cr. Memo No.");
-        end else
-            Message('External Document No.: Vendor Cr. Memo No. esta vacio en la nota %1.', CurrentPurchCrMemoHdr."No.");
+                Message('External Document No.: Vendor Cr. Memo No. esta vacio en la nota %1. Se generara abreviado porque cambio el DTE Invoice.', CurrentPurchCrMemoHdr."No.");
+        end;
 
         exit(false);
     end;
@@ -917,6 +1051,55 @@ page 50119 "FSN Correction DTE"
             DocumentNo,
             NewExternalDocNo,
             CustLedgerCount,
+            GLEntryCount,
+            LegalLedgerCount);
+    end;
+
+    local procedure UpdatePurchCrMemoRelatedExternalDocNo(DocumentNo: Code[20]; NewExternalDocNo: Code[35])
+    var
+        VendorLedgerEntry: Record "Vendor Ledger Entry";
+        GLEntry: Record "G/L Entry";
+        LegalLedgerEntry: Record "Legal Ledger Entry";
+        VendorLedgerCount: Integer;
+        GLEntryCount: Integer;
+        LegalLedgerCount: Integer;
+    begin
+        VendorLedgerEntry.Reset();
+        VendorLedgerEntry.SetRange("Document Type", VendorLedgerEntry."Document Type"::"Credit Memo");
+        VendorLedgerEntry.SetRange("Document No.", DocumentNo);
+        if VendorLedgerEntry.FindSet() then
+            repeat
+                VendorLedgerEntry.Validate("External Document No.", NewExternalDocNo);
+                VendorLedgerEntry.Modify();
+                VendorLedgerCount += 1;
+            until VendorLedgerEntry.Next() = 0;
+
+        GLEntry.Reset();
+        GLEntry.SetRange("Document Type", GLEntry."Document Type"::"Credit Memo");
+        GLEntry.SetRange("Source Code", 'COMPRAS');
+        GLEntry.SetRange("Document No.", DocumentNo);
+        if GLEntry.FindSet() then
+            repeat
+                GLEntry.Validate("External Document No.", NewExternalDocNo);
+                GLEntry.Modify();
+                GLEntryCount += 1;
+            until GLEntry.Next() = 0;
+
+        LegalLedgerEntry.Reset();
+        LegalLedgerEntry.SetRange("Sub Type", 'NC-C');
+        LegalLedgerEntry.SetRange("No.", DocumentNo);
+        if LegalLedgerEntry.FindSet() then
+            repeat
+                LegalLedgerEntry.Validate("External Document No.", NewExternalDocNo);
+                LegalLedgerEntry.Modify();
+                LegalLedgerCount += 1;
+            until LegalLedgerEntry.Next() = 0;
+
+        Message(
+            'Tablas relacionadas actualizadas para %1 con External Document No.=%2. Vendor Ledger Entry=%3, G/L Entry=%4, Legal Ledger Entry=%5.',
+            DocumentNo,
+            NewExternalDocNo,
+            VendorLedgerCount,
             GLEntryCount,
             LegalLedgerCount);
     end;
