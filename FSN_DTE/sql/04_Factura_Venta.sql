@@ -8,11 +8,8 @@
 SET NOCOUNT ON;
 
 DECLARE
-    @DocumentoNo       NVARCHAR(20) = N'FC000000026',
-    @DTEInvoiceNuevo   NVARCHAR(31) = NULL,
-    @DTEAuthNuevo      NVARCHAR(36) = NULL,
-    @SignatureNuevo    NVARCHAR(50) = NULL,
-    @DTEAbreviadoNuevo NVARCHAR(35) = NULL;
+    @DocumentoNo       NVARCHAR(20) = 'FC000000027'
+
 
 
 /*--------------------------------------------------------------------------------------
@@ -32,70 +29,6 @@ INNER JOIN dbo.[FASANI$Sales Invoice Header$437dbf0e-84ff-417a-965d-ed2bb9650972
     ON info.[No_] = dte.[No_]
 WHERE @DocumentoNo IS NOT NULL
   AND dte.[No_] = @DocumentoNo;
-
--- Detectar exactamente que campos cambiaron.
-SELECT
-    dte.[No_],
-    dte.[DTE Invoice] AS [DTE Invoice actual],
-    @DTEInvoiceNuevo AS [DTE Invoice nuevo],
-    CASE
-        WHEN @DTEInvoiceNuevo IS NULL THEN N'NO SOLICITADO'
-        WHEN ISNULL(dte.[DTE Invoice], N'') = @DTEInvoiceNuevo THEN N'SIN CAMBIO'
-        ELSE N'CAMBIA'
-    END AS [Estado DTE Invoice],
-    dte.[DTE AuthNumber] AS [Codigo Generacion actual],
-    @DTEAuthNuevo AS [Codigo Generacion nuevo],
-    CASE
-        WHEN @DTEAuthNuevo IS NULL THEN N'NO SOLICITADO'
-        WHEN ISNULL(dte.[DTE AuthNumber], N'') = @DTEAuthNuevo THEN N'SIN CAMBIO'
-        ELSE N'CAMBIA'
-    END AS [Estado Codigo Generacion],
-    dte.[Signature Validation] AS [Sello Validacion actual],
-    @SignatureNuevo AS [Sello Validacion nuevo],
-    CASE
-        WHEN @SignatureNuevo IS NULL THEN N'NO SOLICITADO'
-        WHEN ISNULL(dte.[Signature Validation], N'') = @SignatureNuevo THEN N'SIN CAMBIO'
-        ELSE N'CAMBIA'
-    END AS [Estado Sello Validacion]
-FROM dbo.[FASANI$Sales Invoice Header$6961bd3e-336c-4dde-aeee-16842646cf34] dte
-WHERE @DocumentoNo IS NOT NULL
-  AND dte.[No_] = @DocumentoNo;
-
--- DTE Invoice: debe ser unico entre las facturas de venta.
-SELECT TOP (1)
-    [No_],
-    [DTE Invoice]
-FROM dbo.[FASANI$Sales Invoice Header$6961bd3e-336c-4dde-aeee-16842646cf34]
-WHERE @DTEInvoiceNuevo IS NOT NULL
-  AND [DTE Invoice] = @DTEInvoiceNuevo
-  AND [No_] <> @DocumentoNo;
-
--- Codigo de generacion: debe ser unico.
-SELECT TOP (1)
-    [No_],
-    [DTE AuthNumber]
-FROM dbo.[FASANI$Sales Invoice Header$6961bd3e-336c-4dde-aeee-16842646cf34]
-WHERE @DTEAuthNuevo IS NOT NULL
-  AND [DTE AuthNumber] = @DTEAuthNuevo
-  AND [No_] <> @DocumentoNo;
-
--- Sello de validacion: debe ser unico.
-SELECT TOP (1)
-    [No_],
-    [Signature Validation]
-FROM dbo.[FASANI$Sales Invoice Header$6961bd3e-336c-4dde-aeee-16842646cf34]
-WHERE @SignatureNuevo IS NOT NULL
-  AND [Signature Validation] = @SignatureNuevo
-  AND [No_] <> @DocumentoNo;
-
--- El DTE abreviado no debe existir en otra factura de venta.
-SELECT TOP (1)
-    [No_],
-    [External Document No_]
-FROM dbo.[FASANI$Sales Invoice Header$437dbf0e-84ff-417a-965d-ed2bb9650972]
-WHERE @DTEAbreviadoNuevo IS NOT NULL
-  AND [External Document No_] = @DTEAbreviadoNuevo
-  AND [No_] <> @DocumentoNo;
 
 
 /*--------------------------------------------------------------------------------------
@@ -147,7 +80,7 @@ WHERE [Document No_] = @DocumentoNo
 
 -- Documento legal de factura de venta.
 SELECT
-    [Entry No_],
+
     [No_],
     [Sub Type],
     [External Document No_]

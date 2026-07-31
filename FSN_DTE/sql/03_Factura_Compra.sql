@@ -8,11 +8,8 @@
 SET NOCOUNT ON;
 
 DECLARE
-    @DocumentoNo       NVARCHAR(20) = N'FAC0000051825',
-    @DTEInvoiceNuevo   NVARCHAR(31) = NULL,
-    @DTEAuthNuevo      NVARCHAR(36) = NULL,
-    @SignatureNuevo    NVARCHAR(50) = NULL,
-    @DTEAbreviadoNuevo NVARCHAR(35) = NULL;
+    @DocumentoNo       NVARCHAR(20) = N'FAC0000052081'
+
 
 
 /*--------------------------------------------------------------------------------------
@@ -35,82 +32,6 @@ FROM dbo.[FASANI$Purch_ Inv_ Header$6961bd3e-336c-4dde-aeee-16842646cf34] dte
 INNER JOIN dbo.[FASANI$Purch_ Inv_ Header$437dbf0e-84ff-417a-965d-ed2bb9650972] info
     ON info.[No_] = dte.[No_]
 WHERE dte.[No_] = @DocumentoNo;
-
--- Detectar exactamente que campos cambiaron.
-SELECT
-    dte.[No_],
-    dte.[DTE Invoice] AS [DTE Invoice actual],
-    @DTEInvoiceNuevo AS [DTE Invoice nuevo],
-    CASE
-        WHEN @DTEInvoiceNuevo IS NULL THEN N'NO SOLICITADO'
-        WHEN ISNULL(dte.[DTE Invoice], N'') = @DTEInvoiceNuevo THEN N'SIN CAMBIO'
-        ELSE N'CAMBIA'
-    END AS [Estado DTE Invoice],
-    dte.[DTE AuthNumber] AS [Codigo Generacion actual],
-    @DTEAuthNuevo AS [Codigo Generacion nuevo],
-    CASE
-        WHEN @DTEAuthNuevo IS NULL THEN N'NO SOLICITADO'
-        WHEN ISNULL(dte.[DTE AuthNumber], N'') = @DTEAuthNuevo THEN N'SIN CAMBIO'
-        ELSE N'CAMBIA'
-    END AS [Estado Codigo Generacion],
-    dte.[Signature Validation] AS [Sello Validacion actual],
-    @SignatureNuevo AS [Sello Validacion nuevo],
-    CASE
-        WHEN @SignatureNuevo IS NULL THEN N'NO SOLICITADO'
-        WHEN ISNULL(dte.[Signature Validation], N'') = @SignatureNuevo THEN N'SIN CAMBIO'
-        ELSE N'CAMBIA'
-    END AS [Estado Sello Validacion]
-FROM dbo.[FASANI$Purch_ Inv_ Header$6961bd3e-336c-4dde-aeee-16842646cf34] dte
-WHERE dte.[No_] = @DocumentoNo;
-
--- DTE Invoice: no debe existir en otra factura del mismo proveedor y anio.
-SELECT TOP (1)
-    dte.[No_],
-    dte.[DTE Invoice],
-    info.[Buy-from Vendor No_],
-    info.[Vendor Invoice No_],
-    info.[Posting Date]
-FROM dbo.[FASANI$Purch_ Inv_ Header$6961bd3e-336c-4dde-aeee-16842646cf34] dte
-INNER JOIN dbo.[FASANI$Purch_ Inv_ Header$437dbf0e-84ff-417a-965d-ed2bb9650972] info
-    ON info.[No_] = dte.[No_]
-INNER JOIN dbo.[FASANI$Purch_ Inv_ Header$437dbf0e-84ff-417a-965d-ed2bb9650972] actual
-    ON actual.[No_] = @DocumentoNo
-WHERE @DTEInvoiceNuevo IS NOT NULL
-  AND dte.[DTE Invoice] = @DTEInvoiceNuevo
-  AND info.[Buy-from Vendor No_] = actual.[Buy-from Vendor No_]
-  AND YEAR(info.[Posting Date]) = YEAR(actual.[Posting Date])
-  AND dte.[No_] <> @DocumentoNo;
-
--- Codigo de generacion: no debe existir en otra factura.
-SELECT TOP (1)
-    [No_],
-    [DTE AuthNumber]
-FROM dbo.[FASANI$Purch_ Inv_ Header$6961bd3e-336c-4dde-aeee-16842646cf34]
-WHERE @DTEAuthNuevo IS NOT NULL
-  AND [DTE AuthNumber] = @DTEAuthNuevo
-  AND [No_] <> @DocumentoNo;
-
--- Sello de validacion: no debe existir en otra factura.
-SELECT TOP (1)
-    [No_],
-    [Signature Validation]
-FROM dbo.[FASANI$Purch_ Inv_ Header$6961bd3e-336c-4dde-aeee-16842646cf34]
-WHERE @SignatureNuevo IS NOT NULL
-  AND [Signature Validation] = @SignatureNuevo
-  AND [No_] <> @DocumentoNo;
-
--- El Vendor Invoice No. abreviado no debe existir para el mismo proveedor.
-SELECT TOP (1)
-    candidato.[No_],
-    candidato.[Buy-from Vendor No_],
-    candidato.[Vendor Invoice No_]
-FROM dbo.[FASANI$Purch_ Inv_ Header$437dbf0e-84ff-417a-965d-ed2bb9650972] candidato
-INNER JOIN dbo.[FASANI$Purch_ Inv_ Header$437dbf0e-84ff-417a-965d-ed2bb9650972] actual
-    ON actual.[No_] = @DocumentoNo
-WHERE @DTEAbreviadoNuevo IS NOT NULL
-  AND candidato.[Vendor Invoice No_] = @DTEAbreviadoNuevo
-  AND candidato.[Buy-from Vendor No_] = actual.[Buy-from Vendor No_]
-  AND candidato.[No_] <> @DocumentoNo;
 
 -- Obtener el pedido de la factura y todas las recepciones HRC relacionadas.
 SELECT
@@ -204,7 +125,6 @@ WHERE [Document No_] = @DocumentoNo
 
 -- Documento legal.
 SELECT
-    [Entry No_],
     [No_],
     [Sub Type],
     [External Document No_]
