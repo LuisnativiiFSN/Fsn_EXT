@@ -313,6 +313,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method Sales Invoice_OnBeforeValidateEvent_[content / General] - External Document No. - NamedType ERR001</note>
         </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 673395951 - NamedType 272858897" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No puede modificar N° Documento Externo, para Factura Venta(Vending)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method Sales Invoice_OnBeforeValidateEvent_[content / General] - External Document No. - NamedType ERR002</note>
+        </trans-unit>
         <trans-unit id="Codeunit 315012033 - Method 2139356582 - NamedType 2468768840" size-unit="char" translate="yes" xml:space="preserve">
           <source>El %1 %2 Ya fue registrado</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -363,6 +368,31 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValDocumentRegistCreditNo - NamedType TEXTM000</note>
         </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 393328109 - NamedType 1369222166" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 | L: %2 | LV: %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValidateLotAndExpireDateDescription - NamedType Newdescription</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 934759693 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El campo %1 "%2" ya existe en el documento %3 %4. No se permiten valores duplicados.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValidatePurchCrMemoHeaderDTE - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 934759693 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El DTE "%1" ya ha sido duplicado. No se permite duplicar más de una vez por año.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValidatePurchCrMemoHeaderDTE - NamedType lText002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 4160051331 - NamedType 2179470716" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El campo %1 "%2" ya existe en el documento %3 %4. No se permiten valores duplicados.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValidatePurchInvHeaderDTE - NamedType lText001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 4160051331 - NamedType 2817167333" size-unit="char" translate="yes" xml:space="preserve">
+          <source>El DTE "%1" ya ha sido duplicado. No se permite duplicar más de una vez por año.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValidatePurchInvHeaderDTE - NamedType lText002</note>
+        </trans-unit>
         <trans-unit id="Codeunit 315012033 - Method 2909594491 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
           <source>No se puede procesar 2 tipos de documentos diferentes</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -392,6 +422,11 @@
           <source>No hay lineas que certificar.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValInventoryTransfer - NamedType ERROR005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 315012033 - Method 3497978507 - NamedType 1369222166" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 | L: %2 | LV: %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DTE Validate Transaction - Method ValLotVenceDescription - NamedType Newdescription</note>
         </trans-unit>
         <trans-unit id="Codeunit 315012033 - Method 4035525370 - NamedType 2314079103" size-unit="char" translate="yes" xml:space="preserve">
           <source>No se puede procesar, faltan lineas de produtos para la Factura %1</source>
