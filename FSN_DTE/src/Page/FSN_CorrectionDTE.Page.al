@@ -136,11 +136,11 @@ page 50119 "FSN Correction DTE"
 
     procedure ModifySalesInvoiceHeader()
     var
-        myInt: Integer;
         SalesInvHeader: Record "Sales Invoice Header";
         DTEInvoiceChanged: Boolean;
         DTEAuthChanged: Boolean;
         SigValChanged: Boolean;
+        NewExternalDocNo: Code[35];
     begin
         if SalesInvHeader.Get(Rec."Menu ID") then begin
 
@@ -156,14 +156,23 @@ page 50119 "FSN Correction DTE"
                 exit;
             end;
 
-            if DTEInvoiceChanged then begin
+            if DTEInvoiceChanged then
                 SalesInvHeader.Validate("DTE Invoice", Rec."Set Current-Input");
-                SalesInvHeader."External Document No." := Rec."Set Current-Input";
-            end;
             if DTEAuthChanged then
                 SalesInvHeader.Validate("DTE AuthNumber", Rec."Current-Description");
             if SigValChanged then
                 SalesInvHeader.Validate("Signature Validation", Rec."Current-Description2");
+
+            if DTEInvoiceChanged then begin
+                NewExternalDocNo := GetUniqueSalesInvExternalDocNo(Rec."Set Current-Input", SalesInvHeader."Posting Date", SalesInvHeader."No.");
+                SalesInvHeader.Validate("External Document No.", NewExternalDocNo);
+                UpdateSalesInvoiceRelatedExternalDocNo(SalesInvHeader."No.", NewExternalDocNo);
+                Message(
+                    'DTE abreviado actualizado en External Document No. Documento=%1, nuevo valor=%2.',
+                    SalesInvHeader."No.",
+                    NewExternalDocNo);
+            end else
+                Message('DTE abreviado no se actualizo porque no cambio el DTE Invoice.');
 
             SalesInvHeader.Modify();
             Message('DTE de Factura de Venta actualizado correctamente.');
@@ -241,10 +250,12 @@ page 50119 "FSN Correction DTE"
     var
         PurchInvHeader: Record "Purch. Inv. Header";
         PurchRecHeader: Record "Purch. Rcpt. Header";
+        PurchRecHeaderVariant: Variant;
         DTEInvoiceChanged: Boolean;
         DTEAuthChanged: Boolean;
         SigValChanged: Boolean;
         NewVendorInvoiceNo: Code[35];
+        PurchRcptCount: Integer;
     begin
         if PurchInvHeader.Get(Rec."Menu ID") then begin
             if ValPurchaseInvoice() then
@@ -259,18 +270,6 @@ page 50119 "FSN Correction DTE"
                 exit;
             end;
 
-            PurchRecHeader.Reset();
-            PurchRecHeader.SetRange("DTE AuthNumber", PurchInvHeader."DTE AuthNumber");
-            if PurchRecHeader.FindFirst() then begin
-                if DTEInvoiceChanged then
-                    PurchRecHeader.Validate("DTE Invoice", Rec."Set Current-Input");
-                if DTEAuthChanged then
-                    PurchRecHeader.Validate("DTE AuthNumber", Rec."Current-Description");
-                if SigValChanged then
-                    PurchRecHeader.Validate("Signature Validation", Rec."Current-Description2");
-                PurchRecHeader.Modify();
-            end;
-
             if DTEInvoiceChanged then
                 PurchInvHeader.Validate("DTE Invoice", Rec."Set Current-Input");
             if DTEAuthChanged then
@@ -281,6 +280,8 @@ page 50119 "FSN Correction DTE"
             if DTEInvoiceChanged then begin
                 NewVendorInvoiceNo := GetUniquePurchInvVendorInvoiceNo(Rec."Set Current-Input", PurchInvHeader."Posting Date", PurchInvHeader."Buy-from Vendor No.", PurchInvHeader."No.");
                 PurchInvHeader.Validate("Vendor Invoice No.", NewVendorInvoiceNo);
+                PurchInvHeader.Validate("Vendor Invoice Number", NewVendorInvoiceNo);
+                UpdatePurchaseInvoiceRelatedExternalDocNo(PurchInvHeader."No.", NewVendorInvoiceNo);
                 Message(
                     'DTE abreviado actualizado en Vendor Invoice No. Documento=%1, nuevo valor=%2.',
                     PurchInvHeader."No.",
@@ -289,6 +290,34 @@ page 50119 "FSN Correction DTE"
                 Message('DTE abreviado no se actualizo porque no cambio el DTE Invoice.');
 
             PurchInvHeader.Modify();
+
+            if PurchInvHeader."Order No." <> '' then begin
+                PurchRecHeader.Reset();
+                PurchRecHeader.SetRange("Order No.", PurchInvHeader."Order No.");
+                if PurchRecHeader.FindSet() then
+                    repeat
+                        if DTEInvoiceChanged then begin
+                            PurchRecHeader.Validate("DTE Invoice", Rec."Set Current-Input");
+                            PurchRecHeaderVariant := PurchRecHeader;
+                            if not ValidateFieldByName(PurchRecHeaderVariant, 'FSN Vendor Invoice No.', NewVendorInvoiceNo) then
+                                Error('No se encontró el campo FSN Vendor Invoice No. en la recepción de compra %1.', PurchRecHeader."No.");
+                            PurchRecHeader := PurchRecHeaderVariant;
+                        end;
+                        if DTEAuthChanged then
+                            PurchRecHeader.Validate("DTE AuthNumber", Rec."Current-Description");
+                        if SigValChanged then
+                            PurchRecHeader.Validate("Signature Validation", Rec."Current-Description2");
+                        PurchRecHeader.Modify();
+                        PurchRcptCount += 1;
+                    until PurchRecHeader.Next() = 0
+                else
+                    Message('No se encontro historico de recepcion de compra para el pedido %1 de la factura %2.', PurchInvHeader."Order No.", PurchInvHeader."No.");
+
+                if PurchRcptCount > 0 then
+                    Message('Historico recepcion compra actualizado. Pedido=%1, recepciones actualizadas=%2.', PurchInvHeader."Order No.", PurchRcptCount);
+            end else
+                Message('No se busco historico de recepcion porque la factura %1 no tiene Order No.', PurchInvHeader."No.");
+
             Message('DTE de Factura de Compra actualizado correctamente.');
         end else
             Error('No se encontro la Factura de Compra con No. %1', Rec."Menu ID");
@@ -1006,6 +1035,126 @@ page 50119 "FSN Correction DTE"
         exit(SalesCrMemoHeader.FindFirst());
     end;
 
+    local procedure GetUniqueSalesInvExternalDocNo(DTEInvoice: Code[31]; ReferenceDate: Date; CurrentDocumentNo: Code[20]): Code[35]
+    var
+        ExternalDocNo: Code[35];
+        DTEType: Text[10];
+        ConsecutiveNo: Text[30];
+        ReferenceYear: Text[4];
+        FirstHyphenPos: Integer;
+        RelativeSecondHyphenPos: Integer;
+        SecondHyphenPos: Integer;
+        LastHyphenPos: Integer;
+    begin
+        if DTEInvoice = '' then
+            exit('');
+
+        FirstHyphenPos := StrPos(DTEInvoice, '-');
+        if FirstHyphenPos = 0 then
+            exit(CopyStr(DTEInvoice, 1, MaxStrLen(ExternalDocNo)));
+
+        RelativeSecondHyphenPos := StrPos(CopyStr(DTEInvoice, FirstHyphenPos + 1), '-');
+        if RelativeSecondHyphenPos = 0 then
+            exit(CopyStr(DTEInvoice, 1, MaxStrLen(ExternalDocNo)));
+
+        SecondHyphenPos := FirstHyphenPos + RelativeSecondHyphenPos;
+        LastHyphenPos := FindLastCharacterPosition(DTEInvoice, '-');
+        if LastHyphenPos = 0 then
+            exit(CopyStr(DTEInvoice, 1, MaxStrLen(ExternalDocNo)));
+
+        DTEType := DelChr(CopyStr(DTEInvoice, FirstHyphenPos + 1, SecondHyphenPos - FirstHyphenPos - 1), '<', '0');
+        if DTEType = '' then
+            DTEType := '0';
+
+        ConsecutiveNo := DelChr(CopyStr(DTEInvoice, LastHyphenPos + 1), '<', '0');
+        if ConsecutiveNo = '' then
+            ConsecutiveNo := '0';
+
+        if ReferenceDate = 0D then
+            ReferenceDate := WorkDate();
+
+        ReferenceYear := Format(Date2DMY(ReferenceDate, 3));
+        ExternalDocNo := CopyStr('DTE' + DTEType + '-' + CopyStr(ReferenceYear, 3, 2) + ConsecutiveNo, 1, MaxStrLen(ExternalDocNo));
+
+        Message('DEBUG External Document No. abreviado Factura Venta: valor inicial generado=%1.', ExternalDocNo);
+
+        while SalesInvExternalDocumentNoExists(ExternalDocNo, CurrentDocumentNo) do begin
+            Message('DEBUG External Document No. abreviado Factura Venta: %1 ya existe. Se agregara un punto.', ExternalDocNo);
+
+            if StrLen(ExternalDocNo) >= MaxStrLen(ExternalDocNo) then
+                Error('No se pudo generar un External Document No. unico para %1 porque %2 ya alcanzo el largo maximo.', DTEInvoice, ExternalDocNo);
+
+            ExternalDocNo := CopyStr(ExternalDocNo + '.', 1, MaxStrLen(ExternalDocNo));
+        end;
+
+        Message('DEBUG External Document No. abreviado Factura Venta: valor final unico=%1.', ExternalDocNo);
+
+        exit(ExternalDocNo);
+    end;
+
+    local procedure SalesInvExternalDocumentNoExists(ExternalDocNo: Code[35]; CurrentDocumentNo: Code[20]): Boolean
+    var
+        SalesInvHeader: Record "Sales Invoice Header";
+    begin
+        SalesInvHeader.Reset();
+        SalesInvHeader.SetRange("External Document No.", ExternalDocNo);
+        if CurrentDocumentNo <> '' then
+            SalesInvHeader.SetFilter("No.", '<>%1', CurrentDocumentNo);
+        exit(SalesInvHeader.FindFirst());
+    end;
+
+    local procedure UpdateSalesInvoiceRelatedExternalDocNo(DocumentNo: Code[20]; NewExternalDocNo: Code[35])
+    var
+        CustLedgerEntry: Record "Cust. Ledger Entry";
+        GLEntry: Record "G/L Entry";
+        LegalLedgerEntry: Record "Legal Ledger Entry";
+        CustLedgerCount: Integer;
+        GLEntryCount: Integer;
+        LegalLedgerCount: Integer;
+    begin
+        CustLedgerEntry.Reset();
+        CustLedgerEntry.SetRange("Document Type", CustLedgerEntry."Document Type"::Invoice);
+        CustLedgerEntry.SetRange("Document No.", DocumentNo);
+        CustLedgerEntry.SetFilter("External Document No.", '<>%1', '');
+        if CustLedgerEntry.FindSet() then
+            repeat
+                CustLedgerEntry.Validate("External Document No.", NewExternalDocNo);
+                CustLedgerEntry.Modify();
+                CustLedgerCount += 1;
+            until CustLedgerEntry.Next() = 0;
+
+        GLEntry.Reset();
+        GLEntry.SetRange("Document Type", GLEntry."Document Type"::Invoice);
+        GLEntry.SetRange("Source Code", 'VENTAS');
+        GLEntry.SetRange("Document No.", DocumentNo);
+        GLEntry.SetFilter("External Document No.", '<>%1', '');
+        if GLEntry.FindSet() then
+            repeat
+                GLEntry.Validate("External Document No.", NewExternalDocNo);
+                GLEntry.Modify();
+                GLEntryCount += 1;
+            until GLEntry.Next() = 0;
+
+        LegalLedgerEntry.Reset();
+        LegalLedgerEntry.SetRange("Sub Type", 'FACT-V');
+        LegalLedgerEntry.SetRange("No.", DocumentNo);
+        LegalLedgerEntry.SetFilter("External Document No.", '<>%1', '');
+        if LegalLedgerEntry.FindSet() then
+            repeat
+                LegalLedgerEntry.Validate("External Document No.", NewExternalDocNo);
+                LegalLedgerEntry.Modify();
+                LegalLedgerCount += 1;
+            until LegalLedgerEntry.Next() = 0;
+
+        Message(
+            'Tablas relacionadas actualizadas para Factura Venta %1 con External Document No.=%2. Cust. Ledger Entry=%3, G/L Entry=%4, Legal Ledger Entry=%5.',
+            DocumentNo,
+            NewExternalDocNo,
+            CustLedgerCount,
+            GLEntryCount,
+            LegalLedgerCount);
+    end;
+
     local procedure UpdateSalesCrMemoRelatedExternalDocNo(DocumentNo: Code[20]; NewExternalDocNo: Code[35])
     var
         CustLedgerEntry: Record "Cust. Ledger Entry";
@@ -1051,6 +1200,55 @@ page 50119 "FSN Correction DTE"
             DocumentNo,
             NewExternalDocNo,
             CustLedgerCount,
+            GLEntryCount,
+            LegalLedgerCount);
+    end;
+
+    local procedure UpdatePurchaseInvoiceRelatedExternalDocNo(DocumentNo: Code[20]; NewExternalDocNo: Code[35])
+    var
+        VendorLedgerEntry: Record "Vendor Ledger Entry";
+        GLEntry: Record "G/L Entry";
+        LegalLedgerEntry: Record "Legal Ledger Entry";
+        VendorLedgerCount: Integer;
+        GLEntryCount: Integer;
+        LegalLedgerCount: Integer;
+    begin
+        VendorLedgerEntry.Reset();
+        VendorLedgerEntry.SetRange("Document Type", VendorLedgerEntry."Document Type"::Invoice);
+        VendorLedgerEntry.SetRange("Document No.", DocumentNo);
+        if VendorLedgerEntry.FindSet() then
+            repeat
+                VendorLedgerEntry.Validate("External Document No.", NewExternalDocNo);
+                VendorLedgerEntry.Modify();
+                VendorLedgerCount += 1;
+            until VendorLedgerEntry.Next() = 0;
+
+        GLEntry.Reset();
+        GLEntry.SetRange("Document Type", GLEntry."Document Type"::Invoice);
+        GLEntry.SetRange("Source Code", 'COMPRAS');
+        GLEntry.SetRange("Document No.", DocumentNo);
+        if GLEntry.FindSet() then
+            repeat
+                GLEntry.Validate("External Document No.", NewExternalDocNo);
+                GLEntry.Modify();
+                GLEntryCount += 1;
+            until GLEntry.Next() = 0;
+
+        LegalLedgerEntry.Reset();
+        LegalLedgerEntry.SetRange("Sub Type", 'CCF-C');
+        LegalLedgerEntry.SetRange("No.", DocumentNo);
+        if LegalLedgerEntry.FindSet() then
+            repeat
+                LegalLedgerEntry.Validate("External Document No.", NewExternalDocNo);
+                LegalLedgerEntry.Modify();
+                LegalLedgerCount += 1;
+            until LegalLedgerEntry.Next() = 0;
+
+        Message(
+            'Tablas relacionadas actualizadas para Factura Compra %1 con External Document No.=%2. Vendor Ledger Entry=%3, G/L Entry=%4, Legal Ledger Entry=%5.',
+            DocumentNo,
+            NewExternalDocNo,
+            VendorLedgerCount,
             GLEntryCount,
             LegalLedgerCount);
     end;
@@ -1116,6 +1314,26 @@ page 50119 "FSN Correction DTE"
         exit(LastPosition);
     end;
 
+    local procedure ValidateFieldByName(var RecordVariant: Variant; FieldName: Text; NewValue: Text): Boolean
+    var
+        RecordRef: RecordRef;
+        FieldRef: FieldRef;
+        FieldIndex: Integer;
+    begin
+        RecordRef.GetTable(RecordVariant);
+
+        for FieldIndex := 1 to RecordRef.FieldCount do begin
+            FieldRef := RecordRef.FieldIndex(FieldIndex);
+            if FieldRef.Name = FieldName then begin
+                FieldRef.Validate(NewValue);
+                RecordRef.SetTable(RecordVariant);
+                exit(true);
+            end;
+        end;
+
+        exit(false);
+    end;
+
     procedure ValidateDuplicDTE(): Boolean
     var
         SalesInvHeader: Record "Sales Invoice Header";
@@ -1124,6 +1342,6 @@ page 50119 "FSN Correction DTE"
         PurchCrMemoHdr: Record "Purch. Cr. Memo Hdr.";
         SalesCrMemoHeader: Record "Sales Cr.Memo Header";
     begin
-        
+
     end;
 }
