@@ -255,7 +255,6 @@ page 50119 "FSN Correction DTE"
         DTEAuthChanged: Boolean;
         SigValChanged: Boolean;
         NewVendorInvoiceNo: Code[35];
-        PurchRcptCount: Integer;
     begin
         if PurchInvHeader.Get(Rec."Menu ID") then begin
             if ValPurchaseInvoice() then
@@ -291,36 +290,69 @@ page 50119 "FSN Correction DTE"
 
             PurchInvHeader.Modify();
 
-            if PurchInvHeader."Order No." <> '' then begin
-                PurchRecHeader.Reset();
-                PurchRecHeader.SetRange("Order No.", PurchInvHeader."Order No.");
-                if PurchRecHeader.FindSet() then
-                    repeat
-                        if DTEInvoiceChanged then begin
-                            PurchRecHeader.Validate("DTE Invoice", Rec."Set Current-Input");
-                            PurchRecHeaderVariant := PurchRecHeader;
-                            if not ValidateFieldByName(PurchRecHeaderVariant, 'FSN Vendor Invoice No.', NewVendorInvoiceNo) then
-                                Error('No se encontró el campo FSN Vendor Invoice No. en la recepción de compra %1.', PurchRecHeader."No.");
-                            PurchRecHeader := PurchRecHeaderVariant;
-                        end;
-                        if DTEAuthChanged then
-                            PurchRecHeader.Validate("DTE AuthNumber", Rec."Current-Description");
-                        if SigValChanged then
-                            PurchRecHeader.Validate("Signature Validation", Rec."Current-Description2");
-                        PurchRecHeader.Modify();
-                        PurchRcptCount += 1;
-                    until PurchRecHeader.Next() = 0
-                else
-                    Message('No se encontro historico de recepcion de compra para el pedido %1 de la factura %2.', PurchInvHeader."Order No.", PurchInvHeader."No.");
+            if FindPurchaseReceiptForInvoice(PurchInvHeader."No.", PurchRecHeader) then begin
+                if DTEInvoiceChanged then begin
+                    PurchRecHeader.Validate("DTE Invoice", Rec."Set Current-Input");
+                    PurchRecHeaderVariant := PurchRecHeader;
+                    if not ValidateFieldByName(PurchRecHeaderVariant, 'FSN Vendor Invoice No.', NewVendorInvoiceNo) then
+                        Error('No se encontro el campo FSN Vendor Invoice No. en la recepcion de compra %1.', PurchRecHeader."No.");
+                    PurchRecHeader := PurchRecHeaderVariant;
+                end;
+                if DTEAuthChanged then
+                    PurchRecHeader.Validate("DTE AuthNumber", Rec."Current-Description");
+                if SigValChanged then
+                    PurchRecHeader.Validate("Signature Validation", Rec."Current-Description2");
+                PurchRecHeader.Modify();
 
-                if PurchRcptCount > 0 then
-                    Message('Historico recepcion compra actualizado. Pedido=%1, recepciones actualizadas=%2.', PurchInvHeader."Order No.", PurchRcptCount);
+                Message(
+                    'Historico recepcion compra actualizado. Factura=%1, recepcion=%2.',
+                    PurchInvHeader."No.",
+                    PurchRecHeader."No.");
             end else
-                Message('No se busco historico de recepcion porque la factura %1 no tiene Order No.', PurchInvHeader."No.");
+                Error('No se encontro una recepcion de compra relacionada por lineas para la factura %1.', PurchInvHeader."No.");
 
             Message('DTE de Factura de Compra actualizado correctamente.');
         end else
             Error('No se encontro la Factura de Compra con No. %1', Rec."Menu ID");
+    end;
+
+    local procedure FindPurchaseReceiptForInvoice(InvoiceNo: Code[20]; var PurchRecHeader: Record "Purch. Rcpt. Header"): Boolean
+    var
+        PurchInvLine: Record "Purch. Inv. Line";
+        PurchRcptLine: Record "Purch. Rcpt. Line";
+        TempPurchRcptHeader: Record "Purch. Rcpt. Header" temporary;
+    begin
+        PurchInvLine.Reset();
+        PurchInvLine.SetRange("Document No.", InvoiceNo);
+        PurchInvLine.SetFilter(Quantity, '<>%1', 0);
+
+        if PurchInvLine.FindSet() then
+            repeat
+                PurchRcptLine.Reset();
+                PurchRcptLine.SetRange("Order No.", PurchInvLine."Order No.");
+                PurchRcptLine.SetRange("No.", PurchInvLine."No.");
+                PurchRcptLine.SetRange(Quantity, PurchInvLine.Quantity);
+
+                if PurchRcptLine.FindSet() then
+                    repeat
+                        if not TempPurchRcptHeader.Get(PurchRcptLine."Document No.") then begin
+                            TempPurchRcptHeader.Init();
+                            TempPurchRcptHeader."No." := PurchRcptLine."Document No.";
+                            TempPurchRcptHeader.Insert();
+                        end;
+                    until PurchRcptLine.Next() = 0;
+            until PurchInvLine.Next() = 0;
+
+        if TempPurchRcptHeader.Count() > 1 then
+            Error(
+                'Se encontraron %1 recepciones de compra relacionadas por lineas para la factura %2. Se esperaba solamente una.',
+                TempPurchRcptHeader.Count(),
+                InvoiceNo);
+
+        if not TempPurchRcptHeader.FindFirst() then
+            exit(false);
+
+        exit(PurchRecHeader.Get(TempPurchRcptHeader."No."));
     end;
 
     local procedure ValPurchaseInvoice(): Boolean
