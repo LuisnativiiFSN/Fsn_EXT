@@ -983,6 +983,41 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page FSN Reservado - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 4171652777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FSN Sales Journal SOAP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Sales Journal SOAP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4171652777 - NamedType 207127912" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La plantilla %1 es de tipo %2. El servicio solo admite plantillas de tipo Ventas.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Sales Journal SOAP - NamedType InvalidTemplateTypeErr</note>
+        </trans-unit>
+        <trans-unit id="Page 4171652777 - NamedType 3832473495" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe especificar CurrentJnlBatchName para crear la linea del diario de ventas.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Sales Journal SOAP - NamedType MissingBatchErr</note>
+        </trans-unit>
+        <trans-unit id="Page 4171652777 - NamedType 1342401987" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debe especificar CurrentJnlTemplateName para crear la linea del diario de ventas.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Sales Journal SOAP - NamedType MissingTemplateErr</note>
+        </trans-unit>
+        <trans-unit id="Page 4171652777 - NamedType 1431810944" size-unit="char" translate="yes" xml:space="preserve">
+          <source>La plantilla %1 es periodica y no se puede usar con este servicio SOAP.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Sales Journal SOAP - NamedType RecurringTemplateErr</note>
+        </trans-unit>
+        <trans-unit id="Page 4171652777 - Control 874212758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Sales Journal SOAP - Control CurrentJnlBatchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4171652777 - Control 716077266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FSN Sales Journal SOAP - Control CurrentJnlTemplateName - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Report 2387974833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>FSN Valorar stock - movs. producto</source>
           <note from="Developer" annotates="general" priority="2"></note>
