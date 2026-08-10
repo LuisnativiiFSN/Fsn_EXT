@@ -12,5 +12,5 @@
 | Object Subtype | Normal |
 | Extending | LSC Store Card |
 | Object ID | 50044 |
-| Accessibility Level | Public | 
+| Accessibility Level | Public |
 
